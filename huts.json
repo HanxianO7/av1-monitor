@@ -1,0 +1,194 @@
+{
+ "trip": {
+  "guests": 2,
+  "room": "dorm / bunk beds only",
+  "board": "half board",
+  "stop_after": "2027-06-30"
+ },
+ "control_nights": [
+  "2027-06-09",
+  "2027-07-14",
+  "2027-08-04",
+  "2027-09-08"
+ ],
+ "alerts": {
+  "portal_live": false,
+  "page_changes": false,
+  "remind_hours": 24,
+  "error_after_runs": 3
+ },
+ "huts": [
+  {
+   "id": "biella",
+   "name": "Biella",
+   "night": "2027-06-23",
+   "role": "preferred",
+   "check": "page",
+   "pages": [
+    "https://rifugiobiella.it/",
+    "https://www.planyo.com/booking.php?calendar=67368&mode=resource_list&planyo_lang=EN"
+   ],
+   "book_url": "https://www.planyo.com/booking/Rifugio-Biella"
+  },
+  {
+   "id": "sennes",
+   "name": "Sennes",
+   "night": "2027-06-23",
+   "role": "backup",
+   "check": "page",
+   "pages": [
+    "https://www.sennes.com/en/",
+    "https://www.sennes.com/en/contact/"
+   ],
+   "book_url": "https://www.sennes.com/en/contact/"
+  },
+  {
+   "id": "fanes",
+   "name": "Fanes",
+   "night": "2027-06-24",
+   "role": "preferred",
+   "check": "page",
+   "pages": [
+    "https://www.rifugiofanes.com/en/booking",
+    "https://www.rifugiofanes.com/en/rates-request/request-reservation"
+   ],
+   "book_url": "https://www.rifugiofanes.com/en/rates-request/request-reservation"
+  },
+  {
+   "id": "lavarella",
+   "name": "Lavarella",
+   "night": "2027-06-24",
+   "role": "backup",
+   "check": "page",
+   "pages": [
+    "https://lavarella.it/",
+    "https://lavarella.it/en/book-online"
+   ],
+   "book_url": "https://lavarella.it/en/book-online"
+  },
+  {
+   "id": "lagazuoi",
+   "name": "Lagazuoi",
+   "night": "2027-06-25",
+   "role": "preferred",
+   "check": "engine",
+   "endpoints": [
+    "https://rifugiolagazuoi.com/EN/prenotazione1.php"
+   ],
+   "book_url": "https://rifugiolagazuoi.com/index_en.php"
+  },
+  {
+   "id": "scotoni",
+   "name": "Scotoni",
+   "night": "2027-06-25",
+   "role": "backup",
+   "check": "bukly",
+   "base": "https://scotoni.bukly.com/it/hotel",
+   "book_url": "https://scotoni.bukly.com/it"
+  },
+  {
+   "id": "dibona",
+   "name": "Dibona",
+   "night": "2027-06-25",
+   "role": "backup",
+   "check": "page",
+   "pages": [
+    "https://www.rifugiodibona.app/en"
+   ],
+   "book_url": "https://www.rifugiodibona.app/en"
+  },
+  {
+   "id": "nuvolau",
+   "name": "Nuvolau",
+   "night": "2027-06-26",
+   "role": "preferred",
+   "check": "page",
+   "pages": [
+    "https://rifugionuvolau.it/",
+    "https://rifugionuvolau.it/en/booking/",
+    "https://rifugionuvolau.it/en/booking-form/"
+   ],
+   "book_url": "https://rifugionuvolau.it/en/booking-form/"
+  },
+  {
+   "id": "fiume",
+   "name": "Città di Fiume",
+   "night": "2027-06-26",
+   "role": "backup",
+   "check": "page",
+   "pages": [
+    "https://rifugiocittadifiume.it/prenota/",
+    "https://rifugiocittadifiume.it/pernotto/"
+   ],
+   "book_url": "https://rifugiocittadifiume.it/prenota/"
+  },
+  {
+   "id": "coldai",
+   "name": "Sonino al Coldai",
+   "night": "2027-06-27",
+   "role": "preferred",
+   "check": "engine",
+   "endpoints": [
+    "https://rifugiocoldai.com/Booking/EN/prenotazione1.php"
+   ],
+   "book_url": "https://rifugiocoldai.com/Booking/index_en.php"
+  },
+  {
+   "id": "vazzoler",
+   "name": "Vazzoler",
+   "night": "2027-06-28",
+   "role": "preferred",
+   "check": "engine",
+   "endpoints": [
+    "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php"
+   ],
+   "book_url": "https://rifugiovazzoler.com/Booking/index.php"
+  },
+  {
+   "id": "carestiato",
+   "name": "Carestiato",
+   "night": "2027-06-29",
+   "role": "preferred",
+   "check": "engine",
+   "endpoints": [
+    "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php"
+   ],
+   "book_url": "https://www.rifugiocarestiato.com/Booking/index_en.php"
+  },
+  {
+   "id": "passoduran",
+   "name": "Passo Duran",
+   "night": "2027-06-29",
+   "role": "backup",
+   "check": "engine",
+   "endpoints": [
+    "https://rifugiopassoduran.it/booking/EN/prenotazione1.php",
+    "https://www.rifugiopassoduran.it/booking/EN/prenotazione1.php"
+   ],
+   "book_url": "https://rifugiopassoduran.it/booking/index_en.php"
+  },
+  {
+   "id": "pramperet",
+   "name": "Pramperet",
+   "night": "2027-06-30",
+   "role": "preferred",
+   "check": "page",
+   "pages": [
+    "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
+    "https://www.rifugiosommarivaalpramperet.it/rifugio.asp"
+   ],
+   "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925"
+  },
+  {
+   "id": "piandefontana",
+   "name": "Pian de Fontana",
+   "night": "2027-06-30",
+   "role": "backup",
+   "check": "page",
+   "pages": [
+    "https://www.prenotarifugi.cai.it/dettaglio/?id=5942"
+   ],
+   "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942"
+  }
+ ]
+}
