@@ -84,7 +84,8 @@
    "role": "backup",
    "check": "bukly",
    "base": "https://scotoni.bukly.com/it/hotel",
-   "book_url": "https://scotoni.bukly.com/it"
+   "book_url": "https://scotoni.bukly.com/it",
+   "stated": "Summer bookings open November 2026 (per Scotoni's reply)"
   },
   {
    "id": "dibona",
