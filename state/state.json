@@ -11,13 +11,16 @@
    "Sono aperte le prenotazioni online Prenota POLICY DI CANCELLAZIONE: la caparra del 50% versata a garanzia della prenotazione non potrà essere rimborsata."
   ],
   "fingerprint": "dc7507155ba3",
+  "via": [
+   "direct"
+  ],
   "added": [],
   "removed": [],
   "status": "WATCHING PAGE",
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiobiella.it/",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -26,13 +29,16 @@
   "link": "https://www.sennes.com/en/contact/",
   "sentences": [],
   "fingerprint": "da39a3ee5e6b",
+  "via": [
+   "direct"
+  ],
   "added": [],
   "removed": [],
   "status": "WATCHING PAGE",
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.sennes.com/en/",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -46,13 +52,16 @@
    "Your requests Request Reservation Arrival Departure Meals Half Board Nr."
   ],
   "fingerprint": "92911de12c58",
+  "via": [
+   "direct"
+  ],
   "added": [],
   "removed": [],
   "status": "WATCHING PAGE",
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiofanes.com/en/booking",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -61,13 +70,16 @@
   "link": "https://lavarella.it/en/book-online",
   "sentences": [],
   "fingerprint": "da39a3ee5e6b",
+  "via": [
+   "direct"
+  ],
   "added": [],
   "removed": [],
   "status": "WATCHING PAGE",
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://lavarella.it/",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -78,7 +90,7 @@
   "status": "LIVE - your night full",
   "detail": "portal live (control 2027-06-09 has space)",
   "probe_url": "https://rifugiolagazuoi.com/EN/prenotazione1.php",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -88,7 +100,7 @@
   "detail": "2027 calendar blank",
   "link": "https://scotoni.bukly.com/it",
   "probe_url": "https://scotoni.bukly.com/it/hotel/2027-06-25/2027-06-26/",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -99,27 +111,48 @@
    "Booking - Rifugio A."
   ],
   "fingerprint": "9fa2aec500d6",
+  "via": [
+   "direct"
+  ],
   "added": [],
   "removed": [],
   "status": "WATCHING PAGE",
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiodibona.app/en",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
  },
  "nuvolau": {
-  "status": "ERROR",
-  "detail": "https://rifugionuvolau.it/: HTTPError; https://rifugionuvolau.it/en/booking/: HTTPError; https://rifugionuvolau.it/en/booking-form/: HTTPError",
   "link": "https://rifugionuvolau.it/en/booking-form/",
+  "sentences": [
+   "Apertura prevista dal 20 giugno al 20 settembre 2027 Prenotazioni 2027 : a partire da gennaio 2027 sul sito web Vie di Accesso Come raggiungerci?",
+   "Apertura stagionale solo estiva.",
+   "Booking - Rifugio Nuvolau The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules and conditions FAQ More How to reach us FAQ Webcam Weather Contact Us EN DE IT ES The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules and ",
+   "Booking Form - Rifugio Nuvolau The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules and conditions FAQ More How to reach us FAQ Webcam Weather Contact Us EN DE IT ES The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules",
+   "Booking conditions",
+   "Condizioni di prenotazione",
+   "Overnight stay options Bed only Bed&breakfast Half board: dinner, bed and breakfast Dinner is served at 7 PM, breakfast is available between 7 AM and 8 AM Vegetarian options available Vegan options not available When booking you can select the bed(s) and the preferred stay option The Rifugio reserve",
+   "Planning to open from June 20 th to September 20 th 2027 2027 reservations : possible starting January 2027 on our website Rifugio Nuvolau features Rifugio Nuvolau is a simple traditional hut reachable only on foot Rustic dorms Shared toilets , no showers Single or bunk beds only, in shared dorms Pi",
+   "Rules and coditions No pets allowed Group bookings: maximum 8 people at standard price Due to logistic reasons, we don’t accept bookings made by agencies .",
+   "le camerate Tariffe Listino prezzi per la prossima stagione: scopri le condizioni di soggiorno nel cuore delle Dolomiti."
+  ],
+  "fingerprint": "ca04331dfa56",
+  "via": [
+   "browser-mode"
+  ],
+  "added": [],
+  "removed": [],
+  "status": "WATCHING PAGE",
+  "detail": "no booking-text change (via browser-mode)",
+  "changed": false,
   "probe_url": "https://rifugionuvolau.it/",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
-  "since": "2026-09-29T17:13:31.266748+00:00",
-  "errors": 2,
-  "alerted": null,
-  "last_good": null
+  "checked": "2026-09-30T01:12:38.354077+00:00",
+  "since": "2026-09-30T01:12:38.354077+00:00",
+  "errors": 0,
+  "alerted": null
  },
  "fiume": {
   "link": "https://rifugiocittadifiume.it/prenota/",
@@ -139,13 +172,16 @@
    "The reservation is to be considered confirmed only after the payment of the deposit of €35 per person."
   ],
   "fingerprint": "4b03fc23dbb2",
+  "via": [
+   "direct"
+  ],
   "added": [],
   "removed": [],
   "status": "WATCHING PAGE",
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiocittadifiume.it/prenota/",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -156,7 +192,7 @@
   "status": "NOT LIVE YET",
   "detail": "no space on trip or control nights",
   "probe_url": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -167,7 +203,7 @@
   "status": "NOT LIVE YET",
   "detail": "no space on trip or control nights",
   "probe_url": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -178,7 +214,7 @@
   "status": "NOT LIVE YET",
   "detail": "no space on trip or control nights",
   "probe_url": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -189,7 +225,7 @@
   "status": "NOT LIVE YET",
   "detail": "no space on trip or control nights",
   "probe_url": "https://rifugiopassoduran.it/booking/EN/prenotazione1.php",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -204,13 +240,16 @@
    "Scrivi a: assistenza.gestori@cai.it (Per info su disponibilità o modifiche e cancellazioni alle prenotazioni, leggi le FAQ o contatta il rifugio all’indirizzo email che trovi nella sua scheda) Via Petrella 19 20124 Milano Tel."
   ],
   "fingerprint": "5f385aa67c2c",
+  "via": [
+   "direct"
+  ],
   "added": [],
   "removed": [],
   "status": "WATCHING PAGE",
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -223,13 +262,16 @@
    "Scrivi a: assistenza.gestori@cai.it (Per info su disponibilità o modifiche e cancellazioni alle prenotazioni, leggi le FAQ o contatta il rifugio all’indirizzo email che trovi nella sua scheda) Via Petrella 19 20124 Milano Tel."
   ],
   "fingerprint": "625785d9c780",
+  "via": [
+   "direct"
+  ],
   "added": [],
   "removed": [],
   "status": "WATCHING PAGE",
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-  "checked": "2026-09-29T23:41:57.099195+00:00",
+  "checked": "2026-09-30T01:12:38.354077+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null

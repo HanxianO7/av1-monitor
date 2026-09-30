@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **30 Sep 2026 07:41 Kuala Lumpur** · 01:41 Italy
+Last check: **30 Sep 2026 09:12 Kuala Lumpur** · 03:12 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -13,7 +13,7 @@ Trip: 2 guests · dorm only · half board
 | 25 Jun | [Lagazuoi](https://rifugiolagazuoi.com/index_en.php) | preferred | **LIVE - your night full** | portal live (control 2027-06-09 has space) |
 | 25 Jun | [Scotoni](https://scotoni.bukly.com/it) | backup | **NOT LIVE YET** | 2027 calendar blank |
 | 25 Jun | [Dibona](https://www.rifugiodibona.app/en) | backup | **WATCHING PAGE** | no booking-text change |
-| 26 Jun | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | **ERROR** | https://rifugionuvolau.it/: HTTPError; https://rifugionuvolau.it/en/booking/: HTTPError; https://rifugionuvolau.it/en/booking-form/: HTTPErr |
+| 26 Jun | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | **WATCHING PAGE** | no booking-text change (via browser-mode) |
 | 26 Jun | [Città di Fiume](https://rifugiocittadifiume.it/prenota/) | backup | **WATCHING PAGE** | no booking-text change |
 | 27 Jun | [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on trip or control nights |
 | 28 Jun | [Vazzoler](https://rifugiovazzoler.com/Booking/index.php) | preferred | **NOT LIVE YET** | no space on trip or control nights |
