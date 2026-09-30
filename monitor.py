@@ -242,17 +242,46 @@ def page_sentences(html):
     return sorted(out)
 
 
+def fetch_page(url):
+    """GET a page. If a site blocks GitHub's servers (e.g. Cloudflare), retry
+    with a browser-like TLS fingerprint, then via the r.jina.ai reader proxy."""
+    errs = []
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+        if r.status_code < 400:
+            return r.text, "direct"
+        errs.append(f"HTTP {r.status_code}")
+    except Exception as e:  # noqa: BLE001
+        errs.append(type(e).__name__)
+    try:
+        from curl_cffi import requests as creq
+        r = creq.get(url, impersonate="chrome", timeout=TIMEOUT)
+        if r.status_code < 400:
+            return r.text, "browser-mode"
+        errs.append(f"browser-mode HTTP {r.status_code}")
+    except Exception as e:  # noqa: BLE001
+        errs.append(f"browser-mode {type(e).__name__}")
+    try:
+        r = requests.get("https://r.jina.ai/" + url, timeout=45)
+        if r.status_code < 400 and len(r.text) > 200:
+            return r.text, "reader-proxy"
+        errs.append(f"proxy HTTP {r.status_code}")
+    except Exception as e:  # noqa: BLE001
+        errs.append(f"proxy {type(e).__name__}")
+    raise RuntimeError(", ".join(errs))
+
+
 def check_page(hut, prev):
     if not hut.get("pages"):
         return {"status": NO_URL, "detail": hut.get("todo", "add a URL in huts.json"), "link": ""}
-    sents, errors = set(), []
+    sents, errors, vias = set(), [], set()
     for url in hut["pages"]:
         try:
-            r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-            r.raise_for_status()
-            sents.update(page_sentences(r.text))
+            html, via = fetch_page(url)
+            sents.update(page_sentences(html))
+            vias.add(via)
         except Exception as e:  # noqa: BLE001
-            errors.append(f"{url}: {type(e).__name__}")
+            errors.append(f"{url.split('//')[-1][:40]}: {e}")
         time.sleep(PAUSE)
     if errors and not sents:
         return {"status": ERROR, "detail": "; ".join(errors)[:200], "link": hut["pages"][0]}
@@ -261,14 +290,15 @@ def check_page(hut, prev):
     added = sorted(sents - old) if old else []
     removed = sorted(old - sents) if old else []
     opens = [s for s in sents if "2027" in s and OPEN_RE.search(s) and not NEG_RE.search(s)]
-    out = {"link": hut["pages"][0], "sentences": sorted(sents), "fingerprint": fp,
+    out = {"link": hut["pages"][0], "sentences": sorted(sents), "fingerprint": fp, "via": sorted(vias),
            "added": added[:5], "removed": removed[:5]}
     if opens:
         return {**out, "status": PAGE_OPEN, "detail": opens[0][:200]}
     changed = bool(added or removed)
     return {**out, "status": WATCHING,
             "detail": ("page text changed: " + (added[0] if added else "text removed"))[:200]
-            if changed else "no booking-text change", "changed": changed}
+            if changed else "no booking-text change" + ("" if vias == {"direct"} else f" (via {', '.join(sorted(vias))})"),
+            "changed": changed}
 
 
 CHECKS = {"engine": check_engine, "bukly": check_bukly, "page": check_page}
