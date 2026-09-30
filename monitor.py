@@ -359,6 +359,24 @@ def write_status(results, state, ts):
     STATUS_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def send_reminders(state, ts):
+    """One-off dated Telegram reminders from reminders.json (sent once, first run after 'at')."""
+    path = ROOT / "reminders.json"
+    done = list(state.get("_reminders", []))
+    if not path.exists():
+        return done
+    cfg = json.loads(path.read_text(encoding="utf-8"))
+    tz = ZoneInfo(cfg.get("timezone", "Asia/Kuala_Lumpur"))
+    for r in cfg.get("reminders", []):
+        if r["id"] in done:
+            continue
+        due = dt.datetime.fromisoformat(r["at"]).replace(tzinfo=tz)
+        if ts >= due and telegram(r["text"]):
+            done.append(r["id"])
+            print("Reminder sent:", r["id"])
+    return done
+
+
 def main():
     if "--test-alert" in sys.argv:
         ok = telegram("✅ Alta Via 1 monitor: test alert. Telegram is set up correctly.")
@@ -371,6 +389,7 @@ def main():
         return
 
     state = load_state()
+    reminders_done = send_reminders(state, ts)
     results, sent = {}, []
     for hut in CFG["huts"]:
         prev = state.get(hut["id"], {})
@@ -413,7 +432,8 @@ def main():
         print(f"{hut['night']}  {hut['name']:<18} {status:<24} {str(res.get('detail',''))[:80]}")
 
     STATE_PATH.parent.mkdir(exist_ok=True)
-    STATE_PATH.write_text(json.dumps(results, indent=1, ensure_ascii=False), encoding="utf-8")
+    STATE_PATH.write_text(json.dumps({**results, "_reminders": reminders_done},
+                                     indent=1, ensure_ascii=False), encoding="utf-8")
     with HISTORY_PATH.open("a", encoding="utf-8") as f:
         f.write(json.dumps({"time": ts.isoformat(), "alerts": sent,
                             "status": {k: v["status"] for k, v in results.items()}}) + "\n")
