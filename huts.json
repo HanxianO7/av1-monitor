@@ -40,7 +40,8 @@
     "https://www.sennes.com/en/",
     "https://www.sennes.com/en/contact/"
    ],
-   "book_url": "https://www.sennes.com/en/contact/"
+   "book_url": "https://www.sennes.com/en/contact/",
+   "stated": "Summer bookings open 4 Nov 2026, possibly earlier (per Sennes' reply)"
   },
   {
    "id": "fanes",
@@ -64,7 +65,8 @@
     "https://lavarella.it/",
     "https://lavarella.it/en/book-online"
    ],
-   "book_url": "https://lavarella.it/en/book-online"
+   "book_url": "https://lavarella.it/en/book-online",
+   "stated": "Summer bookings open early November 2026 (per Lavarella's reply)"
   },
   {
    "id": "lagazuoi",
