@@ -181,7 +181,12 @@
     "https://rifugiopassoduran.it/booking/EN/prenotazione1.php",
     "https://www.rifugiopassoduran.it/booking/EN/prenotazione1.php"
    ],
-   "book_url": "https://rifugiopassoduran.it/booking/index_en.php"
+   "book_url": "https://rifugiopassoduran.it/booking/index_en.php",
+   "debug_urls": [
+    "https://rifugiopassoduran.it/booking/index_en.php",
+    "https://rifugiopassoduran.it/booking/index_en.php?prm=10&chm=8",
+    "https://rifugiopassoduran.it/booking/index_en.php?prm=10&chm=9"
+   ]
   },
   {
    "id": "pramperet",

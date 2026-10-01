@@ -109,14 +109,29 @@ def parse_engine(html):
     return {"kind": "rooms", "dorm": dorm, "private": private}
 
 
-def post_engine(session, url, night):
+DEBUG_DIR = ROOT / "state" / "debug"
+
+
+def save_debug(name, html):
+    """Keep a copy of a page the monitor can't read, so the parser can be fixed."""
+    try:
+        DEBUG_DIR.mkdir(parents=True, exist_ok=True)
+        (DEBUG_DIR / f"{name}.html").write_text(html, encoding="utf-8")
+    except Exception:  # noqa: BLE001
+        pass
+
+
+def post_engine(session, url, night, debug_name=None):
     arr = d(night) if isinstance(night, str) else night
     data = {"arrivo": ddmmyyyy(arr), "partenza": ddmmyyyy(arr + dt.timedelta(days=1)),
             "persone": str(GUESTS)}
     r = session.post(url, data=data, headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
     time.sleep(PAUSE)
-    return parse_engine(r.text)
+    res = parse_engine(r.text)
+    if res["kind"] == "unrecognized" and debug_name:
+        save_debug(debug_name, r.text)
+    return res
 
 
 def check_engine(hut, prev):
@@ -129,7 +144,8 @@ def check_engine(hut, prev):
     for url in endpoints:
         try:
             s.get(url, headers=HEADERS, timeout=TIMEOUT)  # pick up session cookie
-            res = post_engine(s, url, hut["night"])
+            res = post_engine(s, url, hut["night"],
+                              debug_name=f"{hut['id']}-post-{url.split('//')[-1].split('/')[0]}")
         except Exception as e:  # noqa: BLE001
             last_err = f"{type(e).__name__}: {e}"[:200]
             continue
@@ -404,6 +420,12 @@ def main():
 
     state = load_state()
     reminders_done = send_reminders(state, ts)
+    for hut in CFG["huts"]:
+        for i, u in enumerate(hut.get("debug_urls", [])):
+            try:
+                save_debug(f"{hut['id']}-page{i}", requests.get(u, headers=HEADERS, timeout=TIMEOUT).text)
+            except Exception as e:  # noqa: BLE001
+                save_debug(f"{hut['id']}-page{i}", f"ERROR {e}")
     results, sent = {}, []
     for hut in CFG["huts"]:
         prev = state.get(hut["id"], {})
