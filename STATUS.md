@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **01 Oct 2026 06:21 Kuala Lumpur** · 00:21 Italy
+Last check: **01 Oct 2026 10:09 Kuala Lumpur** · 04:09 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -15,6 +15,7 @@ Trip: 2 guests · dorm only · half board
 | 25 Jun | [Dibona](https://www.rifugiodibona.app/en) | backup | **WATCHING PAGE** | no booking-text change |
 | 26 Jun | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | **WATCHING PAGE** | no booking-text change (via browser-mode) |
 | 26 Jun | [Città di Fiume](https://rifugiocittadifiume.it/prenota/) | backup | **WATCHING PAGE** | no booking-text change |
+| 26 Jun | [Averau](https://www.rifugioaverau.it/en/) | backup | **LIVE - your night full** | calendar live (control 2027-07-15) |
 | 27 Jun | [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on trip or control nights |
 | 28 Jun | [Vazzoler](https://rifugiovazzoler.com/Booking/index.php) | preferred | **NOT LIVE YET** | no space on trip or control nights |
 | 29 Jun | [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on trip or control nights |
