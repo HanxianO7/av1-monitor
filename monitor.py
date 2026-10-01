@@ -38,7 +38,7 @@ HEADERS = {
     "Accept-Language": "en-GB,en;q=0.9,it;q=0.8",
 }
 TIMEOUT = 25
-PAUSE = 1.5  # seconds between requests - be polite to small hut servers
+PAUSE = 3  # seconds between requests - be polite to small hut servers
 
 # Status values
 AVAILABLE = "AVAILABLE"            # dorm beds for your group on your night
@@ -84,8 +84,13 @@ def fmt_night(s):
 
 
 # ---------------------------------------------------------------- engine huts
+BOTCHECK_RE = re.compile(r"sgcaptcha|One moment, please|captcha|cf-chl|Just a moment", re.I)
+
+
 def parse_engine(html):
-    """Return {'kind': 'none'|'rooms'|'unrecognized', 'dorm': n, 'private': n}."""
+    """Return {'kind': 'none'|'rooms'|'blocked'|'unrecognized', 'dorm': n, 'private': n}."""
+    if BOTCHECK_RE.search(html[:4000]):
+        return {"kind": "blocked", "dorm": 0, "private": 0}
     text = norm_text(html)
     if NO_ROOM_RE.search(text):
         return {"kind": "none", "dorm": 0, "private": 0}
@@ -135,6 +140,8 @@ def post_engine(session, url, night, debug_name=None):
 
 
 def check_engine(hut, prev):
+    """Light-touch check: 1 request for your night, plus at most 1 control night
+    (rotating), and none once the portal is known to be live."""
     s = requests.Session()
     endpoints = list(hut["endpoints"])
     if prev.get("endpoint") in endpoints:  # try last known-good first
@@ -142,13 +149,15 @@ def check_engine(hut, prev):
         endpoints.insert(0, prev["endpoint"])
     last_err = None
     for url in endpoints:
+        dbg = f"{hut['id']}-post-{url.split('//')[-1].split('/')[0]}"
         try:
-            s.get(url, headers=HEADERS, timeout=TIMEOUT)  # pick up session cookie
-            res = post_engine(s, url, hut["night"],
-                              debug_name=f"{hut['id']}-post-{url.split('//')[-1].split('/')[0]}")
+            res = post_engine(s, url, hut["night"], debug_name=dbg)
         except Exception as e:  # noqa: BLE001
             last_err = f"{type(e).__name__}: {e}"[:200]
             continue
+        if res["kind"] == "blocked":
+            return {"status": ERROR, "detail": "site showed a bot check (\"One moment, please\") - will retry",
+                    "link": url, "blocked": True}
         if res["kind"] == "unrecognized":
             last_err = "page not recognised (layout changed?)"
             continue
@@ -156,21 +165,24 @@ def check_engine(hut, prev):
         if res["dorm"] >= GUESTS:
             return {**out, "status": AVAILABLE,
                     "detail": f"{res['dorm']} dorm beds shown for your night"}
-        # Night looks empty or only private/insufficient - validate with control nights
         note = ""
         if res["private"]:
             note = " (private rooms only)"
         elif res["kind"] == "rooms" and res["dorm"]:
             note = f" (only {res['dorm']} dorm bed)"
-        for c in CFG["control_nights"]:
-            try:
-                cr = post_engine(s, url, c)
-            except Exception:  # noqa: BLE001
-                continue
-            if cr["kind"] == "rooms" and (cr["dorm"] or cr["private"]):
-                return {**out, "status": LIVE_FULL,
-                        "detail": f"portal live (control {c} has space){note}"}
-        return {**out, "status": NOT_LIVE, "detail": "no space on trip or control nights" + note}
+        if prev.get("status") == LIVE_FULL:  # a live portal doesn't go back - skip controls
+            return {**out, "status": LIVE_FULL, "detail": "portal live, your night full" + note}
+        controls = CFG["control_nights"]
+        c = controls[now_utc().hour % len(controls)]
+        try:
+            cr = post_engine(s, url, c)
+        except Exception:  # noqa: BLE001
+            cr = {"kind": "error"}
+        if cr["kind"] == "rooms" and (cr["dorm"] or cr["private"]):
+            return {**out, "status": LIVE_FULL, "detail": f"portal live (control {c} has space){note}"}
+        if prev.get("status") == NOT_LIVE or cr["kind"] == "none":
+            return {**out, "status": NOT_LIVE, "detail": f"no space on your night or control {c}{note}"}
+        return {**out, "status": prev.get("status") or NOT_LIVE, "detail": f"control {c} unreadable{note}"}
     return {"status": ERROR, "detail": last_err or "all endpoints failed", "link": hut["endpoints"][0]}
 
 
@@ -467,7 +479,9 @@ def main():
             send = f"📝 <b>{esc(hut['name'])}</b> booking text changed:\n{esc(res['detail'])}\n{esc(res['link'])}"
         elif status == ERROR and res["errors"] == ALERTS["error_after_runs"]:
             send = (f"⚠️ <b>{esc(hut['name'])}</b> check has failed {res['errors']} runs in a row.\n"
-                    f"{esc(res['detail'])}\nThe monitor may need fixing for this hut.")
+                    f"{esc(res['detail'])}\n"
+                    + ("The site is blocking automated checks - check it by hand for now."
+                       if res.get("blocked") else "The monitor may need fixing for this hut."))
         if send and telegram(send):
             res["alerted"] = ts.isoformat()
             sent.append(hut["id"])
