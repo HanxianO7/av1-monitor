@@ -331,7 +331,15 @@ def check_page(hut, prev):
             "changed": changed}
 
 
-CHECKS = {"engine": check_engine, "bukly": check_bukly, "page": check_page}
+MANUAL = "CHECK MANUALLY"
+
+
+def check_manual(hut, prev):
+    return {"status": MANUAL, "detail": hut.get("manual_note", "site can't be checked automatically"),
+            "link": hut.get("book_url", "")}
+
+
+CHECKS = {"engine": check_engine, "bukly": check_bukly, "page": check_page, "manual": check_manual}
 
 
 # ---------------------------------------------------------------- telegram

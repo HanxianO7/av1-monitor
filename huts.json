@@ -176,17 +176,13 @@
    "name": "Passo Duran",
    "night": "2027-06-29",
    "role": "backup",
-   "check": "engine",
+   "check": "manual",
    "endpoints": [
     "https://rifugiopassoduran.it/booking/EN/prenotazione1.php",
     "https://www.rifugiopassoduran.it/booking/EN/prenotazione1.php"
    ],
    "book_url": "https://rifugiopassoduran.it/booking/index_en.php",
-   "debug_urls": [
-    "https://rifugiopassoduran.it/booking/index_en.php",
-    "https://rifugiopassoduran.it/booking/index_en.php?prm=10&chm=8",
-    "https://rifugiopassoduran.it/booking/index_en.php?prm=10&chm=9"
-   ]
+   "manual_note": "Site shows a CAPTCHA to automated checks - check the calendar by hand"
   },
   {
    "id": "pramperet",
