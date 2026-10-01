@@ -197,22 +197,36 @@ def bukly_get(hut, night):
 
 
 def check_bukly(hut, prev):
-    try:
-        url, on_day, any_open, names = bukly_get(hut, hut["night"])
+    bases = list(hut.get("bases") or [hut["base"]])
+    if prev.get("base") in bases:  # try last known-good address first
+        bases.remove(prev["base"])
+        bases.insert(0, prev["base"])
+    last = "no address worked"
+    for base in bases:
+        h = {**hut, "base": base}
+        try:
+            url, on_day, any_open, names = bukly_get(h, hut["night"])
+        except Exception as e:  # noqa: BLE001
+            last = f"{base.split('//')[-1].split('/')[0]}: {type(e).__name__}"
+            continue
         if on_day is None:
-            return {"status": ERROR, "detail": "calendar page not recognised", "link": url}
+            last = f"{base.split('//')[-1].split('/')[0]}: calendar page not recognised"
+            continue
+        out = {"link": url, "base": base}
         if on_day:
             dorm = "dorm-type room listed" if DORM_RE.search(names) else "check if any are dorm"
-            return {"status": ROOMS, "detail": f"{on_day} room type(s) open: {dorm}. {names}".strip(), "link": url}
+            return {**out, "status": ROOMS, "detail": f"{on_day} room type(s) open: {dorm}. {names}".strip()}
         if any_open:
-            return {"status": LIVE_FULL, "detail": "2027 calendar live, your night closed", "link": url}
+            return {**out, "status": LIVE_FULL, "detail": "2027 calendar live, your night closed"}
         for c in ["2027-07-15", "2027-08-15", "2027-09-14"]:
-            _, _, ao, _ = bukly_get(hut, c)
+            try:
+                _, _, ao, _ = bukly_get(h, c)
+            except Exception:  # noqa: BLE001
+                continue
             if ao:
-                return {"status": LIVE_FULL, "detail": f"calendar live (control {c})", "link": url}
-        return {"status": NOT_LIVE, "detail": "2027 calendar blank", "link": url}
-    except Exception as e:  # noqa: BLE001
-        return {"status": ERROR, "detail": f"{type(e).__name__}: {e}"[:200], "link": hut["base"]}
+                return {**out, "status": LIVE_FULL, "detail": f"calendar live (control {c})"}
+        return {**out, "status": NOT_LIVE, "detail": "2027 calendar blank"}
+    return {"status": ERROR, "detail": last[:200], "link": bases[0]}
 
 
 # ---------------------------------------------------------------- page watch

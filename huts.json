@@ -126,6 +126,19 @@
    "book_url": "https://rifugiocittadifiume.it/prenota/"
   },
   {
+   "id": "averau",
+   "name": "Averau",
+   "night": "2027-06-26",
+   "role": "backup",
+   "check": "bukly",
+   "bases": [
+    "https://averau.bukly.com/it/hotel",
+    "https://rifugioaverau.bukly.com/it/hotel"
+   ],
+   "book_url": "https://www.rifugioaverau.it/en/",
+   "stated": "Uses Bukly (same system as Scotoni); exact booking address unconfirmed"
+  },
+  {
    "id": "coldai",
    "name": "Sonino al Coldai",
    "night": "2027-06-27",
