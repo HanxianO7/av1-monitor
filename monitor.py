@@ -284,6 +284,14 @@ def page_sentences(html):
     return sorted(out)
 
 
+def fetch_reader(url):
+    """Fetch a page's rendered text via the r.jina.ai reader proxy (runs JavaScript)."""
+    r = requests.get("https://r.jina.ai/" + url, timeout=45)
+    if r.status_code < 400 and len(r.text) > 200:
+        return r.text
+    raise RuntimeError(f"proxy HTTP {r.status_code}")
+
+
 def fetch_page(url):
     """GET a page. If a site blocks GitHub's servers (e.g. Cloudflare), retry
     with a browser-like TLS fingerprint, then via the r.jina.ai reader proxy."""
@@ -320,7 +328,15 @@ def check_page(hut, prev):
     for url in hut["pages"]:
         try:
             html, via = fetch_page(url)
-            sents.update(page_sentences(html))
+            found = page_sentences(html)
+            if not found and via != "reader-proxy":
+                # page loaded but has no booking text - likely JavaScript-rendered
+                time.sleep(PAUSE)
+                try:
+                    found, via = page_sentences(fetch_reader(url)), "reader-proxy"
+                except Exception:  # noqa: BLE001
+                    pass
+            sents.update(found)
             vias.add(via)
         except Exception as e:  # noqa: BLE001
             errors.append(f"{url.split('//')[-1][:40]}: {e}")
@@ -337,6 +353,9 @@ def check_page(hut, prev):
     if opens:
         return {**out, "status": PAGE_OPEN, "detail": opens[0][:200]}
     changed = bool(added or removed)
+    if not sents:
+        return {**out, "status": WATCHING, "changed": False,
+                "detail": "no booking text found on page - check it by hand"}
     return {**out, "status": WATCHING,
             "detail": ("page text changed: " + (added[0] if added else "text removed"))[:200]
             if changed else "no booking-text change" + ("" if vias == {"direct"} else f" (via {', '.join(sorted(vias))})"),
