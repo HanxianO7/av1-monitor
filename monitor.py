@@ -275,7 +275,11 @@ def page_sentences(html):
     sents = re.split(r"(?<=[.!?])\s+|\s{2,}|\s\|\s", text)
     out = set()
     for x in sents:
-        x = x.strip()[:300]
+        x = x.strip()
+        if not KEY_RE.search(x[:300]) and (k := KEY_RE.search(x)):
+            # keyword sits after a long menu - keep the text around it
+            x = x[max(0, k.start() - 100):k.start() + 200]
+        x = x[:300]
         if len(x) < 15 or not KEY_RE.search(x) or NOISE_RE.search(x):
             continue
         if len(re.findall(r"\d", x)) > len(x) * 0.4:  # calendar/number noise
