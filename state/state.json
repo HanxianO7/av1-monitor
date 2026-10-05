@@ -20,7 +20,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiobiella.it/",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -38,7 +38,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.sennes.com/en/",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -46,22 +46,26 @@
  "fanes": {
   "link": "https://www.rifugiofanes.com/en/rates-request/request-reservation",
   "sentences": [
-   "Book Booking 2060 m.",
    "Request information or make a reservation at Fanes Hut Tel.",
+   "See you on december 26th WE ARE OPEN Booking 2060 m.",
    "The data, including potentially sensitive data, you provide by filling out this form to request and make a reservation for a stay at our facility will be subject to processing on paper and electronically.",
    "Your requests Request Reservation Arrival Departure Meals Half Board Nr."
   ],
-  "fingerprint": "92911de12c58",
+  "fingerprint": "62477bebe32c",
   "via": [
    "direct"
   ],
-  "added": [],
-  "removed": [],
+  "added": [
+   "See you on december 26th WE ARE OPEN Booking 2060 m."
+  ],
+  "removed": [
+   "Book Booking 2060 m."
+  ],
   "status": "WATCHING PAGE",
-  "detail": "no booking-text change",
-  "changed": false,
+  "detail": "page text changed: See you on december 26th WE ARE OPEN Booking 2060 m.",
+  "changed": true,
   "probe_url": "https://www.rifugiofanes.com/en/booking",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -79,7 +83,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://lavarella.it/",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -90,7 +94,7 @@
   "status": "LIVE - your night full",
   "detail": "portal live, your night full",
   "probe_url": "https://rifugiolagazuoi.com/EN/prenotazione1.php",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-10-03T20:05:16.194214+00:00",
   "errors": 0,
   "alerted": null
@@ -101,7 +105,7 @@
   "status": "NOT LIVE YET",
   "detail": "2027 calendar blank",
   "probe_url": "https://scotoni.bukly.com/it/hotel/2027-06-25/2027-06-26/",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -121,7 +125,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiodibona.app/en",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -150,7 +154,7 @@
   "detail": "no booking-text change (via browser-mode)",
   "changed": false,
   "probe_url": "https://rifugionuvolau.it/",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-09-30T01:12:38.354077+00:00",
   "errors": 0,
   "alerted": null
@@ -158,31 +162,42 @@
  "fiume": {
   "link": "https://rifugiocittadifiume.it/prenota/",
   "sentences": [
-   "As per CAI regulations, the reservation is held valid until 6 p.m.",
+   "* As per CAI regulations, the reservation is held valid until 6 p.m.",
+   "* As per the CAI regulation, the reservation is kept valid until 18.00.",
+   "* Bookings are only confirmed after payment of the deposit of €30 per person.",
+   "* Buchungen werden erst nach Zahlung der Anzahlung von 30 € pro Person bestätigt.",
+   "* Buchungen werden erst nach Zahlung der Anzahlung von 35 € pro Person bestätigt.",
+   "* Come da regolamento CAI, la prenotazione viene mantenuta valida fino alle ore 18.00.",
+   "* La prenotazione è da ritenersi confermata solo dopo il versamento della caparra di €35 a persona.",
+   "* The reservation is to be considered confirmed only after the payment of the deposit of €35 per person.",
    "As per CAI regulations, the reservation will be held until 6:00 pm.",
+   "La prenotazione è da ritenersi confermata solo dopo il versamento della caparra di €35 a persona.",
+   "MAKE A BOOKING REQUEST](https://rifugiocittadifiume.it/prenota/#richiesta) # Cerca disponibilità [](https://rifugiocittadifiume.it/en/book-online/) [BOOK NOW](https://rifugiocittadifiume.it/en/book-online/) Posto letto %d Ospiti Data check-in Data check-out Posti letto Posto letto 1 Ospiti Cerca **L",
+   "The reservation is considered confirmed only after the payment of a deposit of €35 per person."
+  ],
+  "fingerprint": "eeba095a1b9e",
+  "via": [
+   "reader-proxy"
+  ],
+  "added": [
+   "* As per CAI regulations, the reservation is held valid until 6 p.m.",
+   "* As per the CAI regulation, the reservation is kept valid until 18.00.",
+   "* Bookings are only confirmed after payment of the deposit of €30 per person.",
+   "* Buchungen werden erst nach Zahlung der Anzahlung von 30 € pro Person bestätigt.",
+   "* Buchungen werden erst nach Zahlung der Anzahlung von 35 € pro Person bestätigt."
+  ],
+  "removed": [
+   "As per CAI regulations, the reservation is held valid until 6 p.m.",
    "As per the CAI regulation, the reservation is kept valid until 18.00.",
    "Bookings are only confirmed after payment of the deposit of €30 per person.",
    "Buchungen werden erst nach Zahlung der Anzahlung von 30 € pro Person bestätigt.",
-   "Buchungen werden erst nach Zahlung der Anzahlung von 35 € pro Person bestätigt.",
-   "Come da regolamento CAI, la prenotazione viene mantenuta valida fino alle ore 18.00.",
-   "La prenotazione è da ritenersi confermata solo dopo il versamento della caparra di €35 a persona.",
-   "MAKE A BOOKING REQUEST Cerca disponibilità BOOK NOW Posto letto %d Ospiti 1 Data check-in Data check-out Posti letto 1 2 3 4 5 6 Posto letto 1 Ospiti 1 Cerca La tariffa indicata è quella ordinaria.",
-   "MAKE A BOOKING REQUEST PERNOTTAMENTO Che sia una tappa di un lungo trekking nelle Dolomiti o per passare una notte in montagna lontano dalla frenesia, l’esperienza della notte in Rifugio è speciale, e ogni Rifugio è speciale a modo suo!",
-   "RICHIESTA DI PRENOTAZIONE ENGLISH OVERNIGHT Whether it is a stop on a long trek in the Dolomites or to spend a night in the mountains far from the frenzy, the experience of the night in a refuge is special, and each refuge is special in its own way!",
-   "The reservation is considered confirmed only after the payment of a deposit of €35 per person.",
-   "The reservation is to be considered confirmed only after the payment of the deposit of €35 per person."
+   "Buchungen werden erst nach Zahlung der Anzahlung von 35 € pro Person bestätigt."
   ],
-  "fingerprint": "4b03fc23dbb2",
-  "via": [
-   "direct"
-  ],
-  "added": [],
-  "removed": [],
   "status": "WATCHING PAGE",
-  "detail": "no booking-text change",
-  "changed": false,
+  "detail": "page text changed: * As per CAI regulations, the reservation is held valid until 6 p.m.",
+  "changed": true,
   "probe_url": "https://rifugiocittadifiume.it/prenota/",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -193,7 +208,7 @@
   "status": "LIVE - your night full",
   "detail": "calendar live (control 2027-07-15)",
   "probe_url": "https://rifugioaverau.bukly.com/it/hotel/2027-06-26/2027-06-27/",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-10-01T02:09:41.414915+00:00",
   "errors": 0,
   "alerted": null
@@ -202,9 +217,9 @@
   "endpoint": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiocoldai.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-06-09",
+  "detail": "no space on your night or control 2027-07-14",
   "probe_url": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-10-03T17:05:19.594812+00:00",
   "errors": 0,
   "alerted": null
@@ -213,9 +228,9 @@
   "endpoint": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiovazzoler.com/Booking/index.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-06-09",
+  "detail": "no space on your night or control 2027-07-14",
   "probe_url": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-10-03T17:05:19.594812+00:00",
   "errors": 0,
   "alerted": null
@@ -224,9 +239,9 @@
   "endpoint": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
   "link": "https://www.rifugiocarestiato.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-06-09",
+  "detail": "no space on your night or control 2027-07-14",
   "probe_url": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -236,7 +251,7 @@
   "detail": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
   "link": "https://rifugiopassoduran.it/booking/index_en.php",
   "probe_url": "https://rifugiopassoduran.it/booking/index_en.php",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-10-01T04:05:20.722969+00:00",
   "errors": 0,
   "alerted": null
@@ -260,7 +275,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -282,7 +297,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-  "checked": "2026-10-05T12:05:15.478154+00:00",
+  "checked": "2026-10-05T13:05:15.858362+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
