@@ -8,27 +8,34 @@
    "POLICY DI CANCELLAZIONE: la caparra versata a garanzia della prenotazione non potrà essere rimborsata.",
    "Scopri Blog Scopri tutte le news Scopri Apertura stagione 2023 Nuovo sito Itinerari alpinistici Sul versante sud della Croda del Becco sono presenti alcuni itinerari alpinisti.",
    "Scopri Ospitalità Rifugio Durante il periodo di apertura del rifugio offriamo il servizio cucina proponendo piatti della tradizione locale.",
-   "Sono aperte le prenotazioni online Prenota POLICY DI CANCELLAZIONE: la caparra del 50% versata a garanzia della prenotazione non potrà essere rimborsata."
+   "Sono aperte le prenotazioni online Prenota POLICY DI CANCELLAZIONE: la caparra del 50% versata a garanzia della prenotazione non potrà essere rimborsata.",
+   "ari alpinistici Mountain bike Gallery Staff Cucina Dintorni Come arrivare Contattaci/Prenota Scopri APERTURA PRENOTAZIONI: 15 NOVEMBRE Rifugio Biella Alpe de Fósses, 2327 M Il rifugio Biella, Seekofel Hütte in lingua tedesca, si trova alla base della Croda del Becco o Seekofel.",
+   "nistici Mountain bike Gallery Staff Cucina Dintorni Come arrivare Contattaci/Prenota Sono aperte le prenotazioni online: prenota ora!"
   ],
-  "fingerprint": "dc7507155ba3",
+  "fingerprint": "6542a79e4805",
   "via": [
    "direct"
   ],
-  "added": [],
+  "added": [
+   "ari alpinistici Mountain bike Gallery Staff Cucina Dintorni Come arrivare Contattaci/Prenota Scopri APERTURA PRENOTAZIONI: 15 NOVEMBRE Rifugio Biella Alpe de Fósses, 2327 M Il rifugio Biella, Seekofel Hütte in lingua tedesca, si trova alla base della Croda del Becco o Seekofel.",
+   "nistici Mountain bike Gallery Staff Cucina Dintorni Come arrivare Contattaci/Prenota Sono aperte le prenotazioni online: prenota ora!"
+  ],
   "removed": [],
   "status": "WATCHING PAGE",
-  "detail": "no booking-text change",
-  "changed": false,
+  "detail": "page text changed: ari alpinistici Mountain bike Gallery Staff Cucina Dintorni Come arrivare Contattaci/Prenota Scopri APERTURA PRENOTAZIONI: 15 NOVEMBRE Rifugio Biella Alpe de Fósses, 2327 M Il rifug",
+  "changed": true,
   "probe_url": "https://rifugiobiella.it/",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
  },
  "sennes": {
   "link": "https://www.sennes.com/en/contact/",
-  "sentences": [],
-  "fingerprint": "da39a3ee5e6b",
+  "sentences": [
+   "refuge Surroundings In the summer In the winter Webcam Hiking The rooms The kitchen Gallery Contact Opening hours Opening hours Seasonal opening: 26 December 2026 – 6 January 2027 31 January 2027 – 31 March 2027 06 June 2027 – 10 October 2027 (for sleep last day 30 of October) Daily opening: Hours: "
+  ],
+  "fingerprint": "a40993b8d38d",
   "via": [
    "direct"
   ],
@@ -38,7 +45,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.sennes.com/en/",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -61,15 +68,18 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiofanes.com/en/booking",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
  },
  "lavarella": {
   "link": "https://lavarella.it/en/book-online",
-  "sentences": [],
-  "fingerprint": "da39a3ee5e6b",
+  "sentences": [
+   "ntain bike Winter The nature park Ski touring Snowshoeing Prices Summer Winter Meteo AVAILABILITY & BOOKING San Vigilio di Marebbe 39030 - ITALY Opening time summer: 06.06.2026-11.10.2026---------------------------------- Opening time winter: 26.12.2026-10.01.2027 ; 29.01.2027-11.04.2027 Close × Wel",
+   "ntain bike Winter The nature park Ski touring Snowshoeing Prices Summer Winter Meteo AVAILABILITY & BOOKING San Vigilio di Marebbe 39030 - ITALY When booking places for the dormitory, each person should select a bed singularly (through the “ add room ” option) CONTACTS 0039 0474 501094 rifugio@lavar"
+  ],
+  "fingerprint": "32bebee0437c",
   "via": [
    "direct"
   ],
@@ -79,7 +89,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://lavarella.it/",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -90,7 +100,7 @@
   "status": "LIVE - your night full",
   "detail": "portal live, your night full",
   "probe_url": "https://rifugiolagazuoi.com/EN/prenotazione1.php",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-10-03T20:05:16.194214+00:00",
   "errors": 0,
   "alerted": null
@@ -101,7 +111,7 @@
   "status": "NOT LIVE YET",
   "detail": "2027 calendar blank",
   "probe_url": "https://scotoni.bukly.com/it/hotel/2027-06-25/2027-06-26/",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -121,7 +131,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiodibona.app/en",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -150,7 +160,7 @@
   "detail": "no booking-text change (via browser-mode)",
   "changed": false,
   "probe_url": "https://rifugionuvolau.it/",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-09-30T01:12:38.354077+00:00",
   "errors": 0,
   "alerted": null
@@ -165,36 +175,29 @@
    "Buchungen werden erst nach Zahlung der Anzahlung von 30 € pro Person bestätigt.",
    "Buchungen werden erst nach Zahlung der Anzahlung von 35 € pro Person bestätigt.",
    "Come da regolamento CAI, la prenotazione viene mantenuta valida fino alle ore 18.00.",
+   "I AL RIFUGIO CONTATTI PRENOTA PRENOTA Brainfarm 2026-01-29T10:11:27+01:00 EFFETTUA UNA RICHIESTA DI PRENOTAZIONE RIFUGIO CHIUSO PROSSIMA APERTURA PREVISTA 10 -11 OTTOBRE 2026 EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO",
    "La prenotazione è da ritenersi confermata solo dopo il versamento della caparra di €35 a persona.",
    "MAKE A BOOKING REQUEST Cerca disponibilità BOOK NOW Posto letto %d Ospiti 1 Data check-in Data check-out Posti letto 1 2 3 4 5 6 Posto letto 1 Ospiti 1 Cerca La tariffa indicata è quella ordinaria.",
    "MAKE A BOOKING REQUEST PERNOTTAMENTO Che sia una tappa di un lungo trekking nelle Dolomiti o per passare una notte in montagna lontano dalla frenesia, l’esperienza della notte in Rifugio è speciale, e ogni Rifugio è speciale a modo suo!",
+   "RENOTA PERNOTTAMENTO Brainfarm 2026-01-22T18:27:52+01:00 DORMIRE AL RIFUGIO RIFUGIO CHIUSO PROSSIMA APERTURA PREVISTA 10 -11 OTTOBRE 2026 EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO",
    "RICHIESTA DI PRENOTAZIONE ENGLISH OVERNIGHT Whether it is a stop on a long trek in the Dolomites or to spend a night in the mountains far from the frenzy, the experience of the night in a refuge is special, and each refuge is special in its own way!",
    "The reservation is considered confirmed only after the payment of a deposit of €35 per person.",
    "The reservation is to be considered confirmed only after the payment of the deposit of €35 per person."
   ],
-  "fingerprint": "4b03fc23dbb2",
+  "fingerprint": "b66c09bd6280",
   "via": [
    "direct"
   ],
   "added": [
-   "As per CAI regulations, the reservation is held valid until 6 p.m.",
-   "As per the CAI regulation, the reservation is kept valid until 18.00.",
-   "Bookings are only confirmed after payment of the deposit of €30 per person.",
-   "Buchungen werden erst nach Zahlung der Anzahlung von 30 € pro Person bestätigt.",
-   "Buchungen werden erst nach Zahlung der Anzahlung von 35 € pro Person bestätigt."
+   "I AL RIFUGIO CONTATTI PRENOTA PRENOTA Brainfarm 2026-01-29T10:11:27+01:00 EFFETTUA UNA RICHIESTA DI PRENOTAZIONE RIFUGIO CHIUSO PROSSIMA APERTURA PREVISTA 10 -11 OTTOBRE 2026 EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO",
+   "RENOTA PERNOTTAMENTO Brainfarm 2026-01-22T18:27:52+01:00 DORMIRE AL RIFUGIO RIFUGIO CHIUSO PROSSIMA APERTURA PREVISTA 10 -11 OTTOBRE 2026 EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO"
   ],
-  "removed": [
-   "* As per CAI regulations, the reservation is held valid until 6 p.m.",
-   "* As per the CAI regulation, the reservation is kept valid until 18.00.",
-   "* Bookings are only confirmed after payment of the deposit of €30 per person.",
-   "* Buchungen werden erst nach Zahlung der Anzahlung von 30 € pro Person bestätigt.",
-   "* Buchungen werden erst nach Zahlung der Anzahlung von 35 € pro Person bestätigt."
-  ],
+  "removed": [],
   "status": "WATCHING PAGE",
-  "detail": "page text changed: As per CAI regulations, the reservation is held valid until 6 p.m.",
+  "detail": "page text changed: I AL RIFUGIO CONTATTI PRENOTA PRENOTA Brainfarm 2026-01-29T10:11:27+01:00 EFFETTUA UNA RICHIESTA DI PRENOTAZIONE RIFUGIO CHIUSO PROSSIMA APERTURA PREVISTA 10 -11 OTTOBRE 2026 EFFETT",
   "changed": true,
   "probe_url": "https://rifugiocittadifiume.it/prenota/",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -205,7 +208,7 @@
   "status": "LIVE - your night full",
   "detail": "calendar live (control 2027-07-15)",
   "probe_url": "https://rifugioaverau.bukly.com/it/hotel/2027-06-26/2027-06-27/",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-10-01T02:09:41.414915+00:00",
   "errors": 0,
   "alerted": null
@@ -214,9 +217,9 @@
   "endpoint": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiocoldai.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-08-04",
+  "detail": "no space on your night or control 2027-09-08",
   "probe_url": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-10-03T17:05:19.594812+00:00",
   "errors": 0,
   "alerted": null
@@ -225,9 +228,9 @@
   "endpoint": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiovazzoler.com/Booking/index.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-08-04",
+  "detail": "no space on your night or control 2027-09-08",
   "probe_url": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-10-03T17:05:19.594812+00:00",
   "errors": 0,
   "alerted": null
@@ -236,9 +239,9 @@
   "endpoint": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
   "link": "https://www.rifugiocarestiato.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-08-04",
+  "detail": "no space on your night or control 2027-09-08",
   "probe_url": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -248,7 +251,7 @@
   "detail": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
   "link": "https://rifugiopassoduran.it/booking/index_en.php",
   "probe_url": "https://rifugiopassoduran.it/booking/index_en.php",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-10-01T04:05:20.722969+00:00",
   "errors": 0,
   "alerted": null
@@ -260,19 +263,22 @@
    "DISLIVELLO: 650 m (700 m passando per Forcella Moschesin) TEMPI: 2:30 ore (3 ore per Forcella Moschesin) DIFFICOLTÀ: E NAVETTA Nella stagione estiva è disponibile anche il servizio navetta fino a Malga Prampér, rendendo più semplice la salita al rifugio.",
    "Gestione: Sezione CAI di Oderzo (TV) Anno costruzione: 1923 Posti letto: 25 in camere da 6/8 posti Bivacco invernale: 5 posti Apertura 20/6 - 20/9 Servizi: bagni interni con uso doccia  Wi-Fi Numero telefonico: 0437 1956153 E-mail: info@rifugiosommarivaalpramperet.it Custode: CAI Oderzo Sezione di ",
    "La piattaforma tecnologica e il servizio di prenotazione online sono gestiti da INERA S.r.l.",
-   "Scrivi a: assistenza.gestori@cai.it (Per info su disponibilità o modifiche e cancellazioni alle prenotazioni, leggi le FAQ o contatta il rifugio all’indirizzo email che trovi nella sua scheda) Via Petrella 19 20124 Milano Tel."
+   "Scrivi a: assistenza.gestori@cai.it (Per info su disponibilità o modifiche e cancellazioni alle prenotazioni, leggi le FAQ o contatta il rifugio all’indirizzo email che trovi nella sua scheda) Via Petrella 19 20124 Milano Tel.",
+   "acy Policy CAI Store Area riservata rifugista Contatti Hai bisogno di assistenza sulla procedura di prenotazione online?"
   ],
-  "fingerprint": "5f385aa67c2c",
+  "fingerprint": "d24a28c3b719",
   "via": [
    "direct"
   ],
-  "added": [],
+  "added": [
+   "acy Policy CAI Store Area riservata rifugista Contatti Hai bisogno di assistenza sulla procedura di prenotazione online?"
+  ],
   "removed": [],
   "status": "WATCHING PAGE",
-  "detail": "no booking-text change",
-  "changed": false,
+  "detail": "page text changed: acy Policy CAI Store Area riservata rifugista Contatti Hai bisogno di assistenza sulla procedura di prenotazione online?",
+  "changed": true,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -282,19 +288,22 @@
   "sentences": [
    "Con il contributo del Segui il CAI Scarica l’app Escursionisti Per assistenza sulle prenotazioni, sui pagamenti e sull’utilizzo della piattaforma Prenota Rifugi : info.prenotarifugi@inera.it Hai bisogno di aiuto?",
    "La piattaforma tecnologica e il servizio di prenotazione online sono gestiti da INERA S.r.l.",
-   "Scrivi a: assistenza.gestori@cai.it (Per info su disponibilità o modifiche e cancellazioni alle prenotazioni, leggi le FAQ o contatta il rifugio all’indirizzo email che trovi nella sua scheda) Via Petrella 19 20124 Milano Tel."
+   "Scrivi a: assistenza.gestori@cai.it (Per info su disponibilità o modifiche e cancellazioni alle prenotazioni, leggi le FAQ o contatta il rifugio all’indirizzo email che trovi nella sua scheda) Via Petrella 19 20124 Milano Tel.",
+   "acy Policy CAI Store Area riservata rifugista Contatti Hai bisogno di assistenza sulla procedura di prenotazione online?"
   ],
-  "fingerprint": "625785d9c780",
+  "fingerprint": "1c8f0f25723d",
   "via": [
    "direct"
   ],
-  "added": [],
+  "added": [
+   "acy Policy CAI Store Area riservata rifugista Contatti Hai bisogno di assistenza sulla procedura di prenotazione online?"
+  ],
   "removed": [],
   "status": "WATCHING PAGE",
-  "detail": "no booking-text change",
-  "changed": false,
+  "detail": "page text changed: acy Policy CAI Store Area riservata rifugista Contatti Hai bisogno di assistenza sulla procedura di prenotazione online?",
+  "changed": true,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-  "checked": "2026-10-05T14:05:18.892482+00:00",
+  "checked": "2026-10-05T15:05:19.258874+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
