@@ -22,7 +22,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiobiella.it/",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -42,7 +42,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.sennes.com/en/",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -65,7 +65,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiofanes.com/en/booking",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -86,7 +86,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://lavarella.it/",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -97,7 +97,7 @@
   "status": "LIVE - your night full",
   "detail": "portal live, your night full",
   "probe_url": "https://rifugiolagazuoi.com/EN/prenotazione1.php",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-10-06T04:05:13.992639+00:00",
   "errors": 0,
   "alerted": null
@@ -108,7 +108,7 @@
   "status": "NOT LIVE YET",
   "detail": "2027 calendar blank",
   "probe_url": "https://scotoni.bukly.com/it/hotel/2027-06-25/2027-06-26/",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -128,7 +128,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiodibona.app/en",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -136,44 +136,40 @@
  "nuvolau": {
   "link": "https://rifugionuvolau.it/en/booking-form/",
   "sentences": [
-   "![Image 11](https://rifugionuvolau.it/wp-content/uploads/2025/09/images.png) #### Bookings * Bookings can be made exclusively through the booking system on the website * To confirm the booking, the payment of a **deposit of 40%** of the total amount is required * The deposit payment is processed dir",
-   "#### Overnight stay options * **Bed only** * **Bed&breakfast** * **Half board:** dinner, bed and breakfast * **Dinner** is served at 7 PM, **breakfast** is available between 7 AM and 8 AM * Vegetarian options available Vegan options not available * When booking you can select the bed(s) and the pref",
-   "**Apertura stagionale solo estiva.** Apertura prevista dal 20 giugno al 20 settembre 2027 **Prenotazioni 2027**: a partire da gennaio 2027 sul sito web ![Image 31: Rifugio Nuvolau",
-   "Planning to open from June 20 th to September 20 th 2027 **2027 reservations**: possible starting January 2027 on our website #### Rifugio Nuvolau features **Rifugio Nuvolau** is a simple traditional hut reachable **only on foot** * Rustic **dorms** * **Shared toilets**, **no showers** * **Single** ",
-   "Riusciremo ad anticipare l'apertura del ristorante?🍻 Seguiteci per scoprirlo con noi!📅 Follow us to find out if we can open the restaurant earlier than June 20th!",
-   "Title: Booking - Rifugio Nuvolau URL Source: https://rifugionuvolau.it/en/booking/ Markdown Content: [![Image 1: Rifugio Nuvolau](https://rifugionuvolau.it/wp-content/uploads/2025/11/logo_nuvolau_b-cai.png)](https://rifugionuvolau.it/en/) * [The Hut](https://rifugionuvolau.it/en/booking/#) * [The Re",
-   "Title: Booking Form - Rifugio Nuvolau URL Source: https://rifugionuvolau.it/en/booking-form/ Markdown Content: [![Image 1: Rifugio Nuvolau](https://rifugionuvolau.it/wp-content/uploads/2025/11/logo_nuvolau_b-cai.png)](https://rifugionuvolau.it/en/) * [The Hut](https://rifugionuvolau.it/en/booking-fo",
-   "[info@rifugionuvolau.it](mailto:info@rifugionuvolau.it) * [+39 0436 867938 (Attivo solo nei mesi di apertura!)](tel:+390436867938) * [Monte Nuvolau, 32043 Cortina d'Ampezzo BL](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place//data%3D!4m2!3m1!1s0x4778482b81e02a35:0x2639e",
-   "ugionuvolau.it/wp-content/uploads/2024/11/tape_down.png) ### Tariffe Listino prezzi per la prossima stagione: scopri le condizioni di soggiorno nel cuore delle Dolomiti.",
-   "È stata una stagione che ci ha messo alla prova su tutti i fronti: mancanza d'acqua, affluenza da record, teleferica ferma, mal di schiena, timer andati, scalini rotti, abbattitore in sciopero, fornitori sgarruppati, eclissi nuvolosa, crolli del sito; ma se non vi siete accorti di niente è grazie al",
-   "📝Opening dates: June 20th - September 20th Thank you for the understanding and see you this summer!",
-   "📝Periodo di apertura: 20 giugno - 20 settembre Grazie per la comprensione e ci vediamo st'estate!",
-   "🙈 ⚠️Per evitare il sovraccarico di utenti sul nostro sito web www.rifugionuvolau.it quest'anno l'apertura delle prenotazioni sarà scaglionata: Dal 1° febbraio - periodo prenotabile: 20-30 giugno 2026 Dal 3 febbraio - periodo prenotabile: 1-31 luglio Dal 5 febbraio - periodo prenotabile: 1-31 agosto ",
-   "🙈 ⚠️To avoid users congestion on our website www.rifugionuvolau.it this year bookings will be schedule as follow: starting February 1st you can book from June 20th to 30th starting February 3rd you can book from July 1st to 31st starting February 5th you can book from August 1st to 31st starting Feb"
+   "Apertura prevista dal 20 giugno al 20 settembre 2027 Prenotazioni 2027 : a partire da gennaio 2027 sul sito web Vie di Accesso Come raggiungerci?",
+   "Apertura stagionale solo estiva.",
+   "Booking - Rifugio Nuvolau The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules and conditions FAQ More How to reach us FAQ Webcam Weather Contact Us EN DE IT ES The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules and ",
+   "Booking Form - Rifugio Nuvolau The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules and conditions FAQ More How to reach us FAQ Webcam Weather Contact Us EN DE IT ES The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules",
+   "Booking conditions",
+   "Condizioni di prenotazione",
+   "Overnight stay options Bed only Bed&breakfast Half board: dinner, bed and breakfast Dinner is served at 7 PM, breakfast is available between 7 AM and 8 AM Vegetarian options available Vegan options not available When booking you can select the bed(s) and the preferred stay option The Rifugio reserve",
+   "Planning to open from June 20 th to September 20 th 2027 2027 reservations : possible starting January 2027 on our website Rifugio Nuvolau features Rifugio Nuvolau is a simple traditional hut reachable only on foot Rustic dorms Shared toilets , no showers Single or bunk beds only, in shared dorms Pi",
+   "Rules and coditions No pets allowed Group bookings: maximum 8 people at standard price Due to logistic reasons, we don’t accept bookings made by agencies .",
+   "le camerate Tariffe Listino prezzi per la prossima stagione: scopri le condizioni di soggiorno nel cuore delle Dolomiti."
   ],
-  "fingerprint": "60c23b54f730",
+  "fingerprint": "ca04331dfa56",
   "via": [
-   "reader-proxy"
+   "browser-mode"
   ],
   "added": [
-   "![Image 11](https://rifugionuvolau.it/wp-content/uploads/2025/09/images.png) #### Bookings * Bookings can be made exclusively through the booking system on the website * To confirm the booking, the payment of a **deposit of 40%** of the total amount is required * The deposit payment is processed dir",
-   "#### Overnight stay options * **Bed only** * **Bed&breakfast** * **Half board:** dinner, bed and breakfast * **Dinner** is served at 7 PM, **breakfast** is available between 7 AM and 8 AM * Vegetarian options available Vegan options not available * When booking you can select the bed(s) and the pref",
-   "**Apertura stagionale solo estiva.** Apertura prevista dal 20 giugno al 20 settembre 2027 **Prenotazioni 2027**: a partire da gennaio 2027 sul sito web ![Image 31: Rifugio Nuvolau",
-   "Planning to open from June 20 th to September 20 th 2027 **2027 reservations**: possible starting January 2027 on our website #### Rifugio Nuvolau features **Rifugio Nuvolau** is a simple traditional hut reachable **only on foot** * Rustic **dorms** * **Shared toilets**, **no showers** * **Single** ",
-   "Riusciremo ad anticipare l'apertura del ristorante?🍻 Seguiteci per scoprirlo con noi!📅 Follow us to find out if we can open the restaurant earlier than June 20th!"
-  ],
-  "removed": [
    "Apertura prevista dal 20 giugno al 20 settembre 2027 Prenotazioni 2027 : a partire da gennaio 2027 sul sito web Vie di Accesso Come raggiungerci?",
    "Apertura stagionale solo estiva.",
    "Booking - Rifugio Nuvolau The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules and conditions FAQ More How to reach us FAQ Webcam Weather Contact Us EN DE IT ES The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules and ",
    "Booking Form - Rifugio Nuvolau The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules and conditions FAQ More How to reach us FAQ Webcam Weather Contact Us EN DE IT ES The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules",
    "Booking conditions"
   ],
+  "removed": [
+   "![Image 11](https://rifugionuvolau.it/wp-content/uploads/2025/09/images.png) #### Bookings * Bookings can be made exclusively through the booking system on the website * To confirm the booking, the payment of a **deposit of 40%** of the total amount is required * The deposit payment is processed dir",
+   "#### Overnight stay options * **Bed only** * **Bed&breakfast** * **Half board:** dinner, bed and breakfast * **Dinner** is served at 7 PM, **breakfast** is available between 7 AM and 8 AM * Vegetarian options available Vegan options not available * When booking you can select the bed(s) and the pref",
+   "**Apertura stagionale solo estiva.** Apertura prevista dal 20 giugno al 20 settembre 2027 **Prenotazioni 2027**: a partire da gennaio 2027 sul sito web ![Image 31: Rifugio Nuvolau",
+   "Planning to open from June 20 th to September 20 th 2027 **2027 reservations**: possible starting January 2027 on our website #### Rifugio Nuvolau features **Rifugio Nuvolau** is a simple traditional hut reachable **only on foot** * Rustic **dorms** * **Shared toilets**, **no showers** * **Single** ",
+   "Riusciremo ad anticipare l'apertura del ristorante?🍻 Seguiteci per scoprirlo con noi!📅 Follow us to find out if we can open the restaurant earlier than June 20th!"
+  ],
   "status": "WATCHING PAGE",
-  "detail": "page text changed: ![Image 11](https://rifugionuvolau.it/wp-content/uploads/2025/09/images.png) #### Bookings * Bookings can be made exclusively through the booking system on the website * To confirm ",
+  "detail": "page text changed: Apertura prevista dal 20 giugno al 20 settembre 2027 Prenotazioni 2027 : a partire da gennaio 2027 sul sito web Vie di Accesso Come raggiungerci?",
   "changed": true,
   "probe_url": "https://rifugionuvolau.it/",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-09-30T01:12:38.354077+00:00",
   "errors": 0,
   "alerted": null
@@ -207,7 +203,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiocittadifiume.it/prenota/",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -218,7 +214,7 @@
   "status": "LIVE - your night full",
   "detail": "calendar live (control 2027-07-15)",
   "probe_url": "https://rifugioaverau.bukly.com/it/hotel/2027-06-26/2027-06-27/",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-10-01T02:09:41.414915+00:00",
   "errors": 0,
   "alerted": null
@@ -227,9 +223,9 @@
   "endpoint": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiocoldai.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-08-04",
+  "detail": "no space on your night or control 2027-09-08",
   "probe_url": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-10-06T03:05:15.010211+00:00",
   "errors": 0,
   "alerted": null
@@ -238,9 +234,9 @@
   "endpoint": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiovazzoler.com/Booking/index.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-08-04",
+  "detail": "no space on your night or control 2027-09-08",
   "probe_url": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-10-06T03:05:15.010211+00:00",
   "errors": 0,
   "alerted": null
@@ -249,9 +245,9 @@
   "endpoint": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
   "link": "https://www.rifugiocarestiato.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-08-04",
+  "detail": "no space on your night or control 2027-09-08",
   "probe_url": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -261,7 +257,7 @@
   "detail": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
   "link": "https://rifugiopassoduran.it/booking/index_en.php",
   "probe_url": "https://rifugiopassoduran.it/booking/index_en.php",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-10-01T04:05:20.722969+00:00",
   "errors": 0,
   "alerted": null
@@ -286,7 +282,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -309,7 +305,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-  "checked": "2026-10-08T06:05:16.892987+00:00",
+  "checked": "2026-10-08T07:05:14.624728+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
