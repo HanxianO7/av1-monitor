@@ -22,7 +22,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiobiella.it/",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -42,7 +42,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.sennes.com/en/",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -65,7 +65,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiofanes.com/en/booking",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -86,7 +86,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://lavarella.it/",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -97,7 +97,7 @@
   "status": "LIVE - your night full",
   "detail": "portal live, your night full",
   "probe_url": "https://rifugiolagazuoi.com/EN/prenotazione1.php",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-10-06T04:05:13.992639+00:00",
   "errors": 0,
   "alerted": null
@@ -108,7 +108,7 @@
   "status": "NOT LIVE YET",
   "detail": "2027 calendar blank",
   "probe_url": "https://scotoni.bukly.com/it/hotel/2027-06-25/2027-06-26/",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -128,7 +128,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiodibona.app/en",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -151,25 +151,13 @@
   "via": [
    "browser-mode"
   ],
-  "added": [
-   "Apertura prevista dal 20 giugno al 20 settembre 2027 Prenotazioni 2027 : a partire da gennaio 2027 sul sito web Vie di Accesso Come raggiungerci?",
-   "Apertura stagionale solo estiva.",
-   "Booking - Rifugio Nuvolau The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules and conditions FAQ More How to reach us FAQ Webcam Weather Contact Us EN DE IT ES The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules and ",
-   "Booking Form - Rifugio Nuvolau The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules and conditions FAQ More How to reach us FAQ Webcam Weather Contact Us EN DE IT ES The Hut The Restaurant Our Dorms History of Rifugio Nuvolau Sleeping Booking Price list Rules",
-   "Booking conditions"
-  ],
-  "removed": [
-   "![Image 11](https://rifugionuvolau.it/wp-content/uploads/2025/09/images.png) #### Bookings * Bookings can be made exclusively through the booking system on the website * To confirm the booking, the payment of a **deposit of 40%** of the total amount is required * The deposit payment is processed dir",
-   "#### Overnight stay options * **Bed only** * **Bed&breakfast** * **Half board:** dinner, bed and breakfast * **Dinner** is served at 7 PM, **breakfast** is available between 7 AM and 8 AM * Vegetarian options available Vegan options not available * When booking you can select the bed(s) and the pref",
-   "**Apertura stagionale solo estiva.** Apertura prevista dal 20 giugno al 20 settembre 2027 **Prenotazioni 2027**: a partire da gennaio 2027 sul sito web ![Image 31: Rifugio Nuvolau",
-   "Planning to open from June 20 th to September 20 th 2027 **2027 reservations**: possible starting January 2027 on our website #### Rifugio Nuvolau features **Rifugio Nuvolau** is a simple traditional hut reachable **only on foot** * Rustic **dorms** * **Shared toilets**, **no showers** * **Single** ",
-   "Riusciremo ad anticipare l'apertura del ristorante?🍻 Seguiteci per scoprirlo con noi!📅 Follow us to find out if we can open the restaurant earlier than June 20th!"
-  ],
+  "added": [],
+  "removed": [],
   "status": "WATCHING PAGE",
-  "detail": "page text changed: Apertura prevista dal 20 giugno al 20 settembre 2027 Prenotazioni 2027 : a partire da gennaio 2027 sul sito web Vie di Accesso Come raggiungerci?",
-  "changed": true,
+  "detail": "no booking-text change (via browser-mode)",
+  "changed": false,
   "probe_url": "https://rifugionuvolau.it/",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-09-30T01:12:38.354077+00:00",
   "errors": 0,
   "alerted": null
@@ -203,7 +191,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiocittadifiume.it/prenota/",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -214,7 +202,7 @@
   "status": "LIVE - your night full",
   "detail": "calendar live (control 2027-07-15)",
   "probe_url": "https://rifugioaverau.bukly.com/it/hotel/2027-06-26/2027-06-27/",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-10-01T02:09:41.414915+00:00",
   "errors": 0,
   "alerted": null
@@ -223,9 +211,9 @@
   "endpoint": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiocoldai.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-09-08",
+  "detail": "no space on your night or control 2027-06-09",
   "probe_url": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-10-06T03:05:15.010211+00:00",
   "errors": 0,
   "alerted": null
@@ -234,9 +222,9 @@
   "endpoint": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiovazzoler.com/Booking/index.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-09-08",
+  "detail": "no space on your night or control 2027-06-09",
   "probe_url": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-10-06T03:05:15.010211+00:00",
   "errors": 0,
   "alerted": null
@@ -245,9 +233,9 @@
   "endpoint": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
   "link": "https://www.rifugiocarestiato.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-09-08",
+  "detail": "no space on your night or control 2027-06-09",
   "probe_url": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -257,7 +245,7 @@
   "detail": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
   "link": "https://rifugiopassoduran.it/booking/index_en.php",
   "probe_url": "https://rifugiopassoduran.it/booking/index_en.php",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-10-01T04:05:20.722969+00:00",
   "errors": 0,
   "alerted": null
@@ -282,7 +270,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -305,7 +293,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-  "checked": "2026-10-08T07:05:14.624728+00:00",
+  "checked": "2026-10-08T08:05:15.749923+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
