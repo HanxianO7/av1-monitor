@@ -22,7 +22,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiobiella.it/",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -42,7 +42,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.sennes.com/en/",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -65,7 +65,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiofanes.com/en/booking",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -86,7 +86,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://lavarella.it/",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -97,7 +97,7 @@
   "status": "LIVE - your night full",
   "detail": "portal live, your night full",
   "probe_url": "https://rifugiolagazuoi.com/EN/prenotazione1.php",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-10-08T20:05:14.771061+00:00",
   "errors": 0,
   "alerted": null
@@ -108,7 +108,7 @@
   "status": "NOT LIVE YET",
   "detail": "2027 calendar blank",
   "probe_url": "https://scotoni.bukly.com/it/hotel/2027-06-25/2027-06-26/",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -128,7 +128,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiodibona.app/en",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -157,7 +157,7 @@
   "detail": "no booking-text change (via browser-mode)",
   "changed": false,
   "probe_url": "https://rifugionuvolau.it/",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-09-30T01:12:38.354077+00:00",
   "errors": 0,
   "alerted": null
@@ -172,26 +172,32 @@
    "Buchungen werden erst nach Zahlung der Anzahlung von 30 € pro Person bestätigt.",
    "Buchungen werden erst nach Zahlung der Anzahlung von 35 € pro Person bestätigt.",
    "Come da regolamento CAI, la prenotazione viene mantenuta valida fino alle ore 18.00.",
-   "I AL RIFUGIO CONTATTI PRENOTA PRENOTA Brainfarm 2026-01-29T10:11:27+01:00 EFFETTUA UNA RICHIESTA DI PRENOTAZIONE RIFUGIO CHIUSO PROSSIMA APERTURA PREVISTA 10 -11 OTTOBRE 2026 EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO",
+   "I AL RIFUGIO CONTATTI PRENOTA PRENOTA Brainfarm 2026-01-29T10:11:27+01:00 EFFETTUA UNA RICHIESTA DI PRENOTAZIONE SABATO 10 e DOMENICA 11 OTTOBRE RIFUGIO APERTO DALLE 11 alle 17 SERVIZIO CUCINA DALLE 12 alle 15 CENA e PERNOTTAMENTO SOLO SU PRENOTAZIONE EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO",
    "La prenotazione è da ritenersi confermata solo dopo il versamento della caparra di €35 a persona.",
    "MAKE A BOOKING REQUEST Cerca disponibilità BOOK NOW Posto letto %d Ospiti 1 Data check-in Data check-out Posti letto 1 2 3 4 5 6 Posto letto 1 Ospiti 1 Cerca La tariffa indicata è quella ordinaria.",
    "MAKE A BOOKING REQUEST PERNOTTAMENTO Che sia una tappa di un lungo trekking nelle Dolomiti o per passare una notte in montagna lontano dalla frenesia, l’esperienza della notte in Rifugio è speciale, e ogni Rifugio è speciale a modo suo!",
-   "RENOTA PERNOTTAMENTO Brainfarm 2026-01-22T18:27:52+01:00 DORMIRE AL RIFUGIO RIFUGIO CHIUSO PROSSIMA APERTURA PREVISTA 10 -11 OTTOBRE 2026 EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO",
    "RICHIESTA DI PRENOTAZIONE ENGLISH OVERNIGHT Whether it is a stop on a long trek in the Dolomites or to spend a night in the mountains far from the frenzy, the experience of the night in a refuge is special, and each refuge is special in its own way!",
+   "TOBRE RIFUGIO APERTO DALLE 11 alle 17 SERVIZIO CUCINA DALLE 12 alle 15 CENA e PERNOTTAMENTO SOLO SU PRENOTAZIONE EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO",
    "The reservation is considered confirmed only after the payment of a deposit of €35 per person.",
    "The reservation is to be considered confirmed only after the payment of the deposit of €35 per person."
   ],
-  "fingerprint": "b66c09bd6280",
+  "fingerprint": "5fa4d4b640c2",
   "via": [
    "direct"
   ],
-  "added": [],
-  "removed": [],
+  "added": [
+   "I AL RIFUGIO CONTATTI PRENOTA PRENOTA Brainfarm 2026-01-29T10:11:27+01:00 EFFETTUA UNA RICHIESTA DI PRENOTAZIONE SABATO 10 e DOMENICA 11 OTTOBRE RIFUGIO APERTO DALLE 11 alle 17 SERVIZIO CUCINA DALLE 12 alle 15 CENA e PERNOTTAMENTO SOLO SU PRENOTAZIONE EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO",
+   "TOBRE RIFUGIO APERTO DALLE 11 alle 17 SERVIZIO CUCINA DALLE 12 alle 15 CENA e PERNOTTAMENTO SOLO SU PRENOTAZIONE EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO"
+  ],
+  "removed": [
+   "I AL RIFUGIO CONTATTI PRENOTA PRENOTA Brainfarm 2026-01-29T10:11:27+01:00 EFFETTUA UNA RICHIESTA DI PRENOTAZIONE RIFUGIO CHIUSO PROSSIMA APERTURA PREVISTA 10 -11 OTTOBRE 2026 EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO",
+   "RENOTA PERNOTTAMENTO Brainfarm 2026-01-22T18:27:52+01:00 DORMIRE AL RIFUGIO RIFUGIO CHIUSO PROSSIMA APERTURA PREVISTA 10 -11 OTTOBRE 2026 EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO"
+  ],
   "status": "WATCHING PAGE",
-  "detail": "no booking-text change",
-  "changed": false,
+  "detail": "page text changed: I AL RIFUGIO CONTATTI PRENOTA PRENOTA Brainfarm 2026-01-29T10:11:27+01:00 EFFETTUA UNA RICHIESTA DI PRENOTAZIONE SABATO 10 e DOMENICA 11 OTTOBRE RIFUGIO APERTO DALLE 11 alle 17 SERV",
+  "changed": true,
   "probe_url": "https://rifugiocittadifiume.it/prenota/",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -202,7 +208,7 @@
   "status": "LIVE - your night full",
   "detail": "calendar live (control 2027-07-15)",
   "probe_url": "https://rifugioaverau.bukly.com/it/hotel/2027-06-26/2027-06-27/",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-10-01T02:09:41.414915+00:00",
   "errors": 0,
   "alerted": null
@@ -211,9 +217,9 @@
   "endpoint": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiocoldai.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-08-04",
+  "detail": "no space on your night or control 2027-09-08",
   "probe_url": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-10-08T19:05:17.420210+00:00",
   "errors": 0,
   "alerted": null
@@ -222,9 +228,9 @@
   "endpoint": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiovazzoler.com/Booking/index.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-08-04",
+  "detail": "no space on your night or control 2027-09-08",
   "probe_url": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-10-08T19:05:17.420210+00:00",
   "errors": 0,
   "alerted": null
@@ -233,9 +239,9 @@
   "endpoint": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
   "link": "https://www.rifugiocarestiato.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-08-04",
+  "detail": "no space on your night or control 2027-09-08",
   "probe_url": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -245,7 +251,7 @@
   "detail": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
   "link": "https://rifugiopassoduran.it/booking/index_en.php",
   "probe_url": "https://rifugiopassoduran.it/booking/index_en.php",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-10-01T04:05:20.722969+00:00",
   "errors": 0,
   "alerted": null
@@ -270,7 +276,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -293,7 +299,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-  "checked": "2026-10-08T22:05:14.497583+00:00",
+  "checked": "2026-10-08T23:05:20.932352+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
