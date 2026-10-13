@@ -320,12 +320,15 @@ def fetch_page(url):
 def check_page(hut, prev):
     if not hut.get("pages"):
         return {"status": NO_URL, "detail": hut.get("todo", "add a URL in huts.json"), "link": ""}
-    sents, errors, vias = set(), [], set()
+    sents, errors, vias, banner = set(), [], set(), None
     for url in hut["pages"]:
         try:
             html, via = fetch_page(url)
             sents.update(page_sentences(html))
             vias.add(via)
+            if hut.get("watch_banner") and not banner:
+                b = re.search(re.escape(hut["watch_banner"]) + r".{0,40}", norm_text(html), re.I)
+                banner = b and b.group(0).strip()
         except Exception as e:  # noqa: BLE001
             errors.append(f"{url.split('//')[-1][:40]}: {e}")
         time.sleep(PAUSE)
@@ -338,6 +341,9 @@ def check_page(hut, prev):
     opens = [s for s in sents if "2027" in s and OPEN_RE.search(s) and not NEG_RE.search(s)]
     out = {"link": hut["pages"][0], "sentences": sorted(sents), "fingerprint": fp, "via": sorted(vias),
            "added": added[:5], "removed": removed[:5]}
+    if hut.get("watch_banner"):
+        # a missing banner only counts if every page loaded
+        out["banner"] = banner if banner or not errors else prev.get("banner")
     if opens:
         return {**out, "status": PAGE_OPEN, "detail": opens[0][:200]}
     changed = bool(added or removed)
@@ -486,6 +492,11 @@ def main():
                     f"{esc(res['detail'])}\n"
                     + ("The site is blocking automated checks - check it by hand for now."
                        if res.get("blocked") else "The monitor may need fixing for this hut."))
+        if (not send and "banner" in prev and "banner" in res
+                and res["banner"] != prev["banner"]):
+            send = (f"📢 <b>{esc(hut['name'])}</b> booking banner changed:\n"
+                    f"was: {esc(prev['banner'] or '(none)')}\n"
+                    f"now: {esc(res['banner'] or '(removed)')}\n{esc(hut['book_url'])}")
         if send and telegram(send):
             res["alerted"] = ts.isoformat()
             sent.append(hut["id"])
