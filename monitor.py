@@ -54,7 +54,10 @@ ALERT_STATUSES = {AVAILABLE, ROOMS, PAGE_OPEN}
 NO_ROOM_RE = re.compile(
     r"do not have any room available|no rooms? available|"
     r"non (abbiamo|ci sono) (nessuna|alcuna|camere|posti)|nessuna disponibilit", re.I)
-BEDS_SPLIT_RE = re.compile(r"Number of beds|Numero (?:di )?(?:letti|posti)", re.I)
+BEDS_SPLIT_RE = re.compile(r"(Number of beds|Numero (?:di )?(?:letti|posti)|"
+                           r"Number of rooms|Numero (?:di )?camere)", re.I)
+ROOMS_RE = re.compile(r"rooms|camere", re.I)  # count is rooms, not beds
+ROOM_BEDS_RE = re.compile(r"(\d+)\s*(?:beds|letti|posti)", re.I)
 DORM_RE = re.compile(r"dormitor|bunk|camerat|letti a castello|cuccett|lager", re.I)
 NUMS_RE = re.compile(r"^\s*:?\s*((?:\d+\s+){0,80}\d+)")
 
@@ -95,18 +98,22 @@ def parse_engine(html):
     if NO_ROOM_RE.search(text):
         return {"kind": "none", "dorm": 0, "private": 0}
     parts = BEDS_SPLIT_RE.split(text)
-    if len(parts) < 2:
+    labels, seps = parts[0::2], parts[1::2]
+    if not seps:
         return {"kind": "unrecognized", "dorm": 0, "private": 0}
     dorm = private = 0
-    for i in range(len(parts) - 1):
-        label = parts[i]
+    for i, sep in enumerate(seps):
+        label = labels[i]
         if i > 0:  # drop the previous room's bed-count numbers
             label = NUMS_RE.sub("", label, count=1)
         label = label[-400:]
-        m = NUMS_RE.match(parts[i + 1])
+        m = NUMS_RE.match(labels[i + 1])
         if not m:
             continue
         mx = max(int(x) for x in m.group(1).split())
+        if ROOMS_RE.search(sep):  # e.g. "Private room with 4 beds - Number of rooms: 0 1"
+            beds = ROOM_BEDS_RE.findall(label)
+            mx *= int(beds[-1]) if beds else 1
         if DORM_RE.search(label):
             dorm = max(dorm, mx)
         else:
