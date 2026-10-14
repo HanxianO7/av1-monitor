@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **15 Oct 2026 04:05 Kuala Lumpur** · 22:05 Italy
+Last check: **15 Oct 2026 05:05 Kuala Lumpur** · 23:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -18,7 +18,7 @@ Trip: 2 guests · dorm only · half board
 | 24 Jun | [Averau](https://www.rifugioaverau.it/en/) | backup | **LIVE - your night full** | 2027 calendar live, your night closed |
 | 25 Jun | [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | **ERROR** | ConnectTimeout: HTTPSConnectionPool(host='rifugiocoldai.com', port=443): Max retries exceeded with url: /Booking/EN/prenotazione1.php (Cause |
 | 26 Jun | [Vazzoler](https://rifugiovazzoler.com/Booking/index.php) | preferred | **ERROR** | ConnectTimeout: HTTPSConnectionPool(host='rifugiovazzoler.com', port=443): Max retries exceeded with url: /Booking/EN/prenotazione1.php (Cau |
-| 27 Jun | [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-06-09 |
+| 27 Jun | [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-07-14 |
 | 27 Jun | [Passo Duran](https://rifugiopassoduran.it/booking/index_en.php) | backup | **CHECK MANUALLY** | Site shows a CAPTCHA to automated checks - check the calendar by hand |
 | 28 Jun | [Pramperet](https://www.prenotarifugi.cai.it/dettaglio/?id=5925) | preferred | **WATCHING PAGE** | no booking-text change |
 | 28 Jun | [Pian de Fontana](https://www.prenotarifugi.cai.it/dettaglio/?id=5942) | backup | **WATCHING PAGE** | no booking-text change |
