@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **14 Oct 2026 12:00 Kuala Lumpur** · 06:00 Italy
+Last check: **14 Oct 2026 12:05 Kuala Lumpur** · 06:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
