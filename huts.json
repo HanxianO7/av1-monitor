@@ -3,7 +3,7 @@
   "guests": 2,
   "room": "dorm / bunk beds only",
   "board": "half board",
-  "stop_after": "2027-07-07"
+  "stop_after": "2027-06-28"
  },
  "control_nights": [
   "2027-06-09",
@@ -21,7 +21,7 @@
   {
    "id": "biella",
    "name": "Biella",
-   "night": "2027-06-30",
+   "night": "2027-06-21",
    "role": "preferred",
    "check": "page",
    "pages": [
@@ -34,7 +34,7 @@
   {
    "id": "sennes",
    "name": "Sennes",
-   "night": "2027-06-30",
+   "night": "2027-06-21",
    "role": "backup",
    "check": "page",
    "pages": [
@@ -47,7 +47,7 @@
   {
    "id": "fanes",
    "name": "Fanes",
-   "night": "2027-07-01",
+   "night": "2027-06-22",
    "role": "preferred",
    "check": "page",
    "pages": [
@@ -59,7 +59,7 @@
   {
    "id": "lavarella",
    "name": "Lavarella",
-   "night": "2027-07-01",
+   "night": "2027-06-22",
    "role": "backup",
    "check": "page",
    "pages": [
@@ -72,7 +72,7 @@
   {
    "id": "lagazuoi",
    "name": "Lagazuoi",
-   "night": "2027-07-02",
+   "night": "2027-06-23",
    "role": "preferred",
    "check": "engine",
    "endpoints": [
@@ -83,7 +83,7 @@
   {
    "id": "scotoni",
    "name": "Scotoni",
-   "night": "2027-07-02",
+   "night": "2027-06-23",
    "role": "backup",
    "check": "bukly",
    "base": "https://scotoni.bukly.com/it/hotel",
@@ -93,7 +93,7 @@
   {
    "id": "dibona",
    "name": "Dibona",
-   "night": "2027-07-02",
+   "night": "2027-06-23",
    "role": "backup",
    "check": "page",
    "pages": [
@@ -104,7 +104,7 @@
   {
    "id": "nuvolau",
    "name": "Nuvolau",
-   "night": "2027-07-03",
+   "night": "2027-06-24",
    "role": "preferred",
    "check": "page",
    "pages": [
@@ -117,7 +117,7 @@
   {
    "id": "fiume",
    "name": "Città di Fiume",
-   "night": "2027-07-03",
+   "night": "2027-06-24",
    "role": "backup",
    "check": "page",
    "pages": [
@@ -129,7 +129,7 @@
   {
    "id": "averau",
    "name": "Averau",
-   "night": "2027-07-03",
+   "night": "2027-06-24",
    "role": "backup",
    "check": "bukly",
    "bases": [
@@ -142,7 +142,7 @@
   {
    "id": "coldai",
    "name": "Sonino al Coldai",
-   "night": "2027-07-04",
+   "night": "2027-06-25",
    "role": "preferred",
    "check": "engine",
    "endpoints": [
@@ -153,7 +153,7 @@
   {
    "id": "vazzoler",
    "name": "Vazzoler",
-   "night": "2027-07-05",
+   "night": "2027-06-26",
    "role": "preferred",
    "check": "engine",
    "endpoints": [
@@ -164,7 +164,7 @@
   {
    "id": "carestiato",
    "name": "Carestiato",
-   "night": "2027-07-06",
+   "night": "2027-06-27",
    "role": "preferred",
    "check": "engine",
    "endpoints": [
@@ -175,7 +175,7 @@
   {
    "id": "passoduran",
    "name": "Passo Duran",
-   "night": "2027-07-06",
+   "night": "2027-06-27",
    "role": "backup",
    "check": "manual",
    "endpoints": [
@@ -188,7 +188,7 @@
   {
    "id": "pramperet",
    "name": "Pramperet",
-   "night": "2027-07-07",
+   "night": "2027-06-28",
    "role": "preferred",
    "check": "page",
    "pages": [
@@ -200,7 +200,7 @@
   {
    "id": "piandefontana",
    "name": "Pian de Fontana",
-   "night": "2027-07-07",
+   "night": "2027-06-28",
    "role": "backup",
    "check": "page",
    "pages": [
