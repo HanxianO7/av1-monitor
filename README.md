@@ -24,7 +24,7 @@ Still-open beds get one reminder every 24 h. It never books or pays. Live status
 4. **Test**: Actions tab → "Alta Via 1 rifugio monitor" → Run workflow → tick *test alert* → you should get a ✅ message.
 5. **First real run**: Run workflow again without the tick. Open `STATUS.md` to see results.
 
-That's it. It stops by itself after 30 Jun 2027 (you can also disable it under Actions).
+That's it. It stops by itself after 7 Jul 2027 (you can also disable it under Actions).
 
 ## Settings (`huts.json`)
 
