@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **15 Oct 2026 23:05 Kuala Lumpur** · 17:05 Italy
+Last check: **16 Oct 2026 00:05 Kuala Lumpur** · 18:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -14,11 +14,11 @@ Trip: 2 guests · dorm only · half board
 | 23 Jun | [Scotoni](https://scotoni.bukly.com/it) | backup | **NOT LIVE YET** | 2027 calendar blank |
 | 23 Jun | [Dibona](https://www.rifugiodibona.app/en) | backup | **WATCHING PAGE** | no booking-text change |
 | 24 Jun | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | **WATCHING PAGE** | no booking-text change (via browser-mode) |
-| 24 Jun | [Città di Fiume](https://rifugiocittadifiume.it/prenota/) | backup | **WATCHING PAGE** | no booking-text change |
+| 24 Jun | [Città di Fiume](https://rifugiocittadifiume.it/prenota/) | backup | **WATCHING PAGE** | page text changed: I AL RIFUGIO CONTATTI PRENOTA PRENOTA Brainfarm 2026-10-15T13:26:20+02:00 EFFETTUA UNA RICHIESTA DI PRENOTAZIONE RIFUGIO  |
 | 24 Jun | [Averau](https://www.rifugioaverau.it/en/) | backup | **LIVE - your night full** | 2027 calendar live, your night closed |
-| 25 Jun | [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-09-08 |
-| 26 Jun | [Vazzoler](https://rifugiovazzoler.com/Booking/index.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-09-08 |
-| 27 Jun | [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-09-08 |
+| 25 Jun | [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-06-09 |
+| 26 Jun | [Vazzoler](https://rifugiovazzoler.com/Booking/index.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-06-09 |
+| 27 Jun | [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-06-09 |
 | 27 Jun | [Passo Duran](https://rifugiopassoduran.it/booking/index_en.php) | backup | **CHECK MANUALLY** | Site shows a CAPTCHA to automated checks - check the calendar by hand |
 | 28 Jun | [Pramperet](https://www.prenotarifugi.cai.it/dettaglio/?id=5925) | preferred | **WATCHING PAGE** | no booking-text change |
 | 28 Jun | [Pian de Fontana](https://www.prenotarifugi.cai.it/dettaglio/?id=5942) | backup | **WATCHING PAGE** | no booking-text change |
