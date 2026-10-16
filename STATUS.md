@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **17 Oct 2026 04:05 Kuala Lumpur** · 22:05 Italy
+Last check: **17 Oct 2026 05:05 Kuala Lumpur** · 23:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -10,15 +10,15 @@ Trip: 2 guests · dorm only · half board
 | 21 Jun | [Sennes](https://www.sennes.com/en/contact/) | backup | **WATCHING PAGE** | no booking-text change |
 | 22 Jun | [Fanes](https://www.rifugiofanes.com/en/rates-request/request-reservation) | preferred | **WATCHING PAGE** | no booking-text change |
 | 22 Jun | [Lavarella](https://lavarella.it/en/book-online) | backup | **WATCHING PAGE** | no booking-text change |
-| 23 Jun | [Lagazuoi](https://rifugiolagazuoi.com/index_en.php) | preferred | **LIVE - your night full** | portal live (control 2027-06-09 has space) |
+| 23 Jun | [Lagazuoi](https://rifugiolagazuoi.com/index_en.php) | preferred | **LIVE - your night full** | portal live, your night full |
 | 23 Jun | [Scotoni](https://scotoni.bukly.com/it) | backup | **NOT LIVE YET** | 2027 calendar blank |
 | 23 Jun | [Dibona](https://www.rifugiodibona.app/en) | backup | **WATCHING PAGE** | no booking-text change |
 | 24 Jun | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | **WATCHING PAGE** | no booking-text change (via browser-mode) |
 | 24 Jun | [Città di Fiume](https://rifugiocittadifiume.it/prenota/) | backup | **WATCHING PAGE** | no booking-text change |
 | 24 Jun | [Averau](https://www.rifugioaverau.it/en/) | backup | **LIVE - your night full** | 2027 calendar live, your night closed |
-| 25 Jun | [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-06-09 |
-| 26 Jun | [Vazzoler](https://rifugiovazzoler.com/Booking/index.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-06-09 |
-| 27 Jun | [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-06-09 |
+| 25 Jun | [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-07-14 |
+| 26 Jun | [Vazzoler](https://rifugiovazzoler.com/Booking/index.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-07-14 |
+| 27 Jun | [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-07-14 |
 | 27 Jun | [Passo Duran](https://rifugiopassoduran.it/booking/index_en.php) | backup | **CHECK MANUALLY** | Site shows a CAPTCHA to automated checks - check the calendar by hand |
 | 28 Jun | [Pramperet](https://www.prenotarifugi.cai.it/dettaglio/?id=5925) | preferred | **WATCHING PAGE** | no booking-text change |
 | 28 Jun | [Pian de Fontana](https://www.prenotarifugi.cai.it/dettaglio/?id=5942) | backup | **WATCHING PAGE** | no booking-text change |
