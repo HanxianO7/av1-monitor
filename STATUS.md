@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **18 Oct 2026 14:05 Kuala Lumpur** · 08:05 Italy
+Last check: **18 Oct 2026 15:05 Kuala Lumpur** · 09:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -16,9 +16,9 @@ Trip: 2 guests · dorm only · half board
 | 24 Jun | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | **WATCHING PAGE** | no booking-text change (via browser-mode) |
 | 24 Jun | [Città di Fiume](https://rifugiocittadifiume.it/prenota/) | backup | **WATCHING PAGE** | no booking-text change |
 | 24 Jun | [Averau](https://www.rifugioaverau.it/en/) | backup | **LIVE - your night full** | 2027 calendar live, your night closed |
-| 25 Jun | [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-08-04 |
-| 26 Jun | [Vazzoler](https://rifugiovazzoler.com/Booking/index.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-08-04 |
-| 27 Jun | [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-08-04 |
+| 25 Jun | [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-09-08 |
+| 26 Jun | [Vazzoler](https://rifugiovazzoler.com/Booking/index.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-09-08 |
+| 27 Jun | [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | **NOT LIVE YET** | no space on your night or control 2027-09-08 |
 | 27 Jun | [Passo Duran](https://rifugiopassoduran.it/booking/index_en.php) | backup | **CHECK MANUALLY** | Site shows a CAPTCHA to automated checks - check the calendar by hand |
 | 28 Jun | [Pramperet](https://www.prenotarifugi.cai.it/dettaglio/?id=5925) | preferred | **WATCHING PAGE** | no booking-text change |
 | 28 Jun | [Pian de Fontana](https://www.prenotarifugi.cai.it/dettaglio/?id=5942) | backup | **WATCHING PAGE** | no booking-text change |
