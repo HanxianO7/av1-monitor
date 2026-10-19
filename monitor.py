@@ -1,6 +1,7 @@
 """Alta Via 1 rifugio booking monitor.
 
-Runs on GitHub Actions. Checks each hut for the trip night and sends a
+Runs on GitHub Actions. Checks each hut for its night under every date plan
+(Plan A, plus Plan B a few days later - see trip.plans in huts.json) and sends a
 Telegram alert ONLY when something actionable changes:
   - dorm beds for 2 appear on your night (engine huts)
   - rooms appear on your night (Scotoni / Bukly - verify dorm)
@@ -31,6 +32,9 @@ STATUS_PATH = ROOT / "STATUS.md"
 
 GUESTS = CFG["trip"]["guests"]
 ALERTS = CFG["alerts"]
+# Date plans: each hut's "night" is the first plan's night; other plans shift it.
+PLANS = CFG["trip"].get("plans") or [{"id": "A", "label": "Plan A", "shift_days": 0}]
+DATED = {"engine", "bukly"}  # checks that look at a specific night
 ROME, KL = ZoneInfo("Europe/Rome"), ZoneInfo("Asia/Kuala_Lumpur")
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -84,6 +88,15 @@ def norm_text(html):
 
 def fmt_night(s):
     return d(s).strftime("%a %d %b %Y")
+
+
+def plan_night(hut, plan):
+    return (d(hut["night"]) + dt.timedelta(days=plan["shift_days"])).isoformat()
+
+
+def state_key(hut, plan):
+    """First plan keeps the plain hut id, so older state carries over as that plan."""
+    return hut["id"] if plan is None or plan is PLANS[0] else f"{hut['id']}@{plan['id']}"
 
 
 # ---------------------------------------------------------------- engine huts
@@ -146,51 +159,72 @@ def post_engine(session, url, night, debug_name=None):
     return res
 
 
-def check_engine(hut, prev):
-    """Light-touch check: 1 request for your night, plus at most 1 control night
-    (rotating), and none once the portal is known to be live."""
+def check_engine(hut, nights, prevs):
+    """Light-touch check: 1 request per plan night, plus at most 1 control night
+    (rotating) shared by all plans, and none once the portal is known to be live.
+    nights/prevs are keyed by plan id; returns a result per plan id."""
     s = requests.Session()
     endpoints = list(hut["endpoints"])
-    if prev.get("endpoint") in endpoints:  # try last known-good first
-        endpoints.remove(prev["endpoint"])
-        endpoints.insert(0, prev["endpoint"])
+    known = next((p.get("endpoint") for p in prevs.values() if p.get("endpoint") in endpoints), None)
+    if known:  # try last known-good first
+        endpoints.remove(known)
+        endpoints.insert(0, known)
     last_err = None
     for url in endpoints:
         dbg = f"{hut['id']}-post-{url.split('//')[-1].split('/')[0]}"
         try:
-            res = post_engine(s, url, hut["night"], debug_name=dbg)
+            raw = {pid: post_engine(s, url, night, debug_name=dbg) for pid, night in nights.items()}
         except Exception as e:  # noqa: BLE001
             last_err = f"{type(e).__name__}: {e}"[:200]
             continue
-        if res["kind"] == "blocked":
-            return {"status": ERROR, "detail": "site showed a bot check (\"One moment, please\") - will retry",
-                    "link": url, "blocked": True}
-        if res["kind"] == "unrecognized":
+        if any(r["kind"] == "blocked" for r in raw.values()):
+            err = {"status": ERROR, "detail": "site showed a bot check (\"One moment, please\") - will retry",
+                   "link": url, "blocked": True}
+            return {pid: dict(err) for pid in nights}
+        if any(r["kind"] == "unrecognized" for r in raw.values()):
             last_err = "page not recognised (layout changed?)"
             continue
         out = {"endpoint": url, "link": url}
-        if res["dorm"] >= GUESTS:
-            return {**out, "status": AVAILABLE,
-                    "detail": f"{res['dorm']} dorm beds shown for your night"}
-        note = ""
-        if res["private"]:
-            note = " (private rooms only)"
-        elif res["kind"] == "rooms" and res["dorm"]:
-            note = f" (only {res['dorm']} dorm bed)"
-        if prev.get("status") == LIVE_FULL:  # a live portal doesn't go back - skip controls
-            return {**out, "status": LIVE_FULL, "detail": "portal live, your night full" + note}
-        controls = CFG["control_nights"]
-        c = controls[now_utc().hour % len(controls)]
-        try:
-            cr = post_engine(s, url, c)
-        except Exception:  # noqa: BLE001
-            cr = {"kind": "error"}
-        if cr["kind"] == "rooms" and (cr["dorm"] or cr["private"]):
-            return {**out, "status": LIVE_FULL, "detail": f"portal live (control {c} has space){note}"}
-        if prev.get("status") == NOT_LIVE or cr["kind"] == "none":
-            return {**out, "status": NOT_LIVE, "detail": f"no space on your night or control {c}{note}"}
-        return {**out, "status": prev.get("status") or NOT_LIVE, "detail": f"control {c} unreadable{note}"}
-    return {"status": ERROR, "detail": last_err or "all endpoints failed", "link": hut["endpoints"][0]}
+        # a plan night showing rooms, or a portal already seen live, means no control needed
+        live = (any(r["kind"] == "rooms" and (r["dorm"] or r["private"]) for r in raw.values())
+                or any(p.get("status") == LIVE_FULL for p in prevs.values()))
+        control = {}  # fetched at most once, only if needed
+
+        def control_result():
+            if not control:
+                c = CFG["control_nights"][now_utc().hour % len(CFG["control_nights"])]
+                try:
+                    control[c] = post_engine(s, url, c)
+                except Exception:  # noqa: BLE001
+                    control[c] = {"kind": "error"}
+            return next(iter(control.items()))
+
+        results = {}
+        for pid, res in raw.items():
+            prev = prevs.get(pid, {})
+            if res["dorm"] >= GUESTS:
+                results[pid] = {**out, "status": AVAILABLE,
+                                "detail": f"{res['dorm']} dorm beds shown for your night"}
+                continue
+            note = ""
+            if res["private"]:
+                note = " (private rooms only)"
+            elif res["kind"] == "rooms" and res["dorm"]:
+                note = f" (only {res['dorm']} dorm bed)"
+            if live:  # a live portal doesn't go back - skip controls
+                results[pid] = {**out, "status": LIVE_FULL, "detail": "portal live, your night full" + note}
+                continue
+            c, cr = control_result()
+            if cr["kind"] == "rooms" and (cr["dorm"] or cr["private"]):
+                results[pid] = {**out, "status": LIVE_FULL, "detail": f"portal live (control {c} has space){note}"}
+            elif prev.get("status") == NOT_LIVE or cr["kind"] == "none":
+                results[pid] = {**out, "status": NOT_LIVE, "detail": f"no space on your night or control {c}{note}"}
+            else:
+                results[pid] = {**out, "status": prev.get("status") or NOT_LIVE,
+                                "detail": f"control {c} unreadable{note}"}
+        return results
+    err = {"status": ERROR, "detail": last_err or "all endpoints failed", "link": hut["endpoints"][0]}
+    return {pid: dict(err) for pid in nights}
 
 
 # ---------------------------------------------------------------- Bukly (Scotoni)
@@ -198,10 +232,11 @@ MONTHS_IT = {"gen": 1, "feb": 2, "mar": 3, "apr": 4, "mag": 5, "giu": 6,
              "lug": 7, "ago": 8, "set": 9, "ott": 10, "nov": 11, "dic": 12}
 
 
-def bukly_get(hut, night):
-    """Returns (url, on_day, any_open, rooms_text). on_day None = page not recognised.
+def bukly_get(hut, night, also=()):
+    """Returns {night: (url, on_day, any_open, rooms_text)} for `night` and any of the
+    `also` nights the same page covers. on_day None = page not recognised.
     Ported from the old monitor: either a room list (night bookable) or a ~16-day
-    grid of div.s-open / div.s-closed cells, read by the column for the trip night."""
+    grid of div.s-open / div.s-closed cells, read by the column for each trip night."""
     a = d(night)
     url = f"{hut['base']}/{a.isoformat()}/{(a + dt.timedelta(days=1)).isoformat()}/"
     r = requests.get(url, headers=HEADERS, timeout=40)
@@ -212,56 +247,84 @@ def bukly_get(hut, night):
     if table is None:
         rooms = soup.select(".hotel-room__info")
         if rooms:
-            return url, len(rooms), True, " | ".join(
-                re.sub(r"\s+", " ", x.get_text(" ")).strip()[:60] for x in rooms[:4])
-        return url, None, None, ""
+            return {night: (url, len(rooms), True, " | ".join(
+                re.sub(r"\s+", " ", x.get_text(" ")).strip()[:60] for x in rooms[:4]))}
+        return {night: (url, None, None, "")}
     heads = []
     for th in table.find_all("th"):
         day, mon = th.find("span", class_="day"), th.find("span", class_="month")
         if day and mon:
             heads.append((MONTHS_IT.get(mon.get_text(strip=True)[:3].lower()), int(day.get_text(strip=True))))
-    col = heads.index((a.month, a.day)) if (a.month, a.day) in heads else None
-    any_open, on_day = False, 0
-    for tr in table.find_all("tr"):
-        cells = tr.find_all("td")[1:]
-        if any(c.find("div", class_="s-open") for c in cells):
-            any_open = True
-        if col is not None and col < len(cells) and cells[col].find("div", class_="s-open"):
-            on_day += 1
-    return url, on_day, any_open, ""
+    rows = [tr.find_all("td")[1:] for tr in table.find_all("tr")]
+    any_open = any(c.find("div", class_="s-open") for cells in rows for c in cells)
+    out = {}
+    for n in [night, *also]:
+        nd = d(n)
+        if (nd.month, nd.day) not in heads:
+            if n == night:
+                out[n] = (url, 0, any_open, "")
+            continue
+        col = heads.index((nd.month, nd.day))
+        on_day = sum(1 for cells in rows if col < len(cells) and cells[col].find("div", class_="s-open"))
+        out[n] = (url, on_day, any_open, "")
+    return out
 
 
-def check_bukly(hut, prev):
+def bukly_nights(hut, nights):
+    """Read every trip night, reusing one calendar page where it covers several."""
+    pending, got = list(dict.fromkeys(nights)), {}
+    while pending:
+        night, pending = pending[0], pending[1:]
+        got.update(bukly_get(hut, night, also=pending))
+        pending = [n for n in pending if n not in got]
+    return got
+
+
+def check_bukly(hut, nights, prevs):
+    """nights/prevs are keyed by plan id; returns a result per plan id."""
     bases = list(hut.get("bases") or [hut["base"]])
-    if prev.get("base") in bases:  # try last known-good address first
-        bases.remove(prev["base"])
-        bases.insert(0, prev["base"])
+    known = next((p.get("base") for p in prevs.values() if p.get("base") in bases), None)
+    if known:  # try last known-good address first
+        bases.remove(known)
+        bases.insert(0, known)
     last = "no address worked"
     for base in bases:
         h = {**hut, "base": base}
         try:
-            url, on_day, any_open, names = bukly_get(h, hut["night"])
+            got = bukly_nights(h, nights.values())
         except Exception as e:  # noqa: BLE001
             last = f"{base.split('//')[-1].split('/')[0]}: {type(e).__name__}"
             continue
-        if on_day is None:
+        if any(v[1] is None for v in got.values()):
             last = f"{base.split('//')[-1].split('/')[0]}: calendar page not recognised"
             continue
-        out = {"link": url, "base": base}
-        if on_day:
-            dorm = "dorm-type room listed" if DORM_RE.search(names) else "check if any are dorm"
-            return {**out, "status": ROOMS, "detail": f"{on_day} room type(s) open: {dorm}. {names}".strip()}
-        if any_open:
-            return {**out, "status": LIVE_FULL, "detail": "2027 calendar live, your night closed"}
-        for c in ["2027-07-15", "2027-08-15", "2027-09-14"]:
-            try:
-                _, _, ao, _ = bukly_get(h, c)
-            except Exception:  # noqa: BLE001
-                continue
-            if ao:
-                return {**out, "status": LIVE_FULL, "detail": f"calendar live (control {c})"}
-        return {**out, "status": NOT_LIVE, "detail": "2027 calendar blank"}
-    return {"status": ERROR, "detail": last[:200], "link": bases[0]}
+        live = any(v[2] for v in got.values())
+        if not live:
+            for c in ["2027-07-15", "2027-08-15", "2027-09-14"]:
+                try:
+                    _, _, ao, _ = bukly_get(h, c)[c]
+                except Exception:  # noqa: BLE001
+                    continue
+                if ao:
+                    live = c
+                    break
+        results = {}
+        for pid, night in nights.items():
+            url, on_day, _, names = got[night]
+            out = {"link": url, "base": base}
+            if on_day:
+                dorm = "dorm-type room listed" if DORM_RE.search(names) else "check if any are dorm"
+                results[pid] = {**out, "status": ROOMS,
+                                "detail": f"{on_day} room type(s) open: {dorm}. {names}".strip()}
+            elif live is True:
+                results[pid] = {**out, "status": LIVE_FULL, "detail": "2027 calendar live, your night closed"}
+            elif live:
+                results[pid] = {**out, "status": LIVE_FULL, "detail": f"calendar live (control {live})"}
+            else:
+                results[pid] = {**out, "status": NOT_LIVE, "detail": "2027 calendar blank"}
+        return results
+    err = {"status": ERROR, "detail": last[:200], "link": bases[0]}
+    return {pid: dict(err) for pid in nights}
 
 
 # ---------------------------------------------------------------- page watch
@@ -393,11 +456,20 @@ def esc(s):
     return str(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-def alert_text(hut, res, reminder=False):
+def night_line(hut, plan):
+    if plan:
+        tag = f"{plan['label']} · " if len(PLANS) > 1 else ""
+        return f"{tag}Night: {fmt_night(plan_night(hut, plan))}"
+    if len(PLANS) > 1:
+        return "Nights: " + " / ".join(f"{p['label']} {fmt_night(plan_night(hut, p))}" for p in PLANS)
+    return f"Night: {fmt_night(hut['night'])}"
+
+
+def alert_text(hut, res, plan=None, reminder=False):
     icon = {AVAILABLE: "🟢", ROOMS: "🟢", PAGE_OPEN: "🟡"}.get(res["status"], "⚠️")
     head = "Still available" if reminder else res["status"]
     lines = [f"{icon} <b>{esc(hut['name'])}</b> ({hut['role']}) - {esc(head)}",
-             f"Night: {fmt_night(hut['night'])} · {GUESTS} guests · dorm · half board",
+             f"{night_line(hut, plan)} · {GUESTS} guests · dorm · half board",
              esc(res.get("detail", ""))]
     if res.get("link"):
         lines.append(esc(res["link"]))
@@ -416,13 +488,33 @@ def write_status(results, state, ts):
     rome, kl = ts.astimezone(ROME), ts.astimezone(KL)
     lines = ["# Alta Via 1 booking monitor", "",
              f"Last check: **{kl:%d %b %Y %H:%M} Kuala Lumpur** · {rome:%H:%M} Italy", "",
-             f"Trip: {GUESTS} guests · dorm only · half board", "",
-             "| Night | Hut | Role | Status | Detail |", "|---|---|---|---|---|"]
+             f"Trip: {GUESTS} guests · dorm only · half board", ""]
+
+    def res_for(hut, plan):
+        k = state_key(hut, plan if hut["check"] in DATED else None)
+        return results.get(k) or state.get(k, {})
+
+    for plan in PLANS:
+        nights = sorted({plan_night(h, plan) for h in CFG["huts"]})
+        beds = sorted({plan_night(h, plan) for h in CFG["huts"]
+                       if res_for(h, plan).get("status") in (AVAILABLE, ROOMS)})
+        where = f" ({', '.join(f'{d(n):%d %b}' for n in beds)})" if beds else ""
+        lines.append(f"- **{plan['label']}** ({d(nights[0]):%d %b} - {d(nights[-1]):%d %b}): "
+                     f"beds showing on {len(beds)} of {len(nights)} nights{where}")
+    lines += ["", "| Hut | Role | " + " | ".join(f"{p['label']} night | {p['label']} status" for p in PLANS)
+              + " | Detail |", "|---|---|" + "---|---|" * len(PLANS) + "---|"]
     for hut in CFG["huts"]:
-        r = results.get(hut["id"]) or state.get(hut["id"], {})
-        name = f"[{hut['name']}]({r['link']})" if r.get("link") else hut["name"]
-        detail = str(r.get("detail", "")).replace("|", "/")[:140]
-        lines.append(f"| {d(hut['night']):%d %b} | {name} | {hut['role']} | **{r.get('status', '-')}** | {detail} |")
+        rs = [res_for(hut, p) for p in PLANS]
+        link = next((r["link"] for r in rs if r.get("link")), "")
+        name = f"[{hut['name']}]({link})" if link else hut["name"]
+        cells = " | ".join(f"{d(plan_night(hut, p)):%d %b} | **{r.get('status', '-')}**" for p, r in zip(PLANS, rs))
+        details = [str(r.get("detail", "")) for r in rs]
+        if len(set(details)) > 1:
+            detail = "; ".join(f"{p['id']}: {x}" for p, x in zip(PLANS, details))
+        else:
+            detail = details[0]
+        detail = detail.replace("|", "/")[:200]
+        lines.append(f"| {name} | {hut['role']} | {cells} | {detail} |")
     STATUS_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
@@ -465,51 +557,67 @@ def main():
                 save_debug(f"{hut['id']}-page{i}", f"ERROR {e}")
     results, sent = {}, []
     for hut in CFG["huts"]:
-        prev = state.get(hut["id"], {})
-        try:
-            res = CHECKS[hut["check"]](hut, prev)
-        except Exception as e:  # noqa: BLE001 - never crash the whole run
-            res = {"status": ERROR, "detail": f"{type(e).__name__}: {e}"[:200]}
-        if hut.get("book_url"):
-            res["probe_url"] = res.get("link", "")
-            res["link"] = hut["book_url"]
-        status, pstatus = res["status"], prev.get("status")
-        res["checked"] = ts.isoformat()
-        res["since"] = prev.get("since") if status == pstatus else ts.isoformat()
-        res["errors"] = prev.get("errors", 0) + 1 if status == ERROR else 0
-        res["alerted"] = prev.get("alerted") if status == pstatus else None
-        if status == ERROR and pstatus and pstatus != ERROR:
-            res["last_good"] = pstatus  # keep last real result visible
-        elif status == ERROR:
-            res["last_good"] = prev.get("last_good")
+        if hut["check"] in DATED:
+            keys = {p["id"]: state_key(hut, p) for p in PLANS}
+            prevs = {pid: state.get(k, {}) for pid, k in keys.items()}
+            try:
+                by_plan = CHECKS[hut["check"]](hut, {p["id"]: plan_night(hut, p) for p in PLANS}, prevs)
+            except Exception as e:  # noqa: BLE001 - never crash the whole run
+                by_plan = {p["id"]: {"status": ERROR, "detail": f"{type(e).__name__}: {e}"[:200]} for p in PLANS}
+            jobs = [(p, keys[p["id"]], by_plan[p["id"]], prevs[p["id"]]) for p in PLANS]
+        else:
+            prev = state.get(hut["id"], {})
+            try:
+                res = CHECKS[hut["check"]](hut, prev)
+            except Exception as e:  # noqa: BLE001 - never crash the whole run
+                res = {"status": ERROR, "detail": f"{type(e).__name__}: {e}"[:200]}
+            jobs = [(None, hut["id"], res, prev)]
 
-        send = None
-        if status in ALERT_STATUSES and status != pstatus:
-            send = alert_text(hut, res)
-        elif status in ALERT_STATUSES and res["alerted"] and ALERTS["remind_hours"]:
-            last = dt.datetime.fromisoformat(res["alerted"])
-            if ts - last >= dt.timedelta(hours=ALERTS["remind_hours"]):
-                send = alert_text(hut, res, reminder=True)
-        elif status == LIVE_FULL and pstatus == NOT_LIVE and ALERTS["portal_live"]:
-            send = f"🔵 <b>{esc(hut['name'])}</b>: 2027 portal is live, but your night is full."
-        elif status == WATCHING and res.get("changed") and ALERTS["page_changes"]:
-            send = f"📝 <b>{esc(hut['name'])}</b> booking text changed:\n{esc(res['detail'])}\n{esc(res['link'])}"
-        elif status == ERROR and res["errors"] == ALERTS["error_after_runs"]:
-            send = (f"⚠️ <b>{esc(hut['name'])}</b> check has failed {res['errors']} runs in a row.\n"
-                    f"{esc(res['detail'])}\n"
-                    + ("The site is blocking automated checks - check it by hand for now."
-                       if res.get("blocked") else "The monitor may need fixing for this hut."))
-        if (not send and "banner" in prev and "banner" in res
-                and res["banner"] != prev["banner"]):
-            send = (f"📢 <b>{esc(hut['name'])}</b> booking banner changed:\n"
-                    f"was: {esc(prev['banner'] or '(none)')}\n"
-                    f"now: {esc(res['banner'] or '(removed)')}\n{esc(hut['book_url'])}")
-        if send and telegram(send):
-            res["alerted"] = ts.isoformat()
-            sent.append(hut["id"])
+        for plan, key, res, prev in jobs:
+            if hut.get("book_url"):
+                res["probe_url"] = res.get("link", "")
+                res["link"] = hut["book_url"]
+            status, pstatus = res["status"], prev.get("status")
+            res["checked"] = ts.isoformat()
+            res["since"] = prev.get("since") if status == pstatus else ts.isoformat()
+            res["errors"] = prev.get("errors", 0) + 1 if status == ERROR else 0
+            res["alerted"] = prev.get("alerted") if status == pstatus else None
+            if status == ERROR and pstatus and pstatus != ERROR:
+                res["last_good"] = pstatus  # keep last real result visible
+            elif status == ERROR:
+                res["last_good"] = prev.get("last_good")
+            tag = f" ({plan['label']})" if plan and len(PLANS) > 1 else ""
 
-        results[hut["id"]] = res
-        print(f"{hut['night']}  {hut['name']:<18} {status:<24} {str(res.get('detail',''))[:80]}")
+            send = None
+            if status in ALERT_STATUSES and status != pstatus:
+                send = alert_text(hut, res, plan)
+            elif status in ALERT_STATUSES and res["alerted"] and ALERTS["remind_hours"]:
+                last = dt.datetime.fromisoformat(res["alerted"])
+                if ts - last >= dt.timedelta(hours=ALERTS["remind_hours"]):
+                    send = alert_text(hut, res, plan, reminder=True)
+            elif status == LIVE_FULL and pstatus == NOT_LIVE and ALERTS["portal_live"]:
+                send = f"🔵 <b>{esc(hut['name'])}</b>{esc(tag)}: 2027 portal is live, but your night is full."
+            elif status == WATCHING and res.get("changed") and ALERTS["page_changes"]:
+                send = f"📝 <b>{esc(hut['name'])}</b> booking text changed:\n{esc(res['detail'])}\n{esc(res['link'])}"
+            elif (status == ERROR and res["errors"] == ALERTS["error_after_runs"]
+                  and plan in (None, PLANS[0])):  # plans share requests - one warning is enough
+                send = (f"⚠️ <b>{esc(hut['name'])}</b> check has failed {res['errors']} runs in a row.\n"
+                        f"{esc(res['detail'])}\n"
+                        + ("The site is blocking automated checks - check it by hand for now."
+                           if res.get("blocked") else "The monitor may need fixing for this hut."))
+            if (not send and "banner" in prev and "banner" in res
+                    and res["banner"] != prev["banner"]):
+                send = (f"📢 <b>{esc(hut['name'])}</b> booking banner changed:\n"
+                        f"was: {esc(prev['banner'] or '(none)')}\n"
+                        f"now: {esc(res['banner'] or '(removed)')}\n{esc(hut['book_url'])}")
+            if send and telegram(send):
+                res["alerted"] = ts.isoformat()
+                sent.append(key)
+
+            results[key] = res
+            night = plan_night(hut, plan) if plan else hut["night"]
+            label = plan["id"] if plan else "*"
+            print(f"{night} {label} {hut['name']:<18} {status:<24} {str(res.get('detail',''))[:80]}")
 
     STATE_PATH.parent.mkdir(exist_ok=True)
     STATE_PATH.write_text(json.dumps({**results, "_reminders": reminders_done},
