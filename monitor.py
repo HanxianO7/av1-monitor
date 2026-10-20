@@ -94,6 +94,11 @@ def plan_night(hut, plan):
     return (d(hut["night"]) + dt.timedelta(days=plan["shift_days"])).isoformat()
 
 
+def per_plan(hut):
+    """True when a hut has its own result for each plan."""
+    return hut["check"] in DATED or bool(hut.get("booked"))
+
+
 def state_key(hut, plan):
     """First plan keeps the plain hut id, so older state carries over as that plan."""
     return hut["id"] if plan is None or plan is PLANS[0] else f"{hut['id']}@{plan['id']}"
@@ -426,6 +431,8 @@ def check_page(hut, prev):
 
 
 MANUAL = "CHECK MANUALLY"
+BOOKED = "BOOKED"
+NOT_TRACKED = "-"  # another plan's night is booked at this hut
 
 
 def check_manual(hut, prev):
@@ -498,16 +505,18 @@ def write_status(results, state, ts):
              f"Trip: {GUESTS} guests · dorm only · half board", ""]
 
     def res_for(hut, plan):
-        k = state_key(hut, plan if hut["check"] in DATED else None)
+        k = state_key(hut, plan if per_plan(hut) else None)
         return results.get(k) or state.get(k, {})
 
     for plan in PLANS:
         nights = sorted({plan_night(h, plan) for h in CFG["huts"]})
         beds = sorted({plan_night(h, plan) for h in CFG["huts"]
                        if res_for(h, plan).get("status") in (AVAILABLE, ROOMS)})
+        booked = sorted({plan_night(h, plan) for h in CFG["huts"] if res_for(h, plan).get("status") == BOOKED})
         where = f" ({', '.join(f'{d(n):%d %b}' for n in beds)})" if beds else ""
+        done = f" · booked: {', '.join(f'{d(n):%d %b}' for n in booked)}" if booked else ""
         lines.append(f"- **{plan['label']}** ({d(nights[0]):%d %b} - {d(nights[-1]):%d %b}): "
-                     f"beds showing on {len(beds)} of {len(nights)} nights{where}")
+                     f"beds showing on {len(beds)} of {len(nights)} nights{where}{done}")
     lines += ["", "| Hut | Role | " + " | ".join(f"{p['label']} night | {p['label']} status" for p in PLANS)
               + " | Detail |", "|---|---|" + "---|---|" * len(PLANS) + "---|"]
     for hut in CFG["huts"]:
@@ -566,7 +575,14 @@ def main():
                 save_debug(f"{hut['id']}-page{i}", f"ERROR {e}")
     results, sent = {}, []
     for hut in CFG["huts"]:
-        if hut["check"] in DATED:
+        if hut.get("booked"):  # already booked - no requests, no alerts
+            b = hut["booked"]
+            keys = {p["id"]: state_key(hut, p) for p in PLANS}
+            jobs = [(p, keys[p["id"]],
+                     {"status": BOOKED, "detail": b.get("note", "booked")} if p["id"] == b["plan"]
+                     else {"status": NOT_TRACKED, "detail": b.get("note", "booked")},
+                     state.get(keys[p["id"]], {})) for p in PLANS]
+        elif hut["check"] in DATED:
             keys = {p["id"]: state_key(hut, p) for p in PLANS}
             prevs = {pid: state.get(k, {}) for pid, k in keys.items()}
             try:

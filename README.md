@@ -34,6 +34,7 @@ That's it. It stops by itself after 30 Jun 2027 (you can also disable it under A
 | `alerts.page_changes` | `false` | Also alert on any booking-text change on watched pages |
 | `alerts.remind_hours` | `24` | Reminder interval while beds stay open (`0` = off) |
 | `trip.plans` | A +0, B +2 days | Date plans to track; `shift_days` moves every hut's night (Plan A = the `night` in each hut) |
+| `huts[].booked` | not set | e.g. `{"plan": "A", "note": "..."}`: hut is booked, so it's no longer checked and sends no alerts |
 | `huts[].pages` | set | Pages watched for "2027 bookings open" text |
 
 To change frequency, edit the `cron` line in `.github/workflows/monitor.yml`.
