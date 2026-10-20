@@ -311,7 +311,9 @@ def check_bukly(hut, nights, prevs):
         results = {}
         for pid, night in nights.items():
             url, on_day, _, names = got[night]
-            out = {"link": url, "base": base}
+            n = d(night)  # page may have been read for another night - link this plan's own dates
+            dated = f"{base}/{n.isoformat()}/{(n + dt.timedelta(days=1)).isoformat()}/"
+            out = {"link": dated, "base": base, "dated_link": dated}
             if on_day:
                 dorm = "dorm-type room listed" if DORM_RE.search(names) else "check if any are dorm"
                 results[pid] = {**out, "status": ROOMS,
@@ -471,8 +473,13 @@ def alert_text(hut, res, plan=None, reminder=False):
     lines = [f"{icon} <b>{esc(hut['name'])}</b> ({hut['role']}) - {esc(head)}",
              f"{night_line(hut, plan)} · {GUESTS} guests · dorm · half board",
              esc(res.get("detail", ""))]
-    if res.get("link"):
+    if res.get("dated_link"):
+        lines.append(f'<a href="{esc(res["dated_link"])}">Open booking page for these dates</a>')
+    elif res.get("link"):
         lines.append(esc(res["link"]))
+        if plan and hut["check"] in DATED:  # booking form needs the dates typed in
+            n = d(plan_night(hut, plan))
+            lines.append(f"Enter: arrive {n:%d %b %Y}, leave {n + dt.timedelta(days=1):%d %b %Y}, {GUESTS} guests")
     lines.append("Book by hand - check deposit terms before paying.")
     return "\n".join(lines)
 
@@ -507,7 +514,9 @@ def write_status(results, state, ts):
         rs = [res_for(hut, p) for p in PLANS]
         link = next((r["link"] for r in rs if r.get("link")), "")
         name = f"[{hut['name']}]({link})" if link else hut["name"]
-        cells = " | ".join(f"{d(plan_night(hut, p)):%d %b} | **{r.get('status', '-')}**" for p, r in zip(PLANS, rs))
+        cells = " | ".join(
+            (f"[{d(plan_night(hut, p)):%d %b}]({r['dated_link']})" if r.get("dated_link")
+             else f"{d(plan_night(hut, p)):%d %b}") + f" | **{r.get('status', '-')}**" for p, r in zip(PLANS, rs))
         details = [str(r.get("detail", "")) for r in rs]
         if len(set(details)) > 1:
             detail = "; ".join(f"{p['id']}: {x}" for p, x in zip(PLANS, details))
