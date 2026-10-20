@@ -8,14 +8,9 @@
     "id": "A",
     "label": "Plan A",
     "shift_days": 0
-   },
-   {
-    "id": "B",
-    "label": "Plan B",
-    "shift_days": 2
    }
   ],
-  "stop_after": "2027-06-30"
+  "stop_after": "2027-06-28"
  },
  "control_nights": [
   "2027-06-09",
