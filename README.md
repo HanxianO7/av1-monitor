@@ -7,7 +7,7 @@ Checks your huts every 4 hours on GitHub (free) and messages you on Telegram **o
 - 🟡 a hut page says 2027 bookings are open (page-watch huts)
 - ⚠️ a check has failed 3 runs in a row (so it never dies silently)
 
-Each night is tracked for both date plans (**Plan A** from 21 Jun, **Plan B** from 23 Jun), and every alert says which plan and night it's for. Still-open beds get one reminder every 24 h. It never books or pays. Live status is in `STATUS.md`.
+Still-open beds get one reminder every 24 h. It never books or pays. Live status is in `STATUS.md`.
 
 ## Setup (about 15 min, easiest on a laptop)
 
@@ -24,7 +24,7 @@ Each night is tracked for both date plans (**Plan A** from 21 Jun, **Plan B** fr
 4. **Test**: Actions tab → "Alta Via 1 rifugio monitor" → Run workflow → tick *test alert* → you should get a ✅ message.
 5. **First real run**: Run workflow again without the tick. Open `STATUS.md` to see results.
 
-That's it. It stops by itself after 30 Jun 2027 (you can also disable it under Actions).
+That's it. It stops by itself after 28 Jun 2027 (you can also disable it under Actions).
 
 ## Settings (`huts.json`)
 
@@ -33,7 +33,7 @@ That's it. It stops by itself after 30 Jun 2027 (you can also disable it under A
 | `alerts.portal_live` | `false` | Also alert when a portal opens but your night is full |
 | `alerts.page_changes` | `false` | Also alert on any booking-text change on watched pages |
 | `alerts.remind_hours` | `24` | Reminder interval while beds stay open (`0` = off) |
-| `trip.plans` | A +0, B +2 days | Date plans to track; `shift_days` moves every hut's night (Plan A = the `night` in each hut) |
+| `trip.plans` | Plan A only | Date plans to track (add e.g. `{"id": "B", "label": "Plan B", "shift_days": 2}` for a backup start date); `shift_days` moves every hut's night (Plan A = the `night` in each hut) |
 | `huts[].booked` | not set | e.g. `{"plan": "A", "note": "..."}`: hut is booked, so it's no longer checked and sends no alerts |
 | `huts[].pages` | set | Pages watched for "2027 bookings open" text |
 
