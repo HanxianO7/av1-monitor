@@ -99,6 +99,11 @@ def per_plan(hut):
     return hut["check"] in DATED or bool(hut.get("booked"))
 
 
+def settled(prev):
+    """Last real status, looking through a temporary ERROR (slow site, bot check)."""
+    return prev.get("last_good") if prev.get("status") == ERROR else prev.get("status")
+
+
 def state_key(hut, plan):
     """First plan keeps the plain hut id, so older state carries over as that plan."""
     return hut["id"] if plan is None or plan is PLANS[0] else f"{hut['id']}@{plan['id']}"
@@ -155,8 +160,15 @@ def post_engine(session, url, night, debug_name=None):
     arr = d(night) if isinstance(night, str) else night
     data = {"arrivo": ddmmyyyy(arr), "partenza": ddmmyyyy(arr + dt.timedelta(days=1)),
             "persone": str(GUESTS)}
-    r = session.post(url, data=data, headers=HEADERS, timeout=TIMEOUT)
-    r.raise_for_status()
+    for attempt in (1, 2):  # small hut servers sometimes stall - retry once
+        try:
+            r = session.post(url, data=data, headers=HEADERS, timeout=TIMEOUT)
+            r.raise_for_status()
+            break
+        except (requests.Timeout, requests.ConnectionError):
+            if attempt == 2:
+                raise
+            time.sleep(PAUSE * 5)
     time.sleep(PAUSE)
     res = parse_engine(r.text)
     if res["kind"] == "unrecognized" and debug_name:
@@ -192,7 +204,7 @@ def check_engine(hut, nights, prevs):
         out = {"endpoint": url, "link": url}
         # a plan night showing rooms, or a portal already seen live, means no control needed
         live = (any(r["kind"] == "rooms" and (r["dorm"] or r["private"]) for r in raw.values())
-                or any(p.get("status") == LIVE_FULL for p in prevs.values()))
+                or any(settled(p) == LIVE_FULL for p in prevs.values()))
         control = {}  # fetched at most once, only if needed
 
         def control_result():
@@ -222,10 +234,10 @@ def check_engine(hut, nights, prevs):
             c, cr = control_result()
             if cr["kind"] == "rooms" and (cr["dorm"] or cr["private"]):
                 results[pid] = {**out, "status": LIVE_FULL, "detail": f"portal live (control {c} has space){note}"}
-            elif prev.get("status") == NOT_LIVE or cr["kind"] == "none":
+            elif settled(prev) == NOT_LIVE or cr["kind"] == "none":
                 results[pid] = {**out, "status": NOT_LIVE, "detail": f"no space on your night or control {c}{note}"}
             else:
-                results[pid] = {**out, "status": prev.get("status") or NOT_LIVE,
+                results[pid] = {**out, "status": settled(prev) or NOT_LIVE,
                                 "detail": f"control {c} unreadable{note}"}
         return results
     err = {"status": ERROR, "detail": last_err or "all endpoints failed", "link": hut["endpoints"][0]}
@@ -602,15 +614,15 @@ def main():
             if hut.get("book_url"):
                 res["probe_url"] = res.get("link", "")
                 res["link"] = hut["book_url"]
-            status, pstatus = res["status"], prev.get("status")
+            # compare against the last real status, so a one-off error doesn't
+            # make an unchanged result look new (and re-send its alert)
+            status, pstatus = res["status"], settled(prev)
             res["checked"] = ts.isoformat()
-            res["since"] = prev.get("since") if status == pstatus else ts.isoformat()
+            res["since"] = prev.get("since") if status == prev.get("status") else ts.isoformat()
             res["errors"] = prev.get("errors", 0) + 1 if status == ERROR else 0
-            res["alerted"] = prev.get("alerted") if status == pstatus else None
-            if status == ERROR and pstatus and pstatus != ERROR:
+            res["alerted"] = prev.get("alerted") if status in (pstatus, ERROR) else None
+            if status == ERROR:
                 res["last_good"] = pstatus  # keep last real result visible
-            elif status == ERROR:
-                res["last_good"] = prev.get("last_good")
             tag = f" ({plan['label']})" if plan and len(PLANS) > 1 else ""
 
             send = None
