@@ -41,7 +41,8 @@ HEADERS = {
                   "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
     "Accept-Language": "en-GB,en;q=0.9,it;q=0.8",
 }
-TIMEOUT = 25
+CONNECT_TIMEOUT, READ_TIMEOUT = 10, 25
+TIMEOUT = (CONNECT_TIMEOUT, READ_TIMEOUT)  # give up fast on a site that's down
 PAUSE = 3  # seconds between requests - be polite to small hut servers
 
 # Status values
@@ -186,20 +187,21 @@ def check_engine(hut, nights, prevs):
     if known:  # try last known-good first
         endpoints.remove(known)
         endpoints.insert(0, known)
-    last_err = None
+    last_err, unreachable = None, True
     for url in endpoints:
         dbg = f"{hut['id']}-post-{url.split('//')[-1].split('/')[0]}"
         try:
             raw = {pid: post_engine(s, url, night, debug_name=dbg) for pid, night in nights.items()}
         except Exception as e:  # noqa: BLE001
             last_err = f"{type(e).__name__}: {e}"[:200]
+            unreachable &= isinstance(e, requests.ConnectionError)
             continue
         if any(r["kind"] == "blocked" for r in raw.values()):
             err = {"status": ERROR, "detail": "site showed a bot check (\"One moment, please\") - will retry",
                    "link": url, "blocked": True}
             return {pid: dict(err) for pid in nights}
         if any(r["kind"] == "unrecognized" for r in raw.values()):
-            last_err = "page not recognised (layout changed?)"
+            last_err, unreachable = "page not recognised (layout changed?)", False
             continue
         out = {"endpoint": url, "link": url}
         # a plan night showing rooms, or a portal already seen live, means no control needed
@@ -240,7 +242,8 @@ def check_engine(hut, nights, prevs):
                 results[pid] = {**out, "status": settled(prev) or NOT_LIVE,
                                 "detail": f"control {c} unreadable{note}"}
         return results
-    err = {"status": ERROR, "detail": last_err or "all endpoints failed", "link": hut["endpoints"][0]}
+    err = {"status": ERROR, "detail": last_err or "all endpoints failed", "link": hut["endpoints"][0],
+           "unreachable": unreachable}
     return {pid: dict(err) for pid in nights}
 
 
@@ -377,25 +380,34 @@ def page_sentences(html):
     return sorted(out)
 
 
+class Unreachable(RuntimeError):
+    """The site couldn't be connected to at all (down, or dropping our traffic)."""
+
+
 def fetch_page(url):
     """GET a page. If a site blocks GitHub's servers (e.g. Cloudflare), retry
-    with a browser-like TLS fingerprint, then via the r.jina.ai reader proxy."""
-    errs = []
+    with a browser-like TLS fingerprint, then via the r.jina.ai reader proxy.
+    Raises Unreachable if no connection can be made at all."""
+    errs, no_connect = [], False
     try:
         r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
         if r.status_code < 400:
             return r.text, "direct"
         errs.append(f"HTTP {r.status_code}")
+    except requests.ConnectionError as e:  # includes connect timeouts
+        errs.append(type(e).__name__)
+        no_connect = True  # browser-mode uses the same network - skip it
     except Exception as e:  # noqa: BLE001
         errs.append(type(e).__name__)
-    try:
-        from curl_cffi import requests as creq
-        r = creq.get(url, impersonate="chrome", timeout=TIMEOUT)
-        if r.status_code < 400:
-            return r.text, "browser-mode"
-        errs.append(f"browser-mode HTTP {r.status_code}")
-    except Exception as e:  # noqa: BLE001
-        errs.append(f"browser-mode {type(e).__name__}")
+    if not no_connect:
+        try:
+            from curl_cffi import requests as creq
+            r = creq.get(url, impersonate="chrome", timeout=READ_TIMEOUT)
+            if r.status_code < 400:
+                return r.text, "browser-mode"
+            errs.append(f"browser-mode HTTP {r.status_code}")
+        except Exception as e:  # noqa: BLE001
+            errs.append(f"browser-mode {type(e).__name__}")
     try:
         r = requests.get("https://r.jina.ai/" + url, timeout=45)
         if r.status_code < 400 and len(r.text) > 200:
@@ -403,14 +415,18 @@ def fetch_page(url):
         errs.append(f"proxy HTTP {r.status_code}")
     except Exception as e:  # noqa: BLE001
         errs.append(f"proxy {type(e).__name__}")
-    raise RuntimeError(", ".join(errs))
+    raise (Unreachable if no_connect else RuntimeError)(", ".join(errs))
 
 
 def check_page(hut, prev):
     if not hut.get("pages"):
         return {"status": NO_URL, "detail": hut.get("todo", "add a URL in huts.json"), "link": ""}
-    sents, errors, vias, banner = set(), [], set(), None
+    sents, errors, vias, banner, dead = set(), [], set(), None, set()
     for url in hut["pages"]:
+        host = url.split("//")[-1].split("/")[0]
+        if host in dead:  # one unreachable page means the whole site is - don't wait again
+            errors.append(f"{url.split('//')[-1][:40]}: skipped, site unreachable")
+            continue
         try:
             html, via = fetch_page(url)
             sents.update(page_sentences(html))
@@ -418,11 +434,15 @@ def check_page(hut, prev):
             if hut.get("watch_banner") and not banner:
                 b = re.search(re.escape(hut["watch_banner"]) + r".{0,40}", norm_text(html), re.I)
                 banner = b and b.group(0).strip()
+        except Unreachable as e:
+            dead.add(host)
+            errors.append(f"{url.split('//')[-1][:40]}: {e}")
         except Exception as e:  # noqa: BLE001
             errors.append(f"{url.split('//')[-1][:40]}: {e}")
         time.sleep(PAUSE)
     if errors and not sents:
-        return {"status": ERROR, "detail": "; ".join(errors)[:200], "link": hut["pages"][0]}
+        return {"status": ERROR, "detail": "; ".join(errors)[:200], "link": hut["pages"][0],
+                "unreachable": len(dead) == len({u.split("//")[-1].split("/")[0] for u in hut["pages"]})}
     fp = hashlib.sha1("\n".join(sorted(sents)).encode()).hexdigest()[:12]
     old = set(prev.get("sentences", []))
     added = sorted(sents - old) if old else []
@@ -638,10 +658,20 @@ def main():
                 send = f"📝 <b>{esc(hut['name'])}</b> booking text changed:\n{esc(res['detail'])}\n{esc(res['link'])}"
             elif (status == ERROR and res["errors"] == ALERTS["error_after_runs"]
                   and plan in (None, PLANS[0])):  # plans share requests - one warning is enough
+                if res.get("blocked"):
+                    why = "The site is blocking automated checks - check it by hand for now."
+                elif res.get("unreachable"):
+                    why = ("The site can't be reached (down, or blocking automated checks) - "
+                           f"check it by hand for now: {esc(hut.get('book_url') or res.get('link', ''))}")
+                else:
+                    why = "The monitor may need fixing for this hut."
                 send = (f"⚠️ <b>{esc(hut['name'])}</b> check has failed {res['errors']} runs in a row.\n"
-                        f"{esc(res['detail'])}\n"
-                        + ("The site is blocking automated checks - check it by hand for now."
-                           if res.get("blocked") else "The monitor may need fixing for this hut."))
+                        f"{esc(res['detail'])}\n{why}")
+            elif (status != ERROR and prev.get("status") == ERROR
+                  and prev.get("errors", 0) >= ALERTS["error_after_runs"]
+                  and plan in (None, PLANS[0])):  # you were warned - say it's fixed
+                send = (f"✅ <b>{esc(hut['name'])}</b> check is working again "
+                        f"after {prev['errors']} failed runs. Status: {esc(status)}")
             if (not send and "banner" in prev and "banner" in res
                     and res["banner"] != prev["banner"]):
                 send = (f"📢 <b>{esc(hut['name'])}</b> booking banner changed:\n"
