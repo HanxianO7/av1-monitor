@@ -23,7 +23,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiobiella.it/",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -43,7 +43,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.sennes.com/en/",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -66,7 +66,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiofanes.com/en/booking",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -87,7 +87,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://lavarella.it/",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-10-22T10:05:15.711882+00:00",
   "errors": 0,
   "alerted": "2026-10-22T10:05:15.711882+00:00"
@@ -98,7 +98,7 @@
   "status": "LIVE - your night full",
   "detail": "portal live, your night full",
   "probe_url": "https://rifugiolagazuoi.com/EN/prenotazione1.php",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-10-23T06:05:19.477221+00:00",
   "errors": 0,
   "alerted": null
@@ -108,7 +108,7 @@
   "detail": "Booked for Plan A (Wed 23 Jun 2027) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://scotoni.bukly.com/it",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-10-20T07:05:14.284938+00:00",
   "errors": 0,
   "alerted": null
@@ -128,7 +128,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiodibona.app/en",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -157,7 +157,7 @@
   "detail": "no booking-text change (via browser-mode)",
   "changed": false,
   "probe_url": "https://rifugionuvolau.it/",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-09-30T01:12:38.354077+00:00",
   "errors": 0,
   "alerted": null
@@ -190,7 +190,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiocittadifiume.it/prenota/",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -202,7 +202,7 @@
   "status": "LIVE - your night full",
   "detail": "2027 calendar live, your night closed",
   "probe_url": "https://rifugioaverau.bukly.com/it/hotel/2027-06-24/2027-06-25/",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-10-01T02:09:41.414915+00:00",
   "errors": 0,
   "alerted": null
@@ -213,31 +213,30 @@
   "link": "https://rifugiocoldai.com/Booking/index_en.php",
   "unreachable": true,
   "probe_url": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-10-24T09:05:18.908417+00:00",
-  "errors": 1,
+  "errors": 2,
   "alerted": "2026-10-22T08:05:16.341794+00:00",
   "last_good": "NOT LIVE YET"
  },
  "vazzoler": {
-  "status": "ERROR",
-  "detail": "ConnectTimeout: HTTPSConnectionPool(host='rifugiovazzoler.com', port=443): Max retries exceeded with url: /Booking/EN/prenotazione1.php (Caused by ConnectTimeoutError(<HTTPSConnection(host='rifugiovaz",
+  "endpoint": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiovazzoler.com/Booking/index.php",
-  "unreachable": true,
+  "status": "NOT LIVE YET",
+  "detail": "no space on your night or control 2027-08-04",
   "probe_url": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
-  "since": "2026-10-24T09:05:18.908417+00:00",
-  "errors": 1,
-  "alerted": null,
-  "last_good": "NOT LIVE YET"
+  "checked": "2026-10-24T10:05:14.716489+00:00",
+  "since": "2026-10-24T10:05:14.716489+00:00",
+  "errors": 0,
+  "alerted": null
  },
  "carestiato": {
   "endpoint": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
   "link": "https://www.rifugiocarestiato.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-07-14",
+  "detail": "no space on your night or control 2027-08-04",
   "probe_url": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -247,7 +246,7 @@
   "detail": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
   "link": "https://rifugiopassoduran.it/booking/index_en.php",
   "probe_url": "https://rifugiopassoduran.it/booking/index_en.php",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-10-01T04:05:20.722969+00:00",
   "errors": 0,
   "alerted": null
@@ -272,7 +271,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -295,7 +294,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-  "checked": "2026-10-24T09:05:18.908417+00:00",
+  "checked": "2026-10-24T10:05:14.716489+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
