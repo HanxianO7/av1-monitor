@@ -26,23 +26,10 @@
  },
  "huts": [
   {
-   "id": "biella",
-   "name": "Biella",
-   "night": "2027-06-21",
-   "role": "preferred",
-   "check": "page",
-   "pages": [
-    "https://rifugiobiella.it/",
-    "https://www.planyo.com/booking.php?calendar=67368&mode=resource_list&planyo_lang=EN"
-   ],
-   "book_url": "https://www.planyo.com/booking/Rifugio-Biella",
-   "watch_banner": "APERTURA PRENOTAZIONI"
-  },
-  {
    "id": "sennes",
    "name": "Sennes",
    "night": "2027-06-21",
-   "role": "backup",
+   "role": "preferred",
    "check": "page",
    "pages": [
     "https://www.sennes.com/en/",
@@ -50,6 +37,19 @@
    ],
    "book_url": "https://www.sennes.com/en/contact/",
    "stated": "Summer bookings open 4 Nov 2026, possibly earlier (per Sennes' reply)"
+  },
+  {
+   "id": "biella",
+   "name": "Biella",
+   "night": "2027-06-21",
+   "role": "backup",
+   "check": "page",
+   "pages": [
+    "https://rifugiobiella.it/",
+    "https://www.planyo.com/booking.php?calendar=67368&mode=resource_list&planyo_lang=EN"
+   ],
+   "book_url": "https://www.planyo.com/booking/Rifugio-Biella",
+   "watch_banner": "APERTURA PRENOTAZIONI"
   },
   {
    "id": "fanes",
