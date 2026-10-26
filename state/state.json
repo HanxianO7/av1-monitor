@@ -14,7 +14,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.sennes.com/en/",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -43,7 +43,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiobiella.it/",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -66,7 +66,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiofanes.com/en/booking",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -74,24 +74,25 @@
  "lavarella": {
   "link": "https://lavarella.it/en/book-online",
   "sentences": [
-   "s://lavarella.it/en/prices/wiinter) * [Meteo](https://www.dolomitesmeteo.it/fanes/) [AVAILABILITY & BOOKING](https://lavarella.it/en/book-online) [San Vigilio di Marebbe 39030 - ITALY](https://lavarella.it/en/the-hut/how-to-arrive) #### Opening time summer: 06.06.2026-11.10.2026---------------------"
-  ],
-  "fingerprint": "4a7ce174642f",
-  "via": [
-   "reader-proxy"
-  ],
-  "added": [
-   "s://lavarella.it/en/prices/wiinter) * [Meteo](https://www.dolomitesmeteo.it/fanes/) [AVAILABILITY & BOOKING](https://lavarella.it/en/book-online) [San Vigilio di Marebbe 39030 - ITALY](https://lavarella.it/en/the-hut/how-to-arrive) #### Opening time summer: 06.06.2026-11.10.2026---------------------"
-  ],
-  "removed": [
    "ntain bike Winter The nature park Ski touring Snowshoeing Prices Summer Winter Meteo AVAILABILITY & BOOKING San Vigilio di Marebbe 39030 - ITALY Opening time summer: 06.06.2026-11.10.2026---------------------------------- Opening time winter: 26.12.2026-10.01.2027 ; 29.01.2027-11.04.2027 Close × Wel",
    "ntain bike Winter The nature park Ski touring Snowshoeing Prices Summer Winter Meteo AVAILABILITY & BOOKING San Vigilio di Marebbe 39030 - ITALY When booking places for the dormitory, each person should select a bed singularly (through the “ add room ” option) CONTACTS 0039 0474 501094 rifugio@lavar"
   ],
+  "fingerprint": "32bebee0437c",
+  "via": [
+   "direct"
+  ],
+  "added": [
+   "ntain bike Winter The nature park Ski touring Snowshoeing Prices Summer Winter Meteo AVAILABILITY & BOOKING San Vigilio di Marebbe 39030 - ITALY Opening time summer: 06.06.2026-11.10.2026---------------------------------- Opening time winter: 26.12.2026-10.01.2027 ; 29.01.2027-11.04.2027 Close × Wel",
+   "ntain bike Winter The nature park Ski touring Snowshoeing Prices Summer Winter Meteo AVAILABILITY & BOOKING San Vigilio di Marebbe 39030 - ITALY When booking places for the dormitory, each person should select a bed singularly (through the “ add room ” option) CONTACTS 0039 0474 501094 rifugio@lavar"
+  ],
+  "removed": [
+   "s://lavarella.it/en/prices/wiinter) * [Meteo](https://www.dolomitesmeteo.it/fanes/) [AVAILABILITY & BOOKING](https://lavarella.it/en/book-online) [San Vigilio di Marebbe 39030 - ITALY](https://lavarella.it/en/the-hut/how-to-arrive) #### Opening time summer: 06.06.2026-11.10.2026---------------------"
+  ],
   "status": "WATCHING PAGE",
-  "detail": "page text changed: s://lavarella.it/en/prices/wiinter) * [Meteo](https://www.dolomitesmeteo.it/fanes/) [AVAILABILITY & BOOKING](https://lavarella.it/en/book-online) [San Vigilio di Marebbe 39030 - ITA",
+  "detail": "page text changed: ntain bike Winter The nature park Ski touring Snowshoeing Prices Summer Winter Meteo AVAILABILITY & BOOKING San Vigilio di Marebbe 39030 - ITALY Opening time summer: 06.06.2026-11.1",
   "changed": true,
   "probe_url": "https://lavarella.it/",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-10-22T10:05:15.711882+00:00",
   "errors": 0,
   "alerted": "2026-10-22T10:05:15.711882+00:00"
@@ -102,7 +103,7 @@
   "status": "LIVE - your night full",
   "detail": "portal live, your night full",
   "probe_url": "https://rifugiolagazuoi.com/EN/prenotazione1.php",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-10-25T19:05:15.458126+00:00",
   "errors": 0,
   "alerted": null
@@ -112,7 +113,7 @@
   "detail": "Booked for Plan A (Wed 23 Jun 2027) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://scotoni.bukly.com/it",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-10-20T07:05:14.284938+00:00",
   "errors": 0,
   "alerted": null
@@ -132,7 +133,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiodibona.app/en",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -161,7 +162,7 @@
   "detail": "no booking-text change (via browser-mode)",
   "changed": false,
   "probe_url": "https://rifugionuvolau.it/",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-09-30T01:12:38.354077+00:00",
   "errors": 0,
   "alerted": null
@@ -197,7 +198,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiocittadifiume.it/prenota/",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -209,7 +210,7 @@
   "status": "LIVE - your night full",
   "detail": "2027 calendar live, your night closed",
   "probe_url": "https://rifugioaverau.bukly.com/it/hotel/2027-06-24/2027-06-25/",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-10-01T02:09:41.414915+00:00",
   "errors": 0,
   "alerted": null
@@ -218,9 +219,9 @@
   "endpoint": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiocoldai.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-09-08",
+  "detail": "no space on your night or control 2027-06-09",
   "probe_url": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-10-25T19:05:15.458126+00:00",
   "errors": 0,
   "alerted": "2026-10-22T08:05:16.341794+00:00"
@@ -229,9 +230,9 @@
   "endpoint": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiovazzoler.com/Booking/index.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-09-08",
+  "detail": "no space on your night or control 2027-06-09",
   "probe_url": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-10-25T19:05:15.458126+00:00",
   "errors": 0,
   "alerted": null
@@ -240,9 +241,9 @@
   "endpoint": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
   "link": "https://www.rifugiocarestiato.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-09-08",
+  "detail": "no space on your night or control 2027-06-09",
   "probe_url": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -252,7 +253,7 @@
   "detail": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
   "link": "https://rifugiopassoduran.it/booking/index_en.php",
   "probe_url": "https://rifugiopassoduran.it/booking/index_en.php",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-10-01T04:05:20.722969+00:00",
   "errors": 0,
   "alerted": null
@@ -277,7 +278,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -300,7 +301,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-  "checked": "2026-10-26T11:05:16.560174+00:00",
+  "checked": "2026-10-26T12:05:19.124157+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
