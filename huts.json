@@ -52,22 +52,10 @@
    "watch_banner": "APERTURA PRENOTAZIONI"
   },
   {
-   "id": "fanes",
-   "name": "Fanes",
-   "night": "2027-06-22",
-   "role": "preferred",
-   "check": "page",
-   "pages": [
-    "https://www.rifugiofanes.com/en/booking",
-    "https://www.rifugiofanes.com/en/rates-request/request-reservation"
-   ],
-   "book_url": "https://www.rifugiofanes.com/en/rates-request/request-reservation"
-  },
-  {
    "id": "lavarella",
    "name": "Lavarella",
    "night": "2027-06-22",
-   "role": "backup",
+   "role": "preferred",
    "check": "page",
    "pages": [
     "https://lavarella.it/",
@@ -75,6 +63,18 @@
    ],
    "book_url": "https://lavarella.it/en/book-online",
    "stated": "Summer bookings open early November 2026 (per Lavarella's reply)"
+  },
+  {
+   "id": "fanes",
+   "name": "Fanes",
+   "night": "2027-06-22",
+   "role": "backup",
+   "check": "page",
+   "pages": [
+    "https://www.rifugiofanes.com/en/booking",
+    "https://www.rifugiofanes.com/en/rates-request/request-reservation"
+   ],
+   "book_url": "https://www.rifugiofanes.com/en/rates-request/request-reservation"
   },
   {
    "id": "lagazuoi",
