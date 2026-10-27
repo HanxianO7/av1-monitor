@@ -173,6 +173,20 @@
    "book_url": "https://rifugiovazzoler.com/Booking/index.php"
   },
   {
+   "id": "tissi",
+   "name": "Tissi",
+   "night": "2027-06-26",
+   "role": "backup",
+   "check": "page",
+   "pages": [
+    "https://rifugiotissi.com/",
+    "https://rifugiotissi.com/IT/p40-Prezzi-e-prenotazioni",
+    "https://www.prenotarifugi.cai.it/dettaglio/?id=5813"
+   ],
+   "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5813",
+   "stated": "2027 bookings open 1 Nov 2026 (per Tissi's website)"
+  },
+  {
    "id": "carestiato",
    "name": "Carestiato",
    "night": "2027-06-27",
