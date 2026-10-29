@@ -14,7 +14,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.sennes.com/en/",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -22,7 +22,7 @@
  "biella": {
   "link": "https://www.planyo.com/booking/Rifugio-Biella",
   "sentences": [
-   "Il Rifugio aprirà a giugno 2027 Il Rifugio BIELLA – SEEKOFEL HÜTTE si trova all’interno del territorio delle Dolomiti iscritto dall’UNESCO nella Lista dei Patrimoni Naturali dell’Umanità.",
+   "Il Rifugio sarà aperto dal 12 giugno al 25 settembre 2027 Il Rifugio BIELLA – SEEKOFEL HÜTTE si trova all’interno del territorio delle Dolomiti iscritto dall’UNESCO nella Lista dei Patrimoni Naturali dell’Umanità.",
    "Le prenotazioni per la stagione estiva 2026 apriranno il 1 novembre Le prenotazioni per l'anno 2027 apriranno il 01 novembre 2026 Prenota POLICY DI CANCELLAZIONE: la caparra del 50% versata a garanzia della prenotazione non potrà essere rimborsata.",
    "Scopri Blog Scopri tutte le news Scopri Apertura stagione 2023 Nuovo sito Itinerari alpinistici Sul versante sud della Croda del Becco sono presenti alcuni itinerari alpinisti.",
    "Scopri Ospitalità Rifugio Durante il periodo di apertura del rifugio offriamo il servizio cucina proponendo piatti della tradizione locale.",
@@ -30,18 +30,22 @@
    "ari alpinistici Mountain bike Gallery Staff Cucina Dintorni Come arrivare Contattaci/Prenota Scopri APERTURA PRENOTAZIONI: 15 NOVEMBRE Rifugio Biella Alpe de Fósses, 2327 M Il rifugio Biella, Seekofel Hütte in lingua tedesca, si trova alla base della Croda del Becco o Seekofel.",
    "nistici Mountain bike Gallery Staff Cucina Dintorni Come arrivare Contattaci/Prenota Sono aperte le prenotazioni online: prenota ora!"
   ],
-  "fingerprint": "ad2f5bb2735f",
+  "fingerprint": "7624abd9210b",
   "via": [
    "direct"
   ],
-  "added": [],
-  "removed": [],
+  "added": [
+   "Il Rifugio sarà aperto dal 12 giugno al 25 settembre 2027 Il Rifugio BIELLA – SEEKOFEL HÜTTE si trova all’interno del territorio delle Dolomiti iscritto dall’UNESCO nella Lista dei Patrimoni Naturali dell’Umanità."
+  ],
+  "removed": [
+   "Il Rifugio aprirà a giugno 2027 Il Rifugio BIELLA – SEEKOFEL HÜTTE si trova all’interno del territorio delle Dolomiti iscritto dall’UNESCO nella Lista dei Patrimoni Naturali dell’Umanità."
+  ],
   "banner": "APERTURA PRENOTAZIONI: 15 NOVEMBRE Rifugio Biella Alpe de Fós",
   "status": "WATCHING PAGE",
-  "detail": "no booking-text change",
-  "changed": false,
+  "detail": "page text changed: Il Rifugio sarà aperto dal 12 giugno al 25 settembre 2027 Il Rifugio BIELLA – SEEKOFEL HÜTTE si trova all’interno del territorio delle Dolomiti iscritto dall’UNESCO nella Lista dei ",
+  "changed": true,
   "probe_url": "https://rifugiobiella.it/",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -62,7 +66,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://lavarella.it/",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-10-22T10:05:15.711882+00:00",
   "errors": 0,
   "alerted": "2026-10-22T10:05:15.711882+00:00"
@@ -85,7 +89,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiofanes.com/en/booking",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -96,7 +100,7 @@
   "status": "LIVE - your night full",
   "detail": "portal live, your night full",
   "probe_url": "https://rifugiolagazuoi.com/EN/prenotazione1.php",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-10-29T07:05:19.902612+00:00",
   "errors": 0,
   "alerted": null
@@ -106,7 +110,7 @@
   "detail": "Booked for Plan A (Wed 23 Jun 2027) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://scotoni.bukly.com/it",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-10-20T07:05:14.284938+00:00",
   "errors": 0,
   "alerted": null
@@ -126,7 +130,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.rifugiodibona.app/en",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -155,7 +159,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugionuvolau.it/",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-09-30T01:12:38.354077+00:00",
   "errors": 0,
   "alerted": null
@@ -191,7 +195,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiocittadifiume.it/prenota/",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -203,7 +207,7 @@
   "status": "LIVE - your night full",
   "detail": "2027 calendar live, your night closed",
   "probe_url": "https://rifugioaverau.bukly.com/it/hotel/2027-06-24/2027-06-25/",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-10-01T02:09:41.414915+00:00",
   "errors": 0,
   "alerted": null
@@ -212,9 +216,9 @@
   "endpoint": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiocoldai.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-08-04",
+  "detail": "no space on your night or control 2027-09-08",
   "probe_url": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-10-29T07:05:19.902612+00:00",
   "errors": 0,
   "alerted": "2026-10-22T08:05:16.341794+00:00"
@@ -223,9 +227,9 @@
   "endpoint": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
   "link": "https://rifugiovazzoler.com/Booking/index.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-08-04",
+  "detail": "no space on your night or control 2027-09-08",
   "probe_url": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-10-29T07:05:19.902612+00:00",
   "errors": 0,
   "alerted": null
@@ -257,7 +261,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiotissi.com/",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-10-27T05:05:18.158041+00:00",
   "errors": 0,
   "alerted": null
@@ -266,9 +270,9 @@
   "endpoint": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
   "link": "https://www.rifugiocarestiato.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-08-04",
+  "detail": "no space on your night or control 2027-09-08",
   "probe_url": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -278,7 +282,7 @@
   "detail": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
   "link": "https://rifugiopassoduran.it/booking/index_en.php",
   "probe_url": "https://rifugiopassoduran.it/booking/index_en.php",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-10-01T04:05:20.722969+00:00",
   "errors": 0,
   "alerted": null
@@ -303,7 +307,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -326,7 +330,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-  "checked": "2026-10-29T14:05:17.115846+00:00",
+  "checked": "2026-10-29T15:05:18.882723+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
