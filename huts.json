@@ -184,7 +184,8 @@
     "https://www.prenotarifugi.cai.it/dettaglio/?id=5813"
    ],
    "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5813",
-   "stated": "2027 bookings open 1 Nov 2026 (per Tissi's website)"
+   "stated": "2027 bookings open 1 Nov 2026 (per Tissi's website)",
+   "alert_changes": true
   },
   {
    "id": "carestiato",
@@ -220,7 +221,8 @@
     "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
     "https://www.rifugiosommarivaalpramperet.it/rifugio.asp"
    ],
-   "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925"
+   "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
+   "alert_changes": true
   },
   {
    "id": "piandefontana",
@@ -231,7 +233,8 @@
    "pages": [
     "https://www.prenotarifugi.cai.it/dettaglio/?id=5942"
    ],
-   "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942"
+   "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
+   "alert_changes": true
   }
  ]
 }
