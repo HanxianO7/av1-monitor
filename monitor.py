@@ -654,7 +654,7 @@ def main():
                     send = alert_text(hut, res, plan, reminder=True)
             elif status == LIVE_FULL and pstatus == NOT_LIVE and ALERTS["portal_live"]:
                 send = f"🔵 <b>{esc(hut['name'])}</b>{esc(tag)}: 2027 portal is live, but your night is full."
-            elif status == WATCHING and res.get("changed") and ALERTS["page_changes"]:
+            elif status == WATCHING and res.get("changed") and (ALERTS["page_changes"] or hut.get("alert_changes")):
                 send = f"📝 <b>{esc(hut['name'])}</b> booking text changed:\n{esc(res['detail'])}\n{esc(res['link'])}"
             elif (status == ERROR and res["errors"] == ALERTS["error_after_runs"]
                   and plan in (None, PLANS[0])):  # plans share requests - one warning is enough
