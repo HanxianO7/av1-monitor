@@ -110,7 +110,11 @@
    "pages": [
     "https://www.rifugiodibona.app/en"
    ],
-   "book_url": "https://www.rifugiodibona.app/en"
+   "book_url": "https://www.rifugiodibona.app/en",
+   "booked": {
+    "plan": "A",
+    "note": "23 Jun booked at Scotoni (Plan A) - backup checks and alerts stopped"
+   }
   },
   {
    "id": "nuvolau",
