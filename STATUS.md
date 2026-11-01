@@ -1,10 +1,10 @@
 # Alta Via 1 booking monitor
 
-Last check: **01 Nov 2026 20:05 Kuala Lumpur** · 13:05 Italy
+Last check: **01 Nov 2026 21:01 Kuala Lumpur** · 14:01 Italy
 
 Trip: 2 guests · dorm only · half board
 
-- **Plan A** (21 Jun - 28 Jun): beds showing on 0 of 8 nights · booked: 23 Jun
+- **Plan A** (21 Jun - 28 Jun): beds showing on 1 of 8 nights (25 Jun) · booked: 23 Jun
 
 | Hut | Role | Plan A night | Plan A status | Detail |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ Trip: 2 guests · dorm only · half board
 | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | 24 Jun | **WATCHING PAGE** | no booking-text change |
 | [Città di Fiume](https://rifugiocittadifiume.it/prenota/) | backup | 24 Jun | **WATCHING PAGE** | no booking-text change |
 | [Averau](https://www.rifugioaverau.it/en/) | backup | [24 Jun](https://rifugioaverau.bukly.com/it/hotel/2027-06-24/2027-06-25/) | **LIVE - your night full** | calendar live (control 2027-07-15) |
-| [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | 25 Jun | **NOT LIVE YET** | no space on your night or control 2027-06-09 |
+| [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | 25 Jun | **AVAILABLE** | 2 dorm beds shown for your night |
 | [Vazzoler](https://rifugiovazzoler.com/Booking/index.php) | preferred | 26 Jun | **ERROR** | HTTPError: 503 Server Error: Service Unavailable for url: https://rifugiovazzoler.com/Booking/EN/prenotazione1.php |
 | [Tissi](https://www.prenotarifugi.cai.it/dettaglio/?id=5813) | backup | 26 Jun | **WATCHING PAGE** | no booking-text change |
-| [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | 27 Jun | **NOT LIVE YET** | no space on your night or control 2027-06-09 |
+| [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | 27 Jun | **NOT LIVE YET** | no space on your night or control 2027-07-14 |
 | [Passo Duran](https://rifugiopassoduran.it/booking/index_en.php) | backup | 27 Jun | **CHECK MANUALLY** | Site shows a CAPTCHA to automated checks - check the calendar by hand |
 | [Pramperet](https://www.prenotarifugi.cai.it/dettaglio/?id=5925) | preferred | 28 Jun | **WATCHING PAGE** | no booking-text change |
 | [Pian de Fontana](https://www.prenotarifugi.cai.it/dettaglio/?id=5942) | backup | 28 Jun | **WATCHING PAGE** | no booking-text change |
