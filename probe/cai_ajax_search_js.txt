@@ -1,0 +1,184 @@
+jQuery(function ($) {
+    $(document).ready(function () {
+        //HOMEPAGE ("formRicerca" è solo lì)
+        jQuery('form[name="formRicerca"]').submit(function (e) {
+            // (mi serve per non far ricaricare la pagina alla submission)
+            e.preventDefault();
+
+            //prendere valori della form
+            var name = $('#name').val().replace(' ', '+');
+            var where = $('#where').val().replace(' ', '+');
+            var region = $('#region').val().replace(' ', '+');
+            var date = $('#date').val();
+            var people = $('#people').val();
+            var trails = $('#tags_id').val();
+
+            console.log(name, where, region, date, people, trails);
+            var p = jQuery('form[name="formRicerca"]').attr('action');
+            var firstParam = true;
+            if (name) {
+                p = p + '/?query=' + name;
+                firstParam = false;
+            }
+            if (where) {
+                p = p + '/?where=' + where;
+                firstParam = false;
+            }
+            if (region) {
+                if (firstParam) {
+                    p = p + '/?region=' + region;
+                    firstParam = false;
+                } else {
+                    p = p + '&region=' + region;
+                }
+            }
+            if (date) {
+                if (firstParam) {
+                    p = p + '/?date=' + date;
+                    firstParam = false;
+                } else {
+                    p = p + '&date=' + date;
+                }
+            }
+            if (people) {
+                if (firstParam) {
+                    p = p + '/?people=' + people;
+                    firstParam = false;
+                } else {
+                    p = p + '&people=' + people;
+                }
+            }
+            if (trails) {
+                if (firstParam) {
+                    p = p + '/?trails=' + trails;
+                    firstParam = false;
+                } else {
+                    p = p + '&trails=' + trails;
+                }
+            }
+            //p = p + '/?attribute%5Bquery%5D=' + name + '&attribute%5Bregion%5D=' + region + '&attribute%5Bdate%5D=' + date + '&attribute%5Bpeople%5D=' + people; //name come parametro gli dà fastidio
+            location.href=p;
+        });
+
+
+        /*Get the first (and in our case the only) element with all specifed classes*/
+        // ROMPE IL MENU MOBILE
+        //const unwanted_element = document.querySelector('.fusion-layout-column.fusion_builder_column.fusion-builder-column-3.fusion_builder_column_1_1');
+        //unwanted_element.remove();
+        
+        // queste stringhe vengono sovrascritte
+        translation_search_in_site = 'Cerca nel sito'; 
+        translation_write_here_text_to_search = 'Scrivi qui il testo da cercare';
+        translation_search_button = 'Cerca';
+        // utilizzo ajax per “entrare” in php, e fare traduzione stringhe
+        jQuery.ajax({
+            type: 'POST',
+            url: testAjax.url,
+            data: {
+                action: 'translate_search_menu_strings',
+                security: testAjax.security
+            },
+            success: function (data) {
+                // Azioni da eseguire in caso di successo chiamata
+                translation_search_in_site = data.translation_search_in_site;
+                translation_write_here_text_to_search = data.translation_write_here_text_to_search;
+                translation_search_button = data.translation_search_button;
+                var booking_base_url = data.booking_base_url;
+
+                //jQuery( "#wrapper" )
+                var fusionWrapper = jQuery( "#wrapper" )
+                var searchMenuString = '<div class="search-menu d-none">' +
+                '<div class="container">'       +
+                    '<div class="infinite-scroll d-none" id="infinite-scroll-search" data-infinite-scroll=\'{"url":"' + booking_base_url + '/backend/web/api/1.0/it/json/get/shelter/webContent/webContentsAndSuppliersByAttributes","type":"get","params":{"type":"all"},"container":"#search-results-container","template":"#search-results-template","appendToResult":{}}\'>' +
+                        '<div class="loading loading-1">' +
+                            '<div></div>' +
+                            '<div></div>' +
+                            '<div></div>' +
+                        '</div>' +
+                    '</div>' +
+                    '<div class="row">' +
+                        '<div class="col-12">' +
+                            '<div class="title font-oswald">' + translation_search_in_site + '</div>' +
+                            '<form class="form-box p-0 mb-5" data-toggle-infinite-scroll-params="{&quot;infiniteScroll&quot;:&quot;#infinite-scroll-search&quot;}">' +
+                                '<div class="input-group"><span class="input-group-text"><i class="material-icons-outlined">search</i></span>' +
+                                    '<input class="form-control" placeholder="' + translation_write_here_text_to_search + '" name="query">' +
+                                '</div>' +
+                                '<button class="btn btn-1" type="submit">' +
+                                    '<div class="pre-icon"><i class="material-icons">search</i></div>' +
+                                    '<div class="btn-text">' + translation_search_button + '</div>' +
+                                '</button>' +
+                            '</form>' +
+                        '</div>' +
+                    '</div>' +
+                    '<div class="row" id="search-results-container"></div>' +
+                    '</div>' +
+                '</div>';
+        
+                //fusionWrapper.innerHTML+= searchMenuString;
+                fusionWrapper.append(searchMenuString);
+
+                var html = document.getElementsByTagName('html');
+                html[0].style.overflow = "unset";
+
+                var searchMenu = document.getElementsByClassName('search-menu');
+                searchMenu[0].style.maxHeight = "100vh";
+                
+            },
+            error: function (error) {
+                console.log('Errore ajax traduzione labels in search menu');
+                // Azioni da eseguire in caso di errore chiamata
+                // Non dovrebbe entrarci
+
+                translation_search_in_site = data.translation_search_in_site;
+                translation_write_here_text_to_search = data.translation_write_here_text_to_search;
+                translation_search_button = data.translation_search_button;
+
+                //jQuery( "#wrapper" )
+                var fusionWrapper = jQuery( "#wrapper" )
+                var searchMenuString = '<div class="search-menu d-none">' +
+                '<div class="container">'       +                                                                   //TODO mettere url booking ese
+                    '<div class="infinite-scroll d-none" id="infinite-scroll-search" data-infinite-scroll=\'{"url":"https://booking-stg-cai.inera.it/backend/web/api/1.0/it/json/get/shelter/webContent/webContentsAndSuppliersByAttributes","type":"get","params":{"type":"all"},"container":"#search-results-container","template":"#search-results-template","appendToResult":{}}\'>' +
+                        '<div class="loading loading-1">' +
+                            '<div></div>' +
+                            '<div></div>' +
+                            '<div></div>' +
+                        '</div>' +
+                    '</div>' +
+                    '<div class="row">' +
+                        '<div class="col-12">' +
+                            '<div class="title font-oswald">' + translation_search_in_site + '</div>' +
+                            '<form class="form-box p-0 mb-5" data-toggle-infinite-scroll-params="{&quot;infiniteScroll&quot;:&quot;#infinite-scroll-search&quot;}">' +
+                                '<div class="input-group"><span class="input-group-text"><i class="material-icons-outlined">search</i></span>' +
+                                    '<input class="form-control" placeholder="' + translation_write_here_text_to_search + '" name="query">' +
+                                '</div>' +
+                                '<button class="btn btn-1" type="submit">' +
+                                    '<div class="pre-icon"><i class="material-icons">search</i></div>' +
+                                    '<div class="btn-text">' + translation_search_button + '</div>' +
+                                '</button>' +
+                            '</form>' +
+                        '</div>' +
+                    '</div>' +
+                    '<div class="row" id="search-results-container"></div>' +
+                '</div>' +
+            '</div>';
+        
+                //fusionWrapper.innerHTML+= searchMenuString;
+                fusionWrapper.append(searchMenuString);
+
+                var html = document.getElementsByTagName('html');
+                html[0].style.overflow = "unset";
+
+                var searchMenu = document.getElementsByClassName('search-menu');
+                searchMenu[0].style.maxHeight = "100vh";
+            }
+        });
+
+        //RISULTATI DI RICERCA (al caricamento della pagina)
+        if(jQuery('#rpage').val()==='1') {
+            var fusionRow = jQuery('.post-content .fusion-row');
+            fusionRow.css("max-width", "none");
+
+        }
+
+    });
+});

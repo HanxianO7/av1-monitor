@@ -1,0 +1,1784 @@
+<!DOCTYPE html>
+<html class="avada-html-layout-wide avada-html-header-position-top avada-is-100-percent-template" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>BOOK ONLINE - Rifugio Città di Fiume</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="Rifugio Città di Fiume &raquo; Feed" href="https://rifugiocittadifiume.it/en/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Rifugio Città di Fiume &raquo; Comments Feed" href="https://rifugiocittadifiume.it/en/comments/feed/" />
+		
+		
+		
+				<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://rifugiocittadifiume.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frifugiocittadifiume.it%2Fen%2Fbook-online%2F&#038;lang=en" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://rifugiocittadifiume.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frifugiocittadifiume.it%2Fen%2Fbook-online%2F&#038;format=xml&#038;lang=en" />
+					<meta name="description" content="BOOK YOUR STAY  EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO | MAKE A BOOKING REQUEST    
+
+Reservation 
+
+La tariffa indicata è quella ordinaria. Eventuali sconti verranno applicati in fase di check-out dietro presentazione della documentazione richiesta.
+
+The rate shown is the standard rate. Any discounts will be applied at check-out upon"/>
+				
+		<meta property="og:locale" content="en_US"/>
+		<meta property="og:type" content="article"/>
+		<meta property="og:site_name" content="Rifugio Città di Fiume"/>
+		<meta property="og:title" content="  BOOK ONLINE"/>
+				<meta property="og:description" content="BOOK YOUR STAY  EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO | MAKE A BOOKING REQUEST    
+
+Reservation 
+
+La tariffa indicata è quella ordinaria. Eventuali sconti verranno applicati in fase di check-out dietro presentazione della documentazione richiesta.
+
+The rate shown is the standard rate. Any discounts will be applied at check-out upon"/>
+				<meta property="og:url" content="https://rifugiocittadifiume.it/en/book-online/"/>
+													<meta property="article:modified_time" content="2026-10-27T13:47:06+01:00"/>
+											<meta property="og:image" content="https://rifugiocittadifiume.it/wp-content/uploads/2023/06/Rifugio_1.png"/>
+		<meta property="og:image:width" content="150"/>
+		<meta property="og:image:height" content="91"/>
+		<meta property="og:image:type" content="image/png"/>
+				<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<link rel='stylesheet' id='svg-flags-core-css-css' href='https://rifugiocittadifiume.it/wp-content/plugins/svg-flags-lite/assets/flag-icon-css/css/flag-icon.min.css?ver=1791212269' media='all' />
+<link rel='stylesheet' id='svg-flags-block-css-css' href='https://rifugiocittadifiume.it/wp-content/plugins/svg-flags-lite/assets/css/block.styles.css?ver=1791212269' media='all' />
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--awb-color-1: #ffffff;--wp--preset--color--awb-color-2: #f9f9fb;--wp--preset--color--awb-color-3: #ffb703;--wp--preset--color--awb-color-4: #023047;--wp--preset--color--awb-color-5: #83cae6;--wp--preset--color--awb-color-6: #219ebc;--wp--preset--color--awb-color-7: #fb8500;--wp--preset--color--awb-color-8: #141617;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 12px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 24px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 16px;--wp--preset--font-size--xlarge: 32px;--wp--preset--font-size--huge: 48px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-awb-color-1-color{color: var(--wp--preset--color--awb-color-1) !important;}.has-awb-color-2-color{color: var(--wp--preset--color--awb-color-2) !important;}.has-awb-color-3-color{color: var(--wp--preset--color--awb-color-3) !important;}.has-awb-color-4-color{color: var(--wp--preset--color--awb-color-4) !important;}.has-awb-color-5-color{color: var(--wp--preset--color--awb-color-5) !important;}.has-awb-color-6-color{color: var(--wp--preset--color--awb-color-6) !important;}.has-awb-color-7-color{color: var(--wp--preset--color--awb-color-7) !important;}.has-awb-color-8-color{color: var(--wp--preset--color--awb-color-8) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-awb-color-1-background-color{background-color: var(--wp--preset--color--awb-color-1) !important;}.has-awb-color-2-background-color{background-color: var(--wp--preset--color--awb-color-2) !important;}.has-awb-color-3-background-color{background-color: var(--wp--preset--color--awb-color-3) !important;}.has-awb-color-4-background-color{background-color: var(--wp--preset--color--awb-color-4) !important;}.has-awb-color-5-background-color{background-color: var(--wp--preset--color--awb-color-5) !important;}.has-awb-color-6-background-color{background-color: var(--wp--preset--color--awb-color-6) !important;}.has-awb-color-7-background-color{background-color: var(--wp--preset--color--awb-color-7) !important;}.has-awb-color-8-background-color{background-color: var(--wp--preset--color--awb-color-8) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-awb-color-1-border-color{border-color: var(--wp--preset--color--awb-color-1) !important;}.has-awb-color-2-border-color{border-color: var(--wp--preset--color--awb-color-2) !important;}.has-awb-color-3-border-color{border-color: var(--wp--preset--color--awb-color-3) !important;}.has-awb-color-4-border-color{border-color: var(--wp--preset--color--awb-color-4) !important;}.has-awb-color-5-border-color{border-color: var(--wp--preset--color--awb-color-5) !important;}.has-awb-color-6-border-color{border-color: var(--wp--preset--color--awb-color-6) !important;}.has-awb-color-7-border-color{border-color: var(--wp--preset--color--awb-color-7) !important;}.has-awb-color-8-border-color{border-color: var(--wp--preset--color--awb-color-8) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-normal-font-size{font-size: var(--wp--preset--font-size--normal) !important;}.has-xlarge-font-size{font-size: var(--wp--preset--font-size--xlarge) !important;}.has-huge-font-size{font-size: var(--wp--preset--font-size--huge) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='svg-flags-plugin-css-css' href='https://rifugiocittadifiume.it/wp-content/plugins/svg-flags-lite/assets/css/frontend.css?ver=1791212269' media='all' />
+<link rel='stylesheet' id='wpdevelop-bts-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/vendors/_custom/bootstrap-css/css/bootstrap.css?ver=11.9' media='all' />
+<link rel='stylesheet' id='wpdevelop-bts-theme-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/vendors/_custom/bootstrap-css/css/bootstrap-theme.css?ver=11.9' media='all' />
+<link rel='stylesheet' id='wpbc-tippy-popover-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/vendors/_custom/tippy.js/themes/wpbc-tippy-popover.css?ver=11.9' media='all' />
+<link rel='stylesheet' id='wpbc-tippy-times-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/vendors/_custom/tippy.js/themes/wpbc-tippy-times.css?ver=11.9' media='all' />
+<link rel='stylesheet' id='wpbc-material-design-icons-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/vendors/_custom/material-design-icons/material-design-icons.css?ver=11.9' media='all' />
+<link rel='stylesheet' id='wpbc-ui-both-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/css/wpbc_ui_both.css?ver=11.9' media='all' />
+<link rel='stylesheet' id='wpbc-time_picker-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/css/wpbc_time-selector.css?ver=11.9' media='all' />
+<link rel='stylesheet' id='wpbc-time_picker-skin-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/css/time_picker_skins/blue.css?ver=11.9' media='all' />
+<link rel='stylesheet' id='wpbc-client-pages-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/css/client.css?ver=11.9' media='all' />
+<link rel='stylesheet' id='wpbc-all-client-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/_dist/all/_out/wpbc_all_client.css?ver=11.9' media='all' />
+<link rel='stylesheet' id='wpbc-calendar-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/css/calendar.css?ver=11.9' media='all' />
+<link rel='stylesheet' id='wpbc-calendar-skin-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/css/skins/green-01.css?ver=11.9' media='all' />
+<link rel='stylesheet' id='wpbc-flex-timeline-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/core/timeline/v2/_out/timeline_v2.1.css?ver=11.9' media='all' />
+<link rel='stylesheet' id='wpbc-booking-appointment-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/includes/booking-appointment/_out/booking-appointment.css?ver=11.9' media='all' />
+<style id="wpbc-booking-appointment-inline-css">
+.wpbc_booking_ui_theme_scope,.wpbc_booking_appointment__loading{--wpbc_form-button-border-radius:3px;--wpbc_form-button-border-style:none;--wpbc_form-button-border-size:1px;--wpbc_form-button-primary-border-style:none;--wpbc_form-button-light-border-style:solid;--wpbc_form-button-light-border-size:1px;--wpbc-bfb-form-background:#ffffff;--wpbc-bfb-form-border-color:#cccccc;--wpbc-bfb-form-border-width:1px;--wpbc-bfb-form-border-radius:2px;--wpbc-bfb-form-padding:10px 30px;--wpbc-bfb-form-box-shadow:rgba(0, 0, 0, 0.05) 0px 2px 6px 0px;--wpbc_form-label-color:rgba(0, 0, 0, 0.85);--wpbc_form-label-sublabel-color:rgba(0, 0, 0, 0.55);--wpbc_form-label-error-color:#d63637;--wpbc_form-field-background-color:#ffffff;--wpbc_form-field-border-color:rgba(0, 0, 0, 0.25);--wpbc_form-field-focus-border-color:#066aab;--wpbc_form-field-focus-shadow-color:#066aab;--wpbc_form-field-text-color:rgba(0, 0, 0, 0.7);--wpbc_form-button-background-color:#066aab;--wpbc_form-button-background-color-alt:#066aab;--wpbc_form-button-border-color:#066aab;--wpbc_form-button-text-color:#ffffff;--wpbc_form-choice-checked-border-color:#066aab;--wpbc_form-choice-focus-color:#066aab;--wpbc_form-button-light-background-color:#fdfdfd;--wpbc_form-button-light-border-color:#cacacab5;--wpbc_form-button-light-text-color:#444444e0;--wpbc_form-button-light-box-shadow:0 2px 10px 2px #ffffff54;--wpbc_form-button-light-hover-background-color:#fdfdfd;--wpbc_form-button-light-hover-border-color:rgb(77, 145, 205);--wpbc_form-button-light-hover-text-color:#444444e0;--wpbc_form-button-light-hover-box-shadow:0 2px 10px 2px #ffffff54;--wpbc_form-button-primary-hover-border-color:#ffffff;}
+/*# sourceURL=wpbc-booking-appointment-inline-css */
+</style>
+<link rel='stylesheet' id='wpbc-booking-resource-selector-css' href='https://rifugiocittadifiume.it/wp-content/plugins/booking/includes/booking-resource-selector/_out/booking-resource-selector.css?ver=11.9' media='all' />
+<style id="wpbc-booking-resource-selector-inline-css">
+.wpbc_booking_resource_selector .wpbc_booking_ui_theme_scope,.wpbc_booking_resource_selector__loading{--wpbc_form-button-border-radius:3px;--wpbc_form-button-border-style:none;--wpbc_form-button-border-size:1px;--wpbc_form-button-primary-border-style:none;--wpbc_form-button-light-border-style:solid;--wpbc_form-button-light-border-size:1px;--wpbc-bfb-form-background:#ffffff;--wpbc-bfb-form-border-color:#cccccc;--wpbc-bfb-form-border-width:1px;--wpbc-bfb-form-border-radius:2px;--wpbc-bfb-form-padding:10px 30px;--wpbc-bfb-form-box-shadow:rgba(0, 0, 0, 0.05) 0px 2px 6px 0px;--wpbc_form-label-color:rgba(0, 0, 0, 0.85);--wpbc_form-label-sublabel-color:rgba(0, 0, 0, 0.55);--wpbc_form-label-error-color:#d63637;--wpbc_form-field-background-color:#ffffff;--wpbc_form-field-border-color:rgba(0, 0, 0, 0.25);--wpbc_form-field-focus-border-color:#066aab;--wpbc_form-field-focus-shadow-color:#066aab;--wpbc_form-field-text-color:rgba(0, 0, 0, 0.7);--wpbc_form-button-background-color:#066aab;--wpbc_form-button-background-color-alt:#066aab;--wpbc_form-button-border-color:#066aab;--wpbc_form-button-text-color:#ffffff;--wpbc_form-choice-checked-border-color:#066aab;--wpbc_form-choice-focus-color:#066aab;--wpbc_form-button-light-background-color:#fdfdfd;--wpbc_form-button-light-border-color:#cacacab5;--wpbc_form-button-light-text-color:#444444e0;--wpbc_form-button-light-box-shadow:0 2px 10px 2px #ffffff54;--wpbc_form-button-light-hover-background-color:#fdfdfd;--wpbc_form-button-light-hover-border-color:rgb(77, 145, 205);--wpbc_form-button-light-hover-text-color:#444444e0;--wpbc_form-button-light-hover-box-shadow:0 2px 10px 2px #ffffff54;--wpbc_form-button-primary-hover-border-color:#ffffff;}
+/*# sourceURL=wpbc-booking-resource-selector-inline-css */
+</style>
+<link rel='stylesheet' id='fusion-dynamic-css-css' href='https://rifugiocittadifiume.it/wp-content/uploads/fusion-styles/d32b22dcc694e1725a3f12d718b8f2df.min.css?ver=3.11.6' media='all' />
+<script data-cfasync="false" id="jquery-core-js" src="https://rifugiocittadifiume.it/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script data-cfasync="false" id="jquery-migrate-js" src="https://rifugiocittadifiume.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<link rel="https://api.w.org/" href="https://rifugiocittadifiume.it/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://rifugiocittadifiume.it/wp-json/wp/v2/pages/1847" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rifugiocittadifiume.it/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.4" />
+<link rel="canonical" href="https://rifugiocittadifiume.it/en/book-online/" />
+<link rel='shortlink' href='https://rifugiocittadifiume.it/?p=1847' />
+<link rel="preload" href="https://rifugiocittadifiume.it/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.woff" as="font" type="font/woff" crossorigin><link rel="preload" href="//rifugiocittadifiume.it/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="//rifugiocittadifiume.it/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="//rifugiocittadifiume.it/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin><style type="text/css" id="css-fb-visibility">@media screen and (max-width: 640px){.fusion-no-small-visibility{display:none !important;}body .sm-text-align-center{text-align:center !important;}body .sm-text-align-left{text-align:left !important;}body .sm-text-align-right{text-align:right !important;}body .sm-flex-align-center{justify-content:center !important;}body .sm-flex-align-flex-start{justify-content:flex-start !important;}body .sm-flex-align-flex-end{justify-content:flex-end !important;}body .sm-mx-auto{margin-left:auto !important;margin-right:auto !important;}body .sm-ml-auto{margin-left:auto !important;}body .sm-mr-auto{margin-right:auto !important;}body .fusion-absolute-position-small{position:absolute;top:auto;width:100%;}.awb-sticky.awb-sticky-small{ position: sticky; top: var(--awb-sticky-offset,0); }}@media screen and (min-width: 641px) and (max-width: 1024px){.fusion-no-medium-visibility{display:none !important;}body .md-text-align-center{text-align:center !important;}body .md-text-align-left{text-align:left !important;}body .md-text-align-right{text-align:right !important;}body .md-flex-align-center{justify-content:center !important;}body .md-flex-align-flex-start{justify-content:flex-start !important;}body .md-flex-align-flex-end{justify-content:flex-end !important;}body .md-mx-auto{margin-left:auto !important;margin-right:auto !important;}body .md-ml-auto{margin-left:auto !important;}body .md-mr-auto{margin-right:auto !important;}body .fusion-absolute-position-medium{position:absolute;top:auto;width:100%;}.awb-sticky.awb-sticky-medium{ position: sticky; top: var(--awb-sticky-offset,0); }}@media screen and (min-width: 1025px){.fusion-no-large-visibility{display:none !important;}body .lg-text-align-center{text-align:center !important;}body .lg-text-align-left{text-align:left !important;}body .lg-text-align-right{text-align:right !important;}body .lg-flex-align-center{justify-content:center !important;}body .lg-flex-align-flex-start{justify-content:flex-start !important;}body .lg-flex-align-flex-end{justify-content:flex-end !important;}body .lg-mx-auto{margin-left:auto !important;margin-right:auto !important;}body .lg-ml-auto{margin-left:auto !important;}body .lg-mr-auto{margin-right:auto !important;}body .fusion-absolute-position-large{position:absolute;top:auto;width:100%;}.awb-sticky.awb-sticky-large{ position: sticky; top: var(--awb-sticky-offset,0); }}</style><script type="text/javascript">
+(function($) {
+	'use strict';
+
+	if ($.fn.chosen === undefined) {
+		$.fn.chosen = function(data) {
+			// iterate all selected elements
+			$(this).each(function() {
+				// check is we have a multiple select
+				var isMultiple = $(this).prop('multiple');
+
+				if (!0 && !isMultiple) {
+					// do not go ahead in case we don't need a custom plugin
+					// to handle standard dropdowns
+					return this;
+				}
+
+				if (data !== undefined) {
+					// invoke requested method (e.g. destroy)
+					$(this).select2(data);
+				} else {
+					data = {};
+					data.width       = isMultiple ? 300 : 200;
+					data.allowClear  = $(this).hasClass('required') ? false : true;
+					data.placeholder = Joomla.JText._('JGLOBAL_SELECT_AN_OPTION');
+
+					var firstOption = $(this).find('option').first();
+
+					// in case we don't have an empty option, unset placeholder
+					if (!isMultiple && firstOption.length && firstOption.val().length > 0) {
+						data.allowClear  = false;
+						data.placeholder = null;
+					}
+
+					// turn off search when there are 5 options or less
+					if ($(this).find('option').length <= 5) {
+						data.minimumResultsForSearch = -1;
+					}
+
+					// init select2 plugin
+					$(this).select2(data);
+				}
+			});
+
+			return this;
+		}
+	}
+})(jQuery);
+</script>
+<script type="text/javascript">
+(function($) {
+	'use strict';
+
+	$(function() {
+		$('.btn-toolbar')
+			.find('select')
+				.chosen()
+					.on('chosen:updated', function() {
+						// refresh select2 value when triggered
+						// $(this).select2('val', $(this).val());
+					});
+	});
+})(jQuery);
+</script>
+<script type="text/javascript">
+if (typeof JFormValidator !== 'undefined') {
+	JFormValidator.prototype.getLabel = function(input) {
+		var name = jQuery(input).attr('name');	
+
+		if (this.labels.hasOwnProperty(name)) {
+			return jQuery(this.labels[name]);
+		}
+
+		return jQuery(input).parent().find('label').first();
+	}
+}
+</script>
+<script type="text/javascript">
+if (typeof VIK_WIDGET_SAVE_LOOKUP === 'undefined') {
+	var VIK_WIDGET_SAVE_LOOKUP = {};
+}
+
+(function($) {
+	$(document).on('widget-added', function(event, control) {
+		registerWidgetScripts($(control).find('form'));
+	});
+
+	function registerWidgetScripts(form) {
+		if (!form) {
+			// if the form was not provided, find it using the widget ID (before WP 5.8)
+			form = $('div[id$="mod_vikbooking_channelrates-1"] form');
+		}
+
+		if (typeof JFormValidator !== 'undefined') {
+			// init internal validator
+			var validator = new JFormValidator(form);
+
+			// validate fields every time the SAVE button is clicked
+			form.find('input[name="savewidget"]').on('click', function(event) {
+				return validator.validate();
+			});
+		}
+
+		// init select2 on dropdown with multiple selection
+		if (jQuery.fn.select2) {
+			form.find('select[multiple]').select2({
+				width: '100%'
+			});
+		}
+
+		// initialize popover within the form
+		if (jQuery.fn.popover) {
+			form.find('.inline-popover').popover({sanitize: false, container: 'body'});
+		}
+	}
+
+	$(function() {
+		// If the widget is not a template, register the scripts.
+		// A widget template ID always ends with "__i__"
+		if (!"mod_vikbooking_channelrates-1".match(/__i__$/)) {
+			registerWidgetScripts();
+		}
+
+		// Attach event to the "ADD WIDGET" button
+		$('.widgets-chooser-add').on('click', function(e) {
+			// find widget parent of the clicked button
+			var parent = this.closest('div[id$="mod_vikbooking_channelrates-1"]');
+
+			if (!parent) {
+				return;
+			}
+
+			// extract ID from the template parent (exclude "__i__")
+			var id = $(parent).attr('id').match(/(.*?)__i__$/);
+
+			if (!id) {
+				return;
+			}
+
+			// register scripts with a short delay to make sure the
+			// template has been moved on the right side
+			setTimeout(function() {
+				// obtain the box that has been created
+				var createdForm = $('div[id^="' + id.pop() + '"]').last();
+
+				// find form within the box
+				var _form = $(createdForm).find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(_form);
+			}, 32);
+		});
+
+		// register save callback for this kind of widget only once
+		if (!VIK_WIDGET_SAVE_LOOKUP.hasOwnProperty('mod_vikbooking_channelrates')) {
+			// flag as loaded
+			VIK_WIDGET_SAVE_LOOKUP['mod_vikbooking_channelrates'] = 1;
+
+			// Attach event to SAVE callback
+			$(document).ajaxSuccess(function(event, xhr, settings) {
+				// make sure the request was used to save the widget settings
+				if (!settings.data || typeof settings.data !== 'string' || settings.data.indexOf('action=save-widget') === -1) {
+					// wrong request
+					return;
+				}
+
+				// extract widget ID from request
+				var widget_id = settings.data.match(/widget-id=([a-z0-9_-]+)(?:&|$)/i);
+
+				// make sure this is the widget that was saved
+				if (!widget_id) {
+					// wrong widget
+					return;
+				}
+
+				// get cleansed widget ID
+				widget_id = widget_id.pop();
+
+				// make sure the widget starts with this ID
+				if (widget_id.indexOf('mod_vikbooking_channelrates') !== 0) {
+					// wrong widget
+					return;
+				}
+
+				// obtain the box that has been updated
+				var updatedForm = $('div[id$="' + widget_id + '"]').find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(updatedForm);
+			});
+		}
+	});
+})(jQuery);
+</script>
+<script type="text/javascript">
+if (typeof JFormValidator !== 'undefined') {
+	JFormValidator.prototype.getLabel = function(input) {
+		var name = jQuery(input).attr('name');	
+
+		if (this.labels.hasOwnProperty(name)) {
+			return jQuery(this.labels[name]);
+		}
+
+		return jQuery(input).parent().find('label').first();
+	}
+}
+</script>
+<script type="text/javascript">
+if (typeof VIK_WIDGET_SAVE_LOOKUP === 'undefined') {
+	var VIK_WIDGET_SAVE_LOOKUP = {};
+}
+
+(function($) {
+	$(document).on('widget-added', function(event, control) {
+		registerWidgetScripts($(control).find('form'));
+	});
+
+	function registerWidgetScripts(form) {
+		if (!form) {
+			// if the form was not provided, find it using the widget ID (before WP 5.8)
+			form = $('div[id$="mod_vikbooking_chat-1"] form');
+		}
+
+		if (typeof JFormValidator !== 'undefined') {
+			// init internal validator
+			var validator = new JFormValidator(form);
+
+			// validate fields every time the SAVE button is clicked
+			form.find('input[name="savewidget"]').on('click', function(event) {
+				return validator.validate();
+			});
+		}
+
+		// init select2 on dropdown with multiple selection
+		if (jQuery.fn.select2) {
+			form.find('select[multiple]').select2({
+				width: '100%'
+			});
+		}
+
+		// initialize popover within the form
+		if (jQuery.fn.popover) {
+			form.find('.inline-popover').popover({sanitize: false, container: 'body'});
+		}
+	}
+
+	$(function() {
+		// If the widget is not a template, register the scripts.
+		// A widget template ID always ends with "__i__"
+		if (!"mod_vikbooking_chat-1".match(/__i__$/)) {
+			registerWidgetScripts();
+		}
+
+		// Attach event to the "ADD WIDGET" button
+		$('.widgets-chooser-add').on('click', function(e) {
+			// find widget parent of the clicked button
+			var parent = this.closest('div[id$="mod_vikbooking_chat-1"]');
+
+			if (!parent) {
+				return;
+			}
+
+			// extract ID from the template parent (exclude "__i__")
+			var id = $(parent).attr('id').match(/(.*?)__i__$/);
+
+			if (!id) {
+				return;
+			}
+
+			// register scripts with a short delay to make sure the
+			// template has been moved on the right side
+			setTimeout(function() {
+				// obtain the box that has been created
+				var createdForm = $('div[id^="' + id.pop() + '"]').last();
+
+				// find form within the box
+				var _form = $(createdForm).find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(_form);
+			}, 32);
+		});
+
+		// register save callback for this kind of widget only once
+		if (!VIK_WIDGET_SAVE_LOOKUP.hasOwnProperty('mod_vikbooking_chat')) {
+			// flag as loaded
+			VIK_WIDGET_SAVE_LOOKUP['mod_vikbooking_chat'] = 1;
+
+			// Attach event to SAVE callback
+			$(document).ajaxSuccess(function(event, xhr, settings) {
+				// make sure the request was used to save the widget settings
+				if (!settings.data || typeof settings.data !== 'string' || settings.data.indexOf('action=save-widget') === -1) {
+					// wrong request
+					return;
+				}
+
+				// extract widget ID from request
+				var widget_id = settings.data.match(/widget-id=([a-z0-9_-]+)(?:&|$)/i);
+
+				// make sure this is the widget that was saved
+				if (!widget_id) {
+					// wrong widget
+					return;
+				}
+
+				// get cleansed widget ID
+				widget_id = widget_id.pop();
+
+				// make sure the widget starts with this ID
+				if (widget_id.indexOf('mod_vikbooking_chat') !== 0) {
+					// wrong widget
+					return;
+				}
+
+				// obtain the box that has been updated
+				var updatedForm = $('div[id$="' + widget_id + '"]').find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(updatedForm);
+			});
+		}
+	});
+})(jQuery);
+</script>
+<script type="text/javascript">
+if (typeof JFormValidator !== 'undefined') {
+	JFormValidator.prototype.getLabel = function(input) {
+		var name = jQuery(input).attr('name');	
+
+		if (this.labels.hasOwnProperty(name)) {
+			return jQuery(this.labels[name]);
+		}
+
+		return jQuery(input).parent().find('label').first();
+	}
+}
+</script>
+<script type="text/javascript">
+if (typeof VIK_WIDGET_SAVE_LOOKUP === 'undefined') {
+	var VIK_WIDGET_SAVE_LOOKUP = {};
+}
+
+(function($) {
+	$(document).on('widget-added', function(event, control) {
+		registerWidgetScripts($(control).find('form'));
+	});
+
+	function registerWidgetScripts(form) {
+		if (!form) {
+			// if the form was not provided, find it using the widget ID (before WP 5.8)
+			form = $('div[id$="mod_vikbooking_currencyconverter-1"] form');
+		}
+
+		if (typeof JFormValidator !== 'undefined') {
+			// init internal validator
+			var validator = new JFormValidator(form);
+
+			// validate fields every time the SAVE button is clicked
+			form.find('input[name="savewidget"]').on('click', function(event) {
+				return validator.validate();
+			});
+		}
+
+		// init select2 on dropdown with multiple selection
+		if (jQuery.fn.select2) {
+			form.find('select[multiple]').select2({
+				width: '100%'
+			});
+		}
+
+		// initialize popover within the form
+		if (jQuery.fn.popover) {
+			form.find('.inline-popover').popover({sanitize: false, container: 'body'});
+		}
+	}
+
+	$(function() {
+		// If the widget is not a template, register the scripts.
+		// A widget template ID always ends with "__i__"
+		if (!"mod_vikbooking_currencyconverter-1".match(/__i__$/)) {
+			registerWidgetScripts();
+		}
+
+		// Attach event to the "ADD WIDGET" button
+		$('.widgets-chooser-add').on('click', function(e) {
+			// find widget parent of the clicked button
+			var parent = this.closest('div[id$="mod_vikbooking_currencyconverter-1"]');
+
+			if (!parent) {
+				return;
+			}
+
+			// extract ID from the template parent (exclude "__i__")
+			var id = $(parent).attr('id').match(/(.*?)__i__$/);
+
+			if (!id) {
+				return;
+			}
+
+			// register scripts with a short delay to make sure the
+			// template has been moved on the right side
+			setTimeout(function() {
+				// obtain the box that has been created
+				var createdForm = $('div[id^="' + id.pop() + '"]').last();
+
+				// find form within the box
+				var _form = $(createdForm).find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(_form);
+			}, 32);
+		});
+
+		// register save callback for this kind of widget only once
+		if (!VIK_WIDGET_SAVE_LOOKUP.hasOwnProperty('mod_vikbooking_currencyconverter')) {
+			// flag as loaded
+			VIK_WIDGET_SAVE_LOOKUP['mod_vikbooking_currencyconverter'] = 1;
+
+			// Attach event to SAVE callback
+			$(document).ajaxSuccess(function(event, xhr, settings) {
+				// make sure the request was used to save the widget settings
+				if (!settings.data || typeof settings.data !== 'string' || settings.data.indexOf('action=save-widget') === -1) {
+					// wrong request
+					return;
+				}
+
+				// extract widget ID from request
+				var widget_id = settings.data.match(/widget-id=([a-z0-9_-]+)(?:&|$)/i);
+
+				// make sure this is the widget that was saved
+				if (!widget_id) {
+					// wrong widget
+					return;
+				}
+
+				// get cleansed widget ID
+				widget_id = widget_id.pop();
+
+				// make sure the widget starts with this ID
+				if (widget_id.indexOf('mod_vikbooking_currencyconverter') !== 0) {
+					// wrong widget
+					return;
+				}
+
+				// obtain the box that has been updated
+				var updatedForm = $('div[id$="' + widget_id + '"]').find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(updatedForm);
+			});
+		}
+	});
+})(jQuery);
+</script>
+<script type="text/javascript">
+if (typeof JFormValidator !== 'undefined') {
+	JFormValidator.prototype.getLabel = function(input) {
+		var name = jQuery(input).attr('name');	
+
+		if (this.labels.hasOwnProperty(name)) {
+			return jQuery(this.labels[name]);
+		}
+
+		return jQuery(input).parent().find('label').first();
+	}
+}
+</script>
+<script type="text/javascript">
+if (typeof VIK_WIDGET_SAVE_LOOKUP === 'undefined') {
+	var VIK_WIDGET_SAVE_LOOKUP = {};
+}
+
+(function($) {
+	$(document).on('widget-added', function(event, control) {
+		registerWidgetScripts($(control).find('form'));
+	});
+
+	function registerWidgetScripts(form) {
+		if (!form) {
+			// if the form was not provided, find it using the widget ID (before WP 5.8)
+			form = $('div[id$="mod_vikbooking_horizontalsearch-1"] form');
+		}
+
+		if (typeof JFormValidator !== 'undefined') {
+			// init internal validator
+			var validator = new JFormValidator(form);
+
+			// validate fields every time the SAVE button is clicked
+			form.find('input[name="savewidget"]').on('click', function(event) {
+				return validator.validate();
+			});
+		}
+
+		// init select2 on dropdown with multiple selection
+		if (jQuery.fn.select2) {
+			form.find('select[multiple]').select2({
+				width: '100%'
+			});
+		}
+
+		// initialize popover within the form
+		if (jQuery.fn.popover) {
+			form.find('.inline-popover').popover({sanitize: false, container: 'body'});
+		}
+	}
+
+	$(function() {
+		// If the widget is not a template, register the scripts.
+		// A widget template ID always ends with "__i__"
+		if (!"mod_vikbooking_horizontalsearch-1".match(/__i__$/)) {
+			registerWidgetScripts();
+		}
+
+		// Attach event to the "ADD WIDGET" button
+		$('.widgets-chooser-add').on('click', function(e) {
+			// find widget parent of the clicked button
+			var parent = this.closest('div[id$="mod_vikbooking_horizontalsearch-1"]');
+
+			if (!parent) {
+				return;
+			}
+
+			// extract ID from the template parent (exclude "__i__")
+			var id = $(parent).attr('id').match(/(.*?)__i__$/);
+
+			if (!id) {
+				return;
+			}
+
+			// register scripts with a short delay to make sure the
+			// template has been moved on the right side
+			setTimeout(function() {
+				// obtain the box that has been created
+				var createdForm = $('div[id^="' + id.pop() + '"]').last();
+
+				// find form within the box
+				var _form = $(createdForm).find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(_form);
+			}, 32);
+		});
+
+		// register save callback for this kind of widget only once
+		if (!VIK_WIDGET_SAVE_LOOKUP.hasOwnProperty('mod_vikbooking_horizontalsearch')) {
+			// flag as loaded
+			VIK_WIDGET_SAVE_LOOKUP['mod_vikbooking_horizontalsearch'] = 1;
+
+			// Attach event to SAVE callback
+			$(document).ajaxSuccess(function(event, xhr, settings) {
+				// make sure the request was used to save the widget settings
+				if (!settings.data || typeof settings.data !== 'string' || settings.data.indexOf('action=save-widget') === -1) {
+					// wrong request
+					return;
+				}
+
+				// extract widget ID from request
+				var widget_id = settings.data.match(/widget-id=([a-z0-9_-]+)(?:&|$)/i);
+
+				// make sure this is the widget that was saved
+				if (!widget_id) {
+					// wrong widget
+					return;
+				}
+
+				// get cleansed widget ID
+				widget_id = widget_id.pop();
+
+				// make sure the widget starts with this ID
+				if (widget_id.indexOf('mod_vikbooking_horizontalsearch') !== 0) {
+					// wrong widget
+					return;
+				}
+
+				// obtain the box that has been updated
+				var updatedForm = $('div[id$="' + widget_id + '"]').find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(updatedForm);
+			});
+		}
+	});
+})(jQuery);
+</script>
+<script type="text/javascript">
+if (typeof JFormValidator !== 'undefined') {
+	JFormValidator.prototype.getLabel = function(input) {
+		var name = jQuery(input).attr('name');	
+
+		if (this.labels.hasOwnProperty(name)) {
+			return jQuery(this.labels[name]);
+		}
+
+		return jQuery(input).parent().find('label').first();
+	}
+}
+</script>
+<script type="text/javascript">
+if (typeof VIK_WIDGET_SAVE_LOOKUP === 'undefined') {
+	var VIK_WIDGET_SAVE_LOOKUP = {};
+}
+
+(function($) {
+	$(document).on('widget-added', function(event, control) {
+		registerWidgetScripts($(control).find('form'));
+	});
+
+	function registerWidgetScripts(form) {
+		if (!form) {
+			// if the form was not provided, find it using the widget ID (before WP 5.8)
+			form = $('div[id$="mod_vikbooking_rooms-1"] form');
+		}
+
+		if (typeof JFormValidator !== 'undefined') {
+			// init internal validator
+			var validator = new JFormValidator(form);
+
+			// validate fields every time the SAVE button is clicked
+			form.find('input[name="savewidget"]').on('click', function(event) {
+				return validator.validate();
+			});
+		}
+
+		// init select2 on dropdown with multiple selection
+		if (jQuery.fn.select2) {
+			form.find('select[multiple]').select2({
+				width: '100%'
+			});
+		}
+
+		// initialize popover within the form
+		if (jQuery.fn.popover) {
+			form.find('.inline-popover').popover({sanitize: false, container: 'body'});
+		}
+	}
+
+	$(function() {
+		// If the widget is not a template, register the scripts.
+		// A widget template ID always ends with "__i__"
+		if (!"mod_vikbooking_rooms-1".match(/__i__$/)) {
+			registerWidgetScripts();
+		}
+
+		// Attach event to the "ADD WIDGET" button
+		$('.widgets-chooser-add').on('click', function(e) {
+			// find widget parent of the clicked button
+			var parent = this.closest('div[id$="mod_vikbooking_rooms-1"]');
+
+			if (!parent) {
+				return;
+			}
+
+			// extract ID from the template parent (exclude "__i__")
+			var id = $(parent).attr('id').match(/(.*?)__i__$/);
+
+			if (!id) {
+				return;
+			}
+
+			// register scripts with a short delay to make sure the
+			// template has been moved on the right side
+			setTimeout(function() {
+				// obtain the box that has been created
+				var createdForm = $('div[id^="' + id.pop() + '"]').last();
+
+				// find form within the box
+				var _form = $(createdForm).find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(_form);
+			}, 32);
+		});
+
+		// register save callback for this kind of widget only once
+		if (!VIK_WIDGET_SAVE_LOOKUP.hasOwnProperty('mod_vikbooking_rooms')) {
+			// flag as loaded
+			VIK_WIDGET_SAVE_LOOKUP['mod_vikbooking_rooms'] = 1;
+
+			// Attach event to SAVE callback
+			$(document).ajaxSuccess(function(event, xhr, settings) {
+				// make sure the request was used to save the widget settings
+				if (!settings.data || typeof settings.data !== 'string' || settings.data.indexOf('action=save-widget') === -1) {
+					// wrong request
+					return;
+				}
+
+				// extract widget ID from request
+				var widget_id = settings.data.match(/widget-id=([a-z0-9_-]+)(?:&|$)/i);
+
+				// make sure this is the widget that was saved
+				if (!widget_id) {
+					// wrong widget
+					return;
+				}
+
+				// get cleansed widget ID
+				widget_id = widget_id.pop();
+
+				// make sure the widget starts with this ID
+				if (widget_id.indexOf('mod_vikbooking_rooms') !== 0) {
+					// wrong widget
+					return;
+				}
+
+				// obtain the box that has been updated
+				var updatedForm = $('div[id$="' + widget_id + '"]').find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(updatedForm);
+			});
+		}
+	});
+})(jQuery);
+</script>
+<meta name="generator" content="Powered by Slider Revolution 6.7.37 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://rifugiocittadifiume.it/wp-content/uploads/2023/08/cropped-FAVICON-RIFUGIO-CITTA-DI-FIUME-DEF-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://rifugiocittadifiume.it/wp-content/uploads/2023/08/cropped-FAVICON-RIFUGIO-CITTA-DI-FIUME-DEF-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://rifugiocittadifiume.it/wp-content/uploads/2023/08/cropped-FAVICON-RIFUGIO-CITTA-DI-FIUME-DEF-180x180.png" />
+<meta name="msapplication-TileImage" content="https://rifugiocittadifiume.it/wp-content/uploads/2023/08/cropped-FAVICON-RIFUGIO-CITTA-DI-FIUME-DEF-270x270.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+		<script type="text/javascript">
+			var doc = document.documentElement;
+			doc.setAttribute( 'data-useragent', navigator.userAgent );
+		</script>
+		<style type="text/css" id="fusion-builder-page-css">.bk_calendar_frame {
+  max-width: none !important;
+  width: 50% !important;
+  margin: 0 auto; /* Aggiungi questa riga per centrare l'elemento orizzontalmente */
+}
+
+.datepick-days-cell.datepick-unselectable:not(.datepick-other-month) {
+background-color: #c60b0b !important;
+}
+.datepick-days-cell.date_available {
+background-color: transparent !important;
+}
+
+.datepick-days-cell.date_available a {
+color: black !important; 
+}
+
+@media only screen and (max-width: 500px) {
+  .bk_calendar_frame {
+    width: 100% !important;
+  }
+}
+
+
+.vbo-search-num-aduchild-entry {
+    display: none !important;
+}
+
+.vbo-search-categories {
+    display: none !important;
+}</style>
+	<link rel='stylesheet' id='72f006b821fa76a8d48a64b508f8ce99-css' href='https://rifugiocittadifiume.it/wp-content/plugins/vikbooking/site/resources/jquery-ui.min.css' media='all' />
+<link rel='stylesheet' id='f75d5656d0b6bba66207193507f92fdb-css' href='https://rifugiocittadifiume.it/wp-content/plugins/vikbooking/site/resources/fontawesome.min.css?ver=1.8.16' media='all' />
+<link rel='stylesheet' id='c809d09001e67207a2b9cc9925c26217-css' href='https://rifugiocittadifiume.it/wp-content/plugins/vikbooking/site/resources/solid.min.css?ver=1.8.16' media='all' />
+<link rel='stylesheet' id='217f33b8785e82e8483ed276ef812da9-css' href='https://rifugiocittadifiume.it/wp-content/plugins/vikbooking/site/resources/regular.min.css?ver=1.8.16' media='all' />
+<link rel='stylesheet' id='vbo-style-css' href='https://rifugiocittadifiume.it/wp-content/plugins/vikbooking/site/resources/vikbooking_styles.css?ver=1.8.16' media='all' />
+<link rel='stylesheet' id='vbo-custom-style-css' href='https://rifugiocittadifiume.it/wp-content/plugins/vikbooking/site/resources/vikbooking_custom.css?ver=1.8.16' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='//rifugiocittadifiume.it/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=6.7.37' media='all' />
+<style id="rs-plugin-settings-inline-css">
+#rs-demo-id {}
+/*# sourceURL=rs-plugin-settings-inline-css */
+</style>
+
+</head>
+
+<body class="wp-singular page-template page-template-100-width page-template-100-width-php page page-id-1847 wp-theme-Avada wp-child-theme-avada-gm-child fusion-image-hovers fusion-pagination-sizing fusion-button_type-flat fusion-button_span-no fusion-button_gradient-linear avada-image-rollover-circle-yes avada-image-rollover-no fusion-body ltr no-tablet-sticky-header no-mobile-sticky-header no-mobile-slidingbar no-mobile-totop fusion-disable-outline fusion-sub-menu-fade mobile-logo-pos-left layout-wide-mode avada-has-boxed-modal-shadow- layout-scroll-offset-full avada-has-zero-margin-offset-top fusion-top-header menu-text-align-center mobile-menu-design-classic fusion-show-pagination-text fusion-header-layout-v1 avada-responsive avada-footer-fx-none avada-menu-highlight-style-bar fusion-search-form-clean fusion-main-menu-search-overlay fusion-avatar-circle avada-dropdown-styles avada-blog-layout-large avada-blog-archive-layout-large avada-header-shadow-no avada-menu-icon-position-left avada-has-megamenu-shadow avada-has-header-100-width avada-has-mobile-menu-search avada-has-main-nav-search-icon avada-has-breadcrumb-mobile-hidden avada-has-titlebar-hide avada-header-border-color-full-transparent avada-has-pagination-width_height avada-flyout-menu-direction-fade avada-ec-views-v1" data-awb-post-id="1847">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<div id="boxed-wrapper">
+		
+		<div id="wrapper" class="fusion-wrapper">
+			<div id="home" style="position:relative;top:-1px;"></div>
+							
+					
+			<header class="fusion-header-wrapper">
+				<div class="fusion-header-v1 fusion-logo-alignment fusion-logo-left fusion-sticky-menu- fusion-sticky-logo- fusion-mobile-logo-  fusion-mobile-menu-design-classic">
+					<div class="fusion-header-sticky-height"></div>
+<div class="fusion-header">
+	<div class="fusion-row">
+					<div class="fusion-logo" data-margin-top="11px" data-margin-bottom="11px" data-margin-left="0px" data-margin-right="0px">
+			<a class="fusion-logo-link"  href="https://rifugiocittadifiume.it/en/rifugio-citta-di-fiume-english/" >
+
+						<!-- standard logo -->
+			<img src="https://rifugiocittadifiume.it/wp-content/uploads/2023/06/Rifugio_1.png" srcset="https://rifugiocittadifiume.it/wp-content/uploads/2023/06/Rifugio_1.png 1x, https://rifugiocittadifiume.it/wp-content/uploads/2023/06/Logo.png 2x" width="150" height="91" style="max-height:91px;height:auto;" alt="Rifugio Città di Fiume Logo" data-retina_logo_url="https://rifugiocittadifiume.it/wp-content/uploads/2023/06/Logo.png" class="fusion-standard-logo" />
+
+			
+					</a>
+		</div>		<nav class="fusion-main-menu" aria-label="Main Menu"><div class="fusion-overlay-search">		<form role="search" class="searchform fusion-search-form  fusion-search-form-clean" method="get" action="https://rifugiocittadifiume.it/en/">
+			<div class="fusion-search-form-content">
+
+				
+				<div class="fusion-search-field search-field">
+					<label><span class="screen-reader-text">Search for:</span>
+													<input type="search" value="" name="s" class="s" placeholder="Search..." required aria-required="true" aria-label="Search..."/>
+											</label>
+				</div>
+				<div class="fusion-search-button search-button">
+					<input type="submit" class="fusion-search-submit searchsubmit" aria-label="Search" value="&#xf002;" />
+									</div>
+
+				
+			</div>
+
+
+			
+		</form>
+		<div class="fusion-search-spacer"></div><a href="#" role="button" aria-label="Close Search" class="fusion-close-search"></a></div><ul id="menu-menu-en" class="fusion-menu"><li  id="menu-item-1881"  class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1847 current_page_item menu-item-1881"  data-item-id="1881"><a  href="https://rifugiocittadifiume.it/en/book-online/" class="fusion-bar-highlight"><span class="menu-text">BOOK ONLINE</span></a></li><li  id="menu-item-1884"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1884"  data-item-id="1884"><a  href="https://rifugiocittadifiume.it/prenota/" class="fusion-bar-highlight"><span class="menu-text">PRENOTA</span></a></li><li  id="menu-item-1885"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1885"  data-item-id="1885"><a  href="https://rifugiocittadifiume.it/contatti/" class="fusion-bar-highlight"><span class="menu-text">CONTATTI</span></a></li><li  id="menu-item-1886"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1886"  data-item-id="1886"><a  href="https://rifugiocittadifiume.it/privacy-policy/" class="fusion-bar-highlight"><span class="menu-text">PRIVACY POLICY</span></a></li><li class="fusion-custom-menu-item fusion-main-menu-search fusion-search-overlay"><a class="fusion-main-menu-icon fusion-bar-highlight" href="#" aria-label="Search" data-title="Search" title="Search" role="button" aria-expanded="false"></a></li></ul></nav>
+<nav class="fusion-mobile-nav-holder fusion-mobile-menu-text-align-left" aria-label="Main Menu Mobile"></nav>
+
+		
+<div class="fusion-clearfix"></div>
+<div class="fusion-mobile-menu-search">
+			<form role="search" class="searchform fusion-search-form  fusion-search-form-clean" method="get" action="https://rifugiocittadifiume.it/en/">
+			<div class="fusion-search-form-content">
+
+				
+				<div class="fusion-search-field search-field">
+					<label><span class="screen-reader-text">Search for:</span>
+													<input type="search" value="" name="s" class="s" placeholder="Search..." required aria-required="true" aria-label="Search..."/>
+											</label>
+				</div>
+				<div class="fusion-search-button search-button">
+					<input type="submit" class="fusion-search-submit searchsubmit" aria-label="Search" value="&#xf002;" />
+									</div>
+
+				
+			</div>
+
+
+			
+		</form>
+		</div>
+			</div>
+</div>
+				</div>
+				<div class="fusion-clearfix"></div>
+			</header>
+								
+							<div id="sliders-container" class="fusion-slider-visibility">
+					</div>
+				
+					
+							
+			
+						<main id="main" class="clearfix width-100">
+				<div class="fusion-row" style="max-width:100%;">
+<section id="content" class="full-width">
+					<div id="post-1847" class="post-1847 page type-page status-publish hentry">
+			<span class="entry-title rich-snippet-hidden">BOOK ONLINE</span><span class="vcard rich-snippet-hidden"><span class="fn"><a href="https://rifugiocittadifiume.it/en/author/brainfarm/" rel="author">Brainfarm</a></span></span><span class="updated rich-snippet-hidden">2026-10-27T14:47:06+01:00</span>						<div class="post-content">
+				<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-background-position-small:center top;--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-padding-top:12%;--awb-padding-bottom:12%;--awb-padding-top-small:150px;--awb-padding-bottom-small:40px;--awb-background-image:linear-gradient(180deg, rgba(20,22,23,0.44) 0%,rgba(20,22,23,0.44) 100%),url(https://rifugiocittadifiume.it/wp-content/uploads/2023/06/Home.webp);;--awb-background-image-small:linear-gradient(180deg, rgba(20,22,23,0.44) 0%,rgba(20,22,23,0.44) 100%),url(https://rifugiocittadifiume.it/wp-content/uploads/2023/06/Home.webp);;--awb-background-size:cover;--awb-flex-wrap:wrap;--awb-flex-wrap-small:nowrap;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap" style="max-width:1248px;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-flex-column" style="--awb-padding-top-small:15%;--awb-padding-bottom-small:15%;--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:1.92%;--awb-margin-bottom-large:20px;--awb-spacing-left-large:1.92%;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;" data-scroll-devices="small-visibility,medium-visibility,large-visibility"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-text fusion-text-1"><h1><strong><span style="color: #ffffff;"><span style="caret-color: #ffffff;">BOOK YOUR STAY</span></span></strong></h1>
+</div><div class="fusion-text fusion-text-2" style="--awb-font-size:18px;--awb-text-color:var(--awb-color1);"><p style="text-align: center;"><strong>RIFUGIO CHIUSO </strong></p>
+<p style="text-align: center;">PROSSIMAMENTE ON LINE IL CALENDARIO delle APERTURE INVERNALI</p>
+</div>
+<div ><a class="fusion-button button-flat fusion-button-default-size button-custom fusion-button-default button-1 fusion-button-default-span fusion-button-default-type" style="--button_accent_color:var(--awb-color1);--button_accent_hover_color:var(--awb-color1);--button_border_hover_color:var(--awb-color1);--button_gradient_top_color:var(--awb-color7);--button_gradient_bottom_color:var(--awb-color7);--button_gradient_top_color_hover:hsla(var(--awb-color5-h),calc(var(--awb-color5-s) - 5%),calc(var(--awb-color5-l) - 10%),var(--awb-color5-a));--button_gradient_bottom_color_hover:hsla(var(--awb-color5-h),calc(var(--awb-color5-s) - 5%),calc(var(--awb-color5-l) - 10%),var(--awb-color5-a));" target="_self" href="https://rifugiocittadifiume.it/prenota/#richiesta"><span class="fusion-button-text">EFFETTUA UNA RICHIESTA DI PERNOTTAMENTO | MAKE A BOOKING REQUEST</span></a></div></div></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-padding-top:10em;--awb-padding-bottom:10em;--awb-flex-wrap:wrap;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap" style="max-width:1248px;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:1.92%;--awb-margin-bottom-large:20px;--awb-spacing-left-large:1.92%;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-title title fusion-title-1 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-one" id="section-booking"><h1 class="fusion-title-heading title-heading-center fusion-responsive-typography-calculated" style="margin:0;--fontSize:55;line-height:var(--awb-typography1-line-height);">Reservation</h1></div>
+<div class="wrap plugin-container">
+
+	
+	
+		<div class="vbo-js-helpers" style="display: none;">
+		<div class="vbo-add-element-html">
+			<div class="vbo-search-num-aduchild-entry">
+				<span class="vbo-search-roomnum">Bed place %d</span>
+				<div class="vbo-search-num-adults-entry">
+					<label class="vbo-search-num-adults-entry-label">Guests</label>
+					<span class="vbo-search-num-adults-entry-inp"><select name="adults[]"><option value="1">1</option></select></span>
+				</div>
+						</div>
+		</div>
+	</div>
+
+	<script type="text/javascript">
+	function vbAddElement() {
+		var ni = document.getElementById('vbo-search-num-aduchild-block');
+		var numi = document.getElementById('vbroomhelper');
+		var num = (document.getElementById('vbroomhelper').value -1)+ 2;
+		numi.value = num;
+		var newdiv = document.createElement('div');
+		var divIdName = 'vb'+num+'racont';
+		newdiv.setAttribute('id', divIdName);
+		var new_element_html = document.getElementsByClassName('vbo-add-element-html')[0].innerHTML;
+		var rp_rgx = new RegExp('%d', 'g');
+		newdiv.innerHTML = new_element_html.replace(rp_rgx, num);
+		ni.appendChild(newdiv);
+	}
+	function vbSetRoomsAdults(totrooms) {
+		var actrooms = parseInt(document.getElementById('vbroomhelper').value);
+		var torooms = parseInt(totrooms);
+		var difrooms;
+		if(torooms > actrooms) {
+			difrooms = torooms - actrooms;
+			for(var ir = 1; ir <= difrooms; ir++) {
+				vbAddElement();
+			}
+		}
+		if(torooms < actrooms) {
+			for(var ir = actrooms; ir > torooms; ir--) {
+				if(ir > 1) {
+					var rmra = document.getElementById('vb' + ir + 'racont');
+					rmra.parentNode.removeChild(rmra);
+				}
+			}
+			document.getElementById('vbroomhelper').value = torooms;
+		}
+	}
+	function vbCalcNights() {
+		var vbcheckin = document.getElementById('checkindate').value;
+		var vbcheckout = document.getElementById('checkoutdate').value;
+		if (vbcheckin.length > 0 && vbcheckout.length > 0) {
+			var vbcheckinp = vbcheckin.split("/");
+			var vbcheckoutp = vbcheckout.split("/");
+					var vbinmonth = parseInt(vbcheckinp[1]);
+			vbinmonth = vbinmonth - 1;
+			var vbinday = parseInt(vbcheckinp[0], 10);
+			var vbcheckind = new Date(vbcheckinp[2], vbinmonth, vbinday);
+			var vboutmonth = parseInt(vbcheckoutp[1]);
+			vboutmonth = vboutmonth - 1;
+			var vboutday = parseInt(vbcheckoutp[0], 10);
+			var vbcheckoutd = new Date(vbcheckoutp[2], vboutmonth, vboutday);
+						var vbdivider = 1000 * 60 * 60 * 24;
+			var vbints = vbcheckind.getTime();
+			var vboutts = vbcheckoutd.getTime();
+			if(vboutts > vbints) {
+				//var vbnights = Math.ceil((vboutts - vbints) / (vbdivider));
+				var utc1 = Date.UTC(vbcheckind.getFullYear(), vbcheckind.getMonth(), vbcheckind.getDate());
+				var utc2 = Date.UTC(vbcheckoutd.getFullYear(), vbcheckoutd.getMonth(), vbcheckoutd.getDate());
+				var vbnights = Math.ceil((utc2 - utc1) / vbdivider);
+				if(vbnights > 0) {
+					document.getElementById('vbjstotnights').innerHTML = 'Nights: '+vbnights;
+				} else {
+					document.getElementById('vbjstotnights').innerHTML = '';
+				}
+			} else {
+				document.getElementById('vbjstotnights').innerHTML = '';
+			}
+		} else {
+			document.getElementById('vbjstotnights').innerHTML = '';
+		}
+	}
+	</script>
+	<input type="hidden" id="vbroomhelper" value="1"/>
+		<div class="vbo-intro-main"></div>
+	<div class="vbdivsearch vbo-search-mainview"><form action="https://rifugiocittadifiume.it/en/book-online/" method="post"><div class="vb-search-inner">
+<input type="hidden" name="option" value="com_vikbooking"/>
+<input type="hidden" name="task" value="search"/>
+<div class="vbo-search-inpblock vbo-search-inpblock-checkin"><label for="checkindate">Check-in date</label><div class="input-group"><input type="text" name="checkindate" id="checkindate" size="10" autocomplete="off" onfocus="this.blur();" readonly/><i class="far fa-calendar-days vbo-caltrigger"></i></div><input type="hidden" name="checkinh" value="15"/><input type="hidden" name="checkinm" value="30"/></div>
+<div class="vbo-search-inpblock vbo-search-inpblock-checkout"><label for="checkoutdate">Check-out date</label><div class="input-group"><input type="text" name="checkoutdate" id="checkoutdate" size="10" autocomplete="off" onfocus="this.blur();" readonly/><i class="far fa-calendar-days vbo-caltrigger"></i></div><input type="hidden" name="checkouth" value="8"/><input type="hidden" name="checkoutm" value="30"/></div>
+<div class="vbo-search-num-racblock">
+	<div class="vbo-search-num-rooms"><label for="vbo-roomsnum">Bed places</label><select id="vbo-roomsnum" name="roomsnum" onchange="vbSetRoomsAdults(this.value);">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+</select>
+</div>
+	<div class="vbo-search-num-aduchild-block" id="vbo-search-num-aduchild-block">
+		<div class="vbo-search-num-aduchild-entry"><span class="vbo-search-roomnum">Bed place 1</span>
+			<div class="vbo-search-num-adults-entry"><label class="vbo-search-num-adults-entry-label">Guests</label><span class="vbo-search-num-adults-entry-inp"><select name="adults[]"><option value="1">1</option></select></span></div>
+		</div>
+	</div>
+	<div id="vbjstotnights"></div>
+</div>
+<div class="vbo-search-categories"><label for="vbo-formcategories" class="vbformcategories">Rooms Category</label><select id="vbo-formcategories" name="categories"><option value="all">Any</option>
+<option value="2">Bed Place</option>
+</select></div>
+<div class="vbo-search-submit"><button type="submit" class="btn vbo-pref-color-btn">Search</button></div>
+</div>
+<input type="hidden" name="Itemid" value="1847"/></form></div>	<div class="vbo-closing-main"></div>
+
+	<script type="text/javascript">
+	jQuery(function() {
+		jQuery('.vbo-search-submit').find('button[type="submit"]').on('click', function(e) {
+			e.preventDefault();
+			jQuery(this).prop('disabled', true);
+			jQuery(this).html('<i class="fas fa-circle-notch fa-spin fa-fw"></i> ' + jQuery(this).text());
+			jQuery(this).closest('form').submit();
+		});
+	});
+	</script>
+
+	
+</div>
+<div class="fusion-text fusion-text-3" style="--awb-text-color:var(--awb-color6);"><p><strong>La tariffa indicata è quella ordinaria. Eventuali sconti verranno applicati in fase di check-out dietro presentazione della documentazione richiesta.</strong></p>
+<p><em><strong>The rate shown is the standard rate. Any discounts will be applied at check-out upon presentation of the required documentation.</strong></em></p>
+</div><script>
+document.addEventListener("DOMContentLoaded", function () {
+  if (window.location.hash === "") {
+    var target = document.getElementById("section-booking");
+    if (target) {
+      setTimeout(function () {
+        target.scrollIntoView({ behavior: "smooth" });
+      }, 400);
+    }
+  }
+});
+</script></div></div></div></div>
+							</div>
+												</div>
+	</section>
+						
+					</div>  <!-- fusion-row -->
+				</main>  <!-- #main -->
+				
+				
+								
+					
+		<div class="fusion-footer">
+				
+		</div> <!-- fusion-footer -->
+
+		
+					
+												</div> <!-- wrapper -->
+		</div> <!-- #boxed-wrapper -->
+				<a class="fusion-one-page-text-link fusion-page-load-link" tabindex="-1" href="#" aria-hidden="true">Page load link</a>
+
+		<div class="avada-footer-scripts">
+			
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/avada-gm-child/*","/wp-content/themes/Avada/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript">var fusionNavIsCollapsed=function(e){var t,n;window.innerWidth<=e.getAttribute("data-breakpoint")?(e.classList.add("collapse-enabled"),e.classList.remove("awb-menu_desktop"),e.classList.contains("expanded")||(e.setAttribute("aria-expanded","false"),window.dispatchEvent(new Event("fusion-mobile-menu-collapsed",{bubbles:!0,cancelable:!0}))),(n=e.querySelectorAll(".menu-item-has-children.expanded")).length&&n.forEach(function(e){e.querySelector(".awb-menu__open-nav-submenu_mobile").setAttribute("aria-expanded","false")})):(null!==e.querySelector(".menu-item-has-children.expanded .awb-menu__open-nav-submenu_click")&&e.querySelector(".menu-item-has-children.expanded .awb-menu__open-nav-submenu_click").click(),e.classList.remove("collapse-enabled"),e.classList.add("awb-menu_desktop"),e.setAttribute("aria-expanded","true"),null!==e.querySelector(".awb-menu__main-ul")&&e.querySelector(".awb-menu__main-ul").removeAttribute("style")),e.classList.add("no-wrapper-transition"),clearTimeout(t),t=setTimeout(()=>{e.classList.remove("no-wrapper-transition")},400),e.classList.remove("loading")},fusionRunNavIsCollapsed=function(){var e,t=document.querySelectorAll(".awb-menu");for(e=0;e<t.length;e++)fusionNavIsCollapsed(t[e])};function avadaGetScrollBarWidth(){var e,t,n,l=document.createElement("p");return l.style.width="100%",l.style.height="200px",(e=document.createElement("div")).style.position="absolute",e.style.top="0px",e.style.left="0px",e.style.visibility="hidden",e.style.width="200px",e.style.height="150px",e.style.overflow="hidden",e.appendChild(l),document.body.appendChild(e),t=l.offsetWidth,e.style.overflow="scroll",t==(n=l.offsetWidth)&&(n=e.clientWidth),document.body.removeChild(e),jQuery("html").hasClass("awb-scroll")&&10<t-n?10:t-n}fusionRunNavIsCollapsed(),window.addEventListener("fusion-resize-horizontal",fusionRunNavIsCollapsed);</script><script defer async id="tp-tools-js" src="//rifugiocittadifiume.it/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.37"></script>
+<script defer async id="revmin-js" src="//rifugiocittadifiume.it/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.37"></script>
+<script id="underscore-js" src="https://rifugiocittadifiume.it/wp-includes/js/underscore.min.js?ver=1.13.8"></script>
+<script id="wp-util-js-extra">
+var _wpUtilSettings = {"ajax":{"url":"/wp-admin/admin-ajax.php"}};
+//# sourceURL=wp-util-js-extra
+</script>
+<script id="wp-util-js" src="https://rifugiocittadifiume.it/wp-includes/js/wp-util.min.js?ver=7.1.4"></script>
+<script data-cfasync="false" id="wpbc_all-js-before">
+var wpbc_url_ajax = "https:\/\/rifugiocittadifiume.it\/wp-admin\/admin-ajax.php";window.wpbc_url_ajax = wpbc_url_ajax;
+//# sourceURL=wpbc_all-js-before
+</script>
+<script id="wpbc_all-js" src="https://rifugiocittadifiume.it/wp-content/plugins/booking/_dist/all/_out/wpbc_all.js?ver=11.9"></script>
+<script id="wpbc_all-js-after">
+(function(){
+"use strict";
+function wpbc_init__head(){_wpbc.set_other_param( 'locale_active', 'en_US' ); _wpbc.set_other_param('time_gmt_arr', [2026,11,2,2,35] ); _wpbc.set_other_param('time_local_arr', [2026,11,2,3,35] ); _wpbc.set_other_param( 'today_arr', [2026,11,2,3,35] ); _wpbc.set_other_param( 'availability__unavailable_from_today', '0' ); _wpbc.set_other_param( 'url_plugin', 'https://rifugiocittadifiume.it/wp-content/plugins/booking' ); _wpbc.set_other_param( 'this_page_booking_hash', ''  ); _wpbc.set_other_param( 'calendars__on_this_page', [] ); _wpbc.set_other_param( 'calendars__first_day', '0' ); _wpbc.set_other_param( 'calendars__max_monthes_in_calendar', '2y' ); _wpbc.set_other_param( 'availability__week_days_unavailable', [999] ); _wpbc.set_other_param( 'calendars__days_select_mode', 'multiple' ); _wpbc.set_other_param( 'calendars__fixed__days_num', 3 ); _wpbc.set_other_param( 'calendars__fixed__week_days__start',   [] ); _wpbc.set_other_param( 'calendars__dynamic__days_min', 0 ); _wpbc.set_other_param( 'calendars__dynamic__days_max', 0 ); _wpbc.set_other_param( 'calendars__dynamic__days_specific',    [] ); _wpbc.set_other_param( 'calendars__dynamic__week_days__start', [] ); _wpbc.set_other_param( 'calendars__days_selection__middle_days_opacity', '0.75' ); _wpbc.set_other_param( 'is_enabled_booking_recurrent_time',  true ); _wpbc.set_other_param( 'is_allow_several_months_on_mobile',  false ); _wpbc.set_other_param( 'is_enabled_change_over',  false ); _wpbc.set_other_param( 'is_enabled_booking_timeslot_picker',  true ); _wpbc.set_other_param( 'update', '11.9' ); _wpbc.set_other_param( 'version', 'free' ); _wpbc.set_message( "message_check_no_selected_dates", "Please, select booking date(s) at Calendar." ); _wpbc.set_message( "message_range_selection_click_last_date", "Start date selected. Now click the last day of your booking to complete the date range." ); _wpbc.set_message( "message_range_selection_has_unavailable_dates", "The selected date range includes unavailable or already booked dates, so the selection was cleared. Please choose a range that contains only available dates." ); _wpbc.set_message( "message_dates_times_unavailable", "These dates and times in this calendar are already booked or unavailable." ); _wpbc.set_message( "message_choose_alternative_dates", "Please choose alternative date(s), times, or adjust the number of slots booked." ); _wpbc.set_message( "message_cannot_save_in_one_resource", "It is not possible to store this sequence of the dates into the one same resource." ); _wpbc.set_message( "message_check_required", "This field is required" ); _wpbc.set_message( "message_check_required_for_check_box", "This checkbox must be checked" ); _wpbc.set_message( "message_check_required_for_radio_box", "At least one option must be selected" ); _wpbc.set_message( "message_check_email", "Incorrect email address" ); _wpbc.set_message( "message_check_same_email", "Your emails do not match" ); _wpbc.set_message( "message_check_valid_date", "This field must be a valid date like {date_example}" ); _wpbc.set_message( "message_check_digits_only", "This field must contain only digits" ); _wpbc.set_message( "message_check_digits_count", "This field must contain {digits} digits" ); _wpbc.set_message( "message_error_start_time", "Start Time is invalid. The date or time may be booked, or already in the past! Please choose another date or time." ); _wpbc.set_message( "message_error_end_time", "End Time is invalid. The date or time may be booked, or already in the past. The End Time may also be earlier that the start time, if only 1 day was selected! Please choose another date or time." ); _wpbc.set_message( "message_error_range_time", "The time(s) may be booked, or already in the past!" ); _wpbc.set_message( "message_error_duration_time", "The time(s) may be booked, or already in the past!" ); _wpbc.set_message( "message_booking_saving", "Saving" ); _wpbc.set_message( "message_duplicate_booking_resource_on_page", "More than one calendar or booking form for Booking Resource ID {resource_id} is present on this page. A hidden copy still conflicts with the visible form and can prevent booking submission. The site administrator must keep only one calendar or form for this Booking Resource. After the page is corrected, reload it and try again." ); _wpbc.set_message( "message_booking_form_context_required", "This booking form is not connected to a valid calendar for Booking Resource ID {resource_id}. This can happen when the same Booking Resource is used more than once on the page, including in hidden content, or when the page cache is outdated. Reload the page and try again. If the problem continues, ask the site administrator to remove duplicate forms for this Booking Resource and clear the page cache." ); _wpbc.set_message( "message_booking_form_context_expired", "This booking form was generated by an older or cached version of the page for Booking Resource ID {resource_id}. Reload the page and try again. If the problem continues, ask the site administrator to clear the page cache and remove any duplicate calendar or form for this Booking Resource." ); _wpbc.set_message( "message_unexpected_server_response", "The server returned an unexpected response. Please reload the page and try again. If the problem continues, contact the website administrator." ); _wpbc.set_message( "message_http_conflict_cache_hint", "A cached or optimized version of this page may be outdated. Clear the browser cache and reload the page. Website administrators should also purge page, server, and CDN caches and regenerate minified or optimized files." ); _wpbc.set_message( "message_resource_selector_summary_label", "Booking Resource" ); _wpbc.set_message( "message_resource_selector_start_over", "Start over" ); _wpbc.set_message( "message_appointment_summary_label", "Your appointment" ); _wpbc.set_message( "message_appointment_start_over", "Start over" ); _wpbc.set_message( "message_captcha_incorrect", "The code you entered is incorrect" ); _wpbc.set_message( 'message_processing', "Processing" ); _wpbc.set_message( 'message_deleting', "Deleting" ); _wpbc.set_message( 'message_updating', "Updating" ); _wpbc.set_message( 'message_saving', "Saving" ); _wpbc.set_message( 'message_inline_preview_submission_disabled', "This is a request-local preview. Booking submission is disabled, and no booking will be created." ); _wpbc.set_message( 'message_error_check_in_out_time', "Error! Please reset your check-in\/check-out dates above." ); console.log( '== WPBC VARS 11.9 [free] LOADED ==' );}
+(function(){
+  if (window.__wpbc_boot_done__ === true) return;
+  var started = false;
+  function run_once(){
+    if (started || window.__wpbc_boot_done__ === true) return true;
+    started = true;
+    try { wpbc_init__head(); window.__wpbc_boot_done__ = true; }
+    catch(e){ started = false; try{console.error("WPBC init failed:", e);}catch(_){} }
+    return (window.__wpbc_boot_done__ === true);
+  }
+  function is_ready(){ return !!(window._wpbc && typeof window._wpbc.set_other_param === "function"); }
+  if ( is_ready() && run_once() ) return;
+  var waited = 0, max_ms = 10000, step = 50;
+  var timer = setInterval(function(){
+    if ( is_ready() && run_once() ) { clearInterval(timer); return; }
+    waited += step;
+    if ( waited >= max_ms ) {
+      clearInterval(timer);
+      // Switch to slow polling (1s) so we still init even without user interaction later.
+      var slow = setInterval(function(){ if ( is_ready() && run_once() ) clearInterval(slow); }, 1000);
+      try{console.warn("WPBC: _wpbc not detected within " + max_ms + "ms; using slow polling.");}catch(_){}
+    }
+  }, step);
+  var evs = ["wpbc-ready","wpbc:ready","wpbc_ready","wpbcReady"];
+  evs.forEach(function(name){
+    document.addEventListener(name, function onready(){ if (is_ready() && run_once()) document.removeEventListener(name, onready); });
+  });
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", function(){ if (is_ready()) run_once(); }, { once:true });
+  }
+  window.addEventListener("load", function(){ if (is_ready()) run_once(); }, { once:true });
+  window.addEventListener("pageshow", function(){ if (is_ready()) run_once(); }, { once:true });
+  document.addEventListener("visibilitychange", function(){ if (!document.hidden && is_ready()) run_once(); });
+  var ui = ["click","mousemove","touchstart","keydown","scroll"];
+  var ui_bailed = false;
+  function on_ui(){ if (ui_bailed) return; if (is_ready() && run_once()){ ui_bailed = true; ui.forEach(function(t){ document.removeEventListener(t, on_ui, true); }); } }
+  ui.forEach(function(t){ document.addEventListener(t, on_ui, true); });
+})();
+})();
+//# sourceURL=wpbc_all-js-after
+</script>
+<script data-cfasync="false" id="wpbc-popper-js" src="https://rifugiocittadifiume.it/wp-content/plugins/booking/vendors/_custom/popper/popper.js?ver=11.9"></script>
+<script data-cfasync="false" id="wpbc-tipcy-js" src="https://rifugiocittadifiume.it/wp-content/plugins/booking/vendors/_custom/tippy.js/dist/tippy-bundle.umd.js?ver=11.9"></script>
+<script data-cfasync="false" id="wpbc-datepick-js" src="https://rifugiocittadifiume.it/wp-content/plugins/booking/js/datepick/jquery.datepick.wpbc.9.0.js?ver=11.9"></script>
+<script data-cfasync="false" id="wpbc-main-client-js" src="https://rifugiocittadifiume.it/wp-content/plugins/booking/js/client.js?ver=11.9"></script>
+<script data-cfasync="false" id="wpbc_capacity-js" src="https://rifugiocittadifiume.it/wp-content/plugins/booking/includes/_capacity/_out/create_booking.js?ver=11.9"></script>
+<script data-cfasync="false" id="wpbc-times-js" src="https://rifugiocittadifiume.it/wp-content/plugins/booking/js/wpbc_times.js?ver=11.9"></script>
+<script data-cfasync="false" id="wpbc-time-selector-js" src="https://rifugiocittadifiume.it/wp-content/plugins/booking/js/wpbc_time-selector.js?ver=11.9"></script>
+<script data-cfasync="false" id="wpbc-imask-js" src="https://rifugiocittadifiume.it/wp-content/plugins/booking/vendors/imask/dist/imask.js?ver=11.9"></script>
+<script data-cfasync="false" id="wpbc-free-date-hints-js" src="https://rifugiocittadifiume.it/wp-content/plugins/booking/js/wpbc-free-date-hints.js?ver=11.9"></script>
+<script data-cfasync="false" id="wpbc-timeline-flex-js" src="https://rifugiocittadifiume.it/wp-content/plugins/booking/core/timeline/v2/_out/timeline_v2.js?ver=11.9"></script>
+<script id="wpbc-booking-appointment-js-extra">
+var wpbc_booking_appointment_config = {"ajax_url":"https://rifugiocittadifiume.it/wp-admin/admin-ajax.php","action":"WPBC_AJX_BOOKING_APPOINTMENT_RESOLVE","validate_action":"WPBC_AJX_BOOKING_APPOINTMENT_VALIDATE_TIME","nonce":"4d8589c48c","error":"The Appointment form could not be loaded. Please try again.","validation_error":"This Appointment time could not be verified. Please try again.","initialization_error":"The Appointment form could not be initialized. Please start over and try again.","duplicate_provider":"This Provider already has an open Appointment form on this page. Complete or restart that Appointment before opening another form for the same Provider.","service_found":"Service found.","services_found":"Services found.","provider_found":"Provider found.","providers_found":"Providers found."};
+//# sourceURL=wpbc-booking-appointment-js-extra
+</script>
+<script data-cfasync="false" id="wpbc-booking-appointment-js" src="https://rifugiocittadifiume.it/wp-content/plugins/booking/includes/booking-appointment/_out/booking-appointment.js?ver=11.9"></script>
+<script id="wpbc-booking-resource-selector-js-extra">
+var wpbc_booking_resource_selector_config = {"ajax_url":"https://rifugiocittadifiume.it/wp-admin/admin-ajax.php","action":"WPBC_AJX_BOOKING_RESOURCE_SELECTOR_RESOLVE","nonce":"d4d0089747","error":"The booking form could not be loaded. Please try again.","initialization_error":"The booking form could not be initialized. Please start over and try again.","duplicate_resource":"This Booking Resource already has an open booking form on this page. Complete or restart that booking before opening another form for the same resource.","resource_found":"Booking Resource found.","resources_found":"Booking Resources found."};
+//# sourceURL=wpbc-booking-resource-selector-js-extra
+</script>
+<script data-cfasync="false" id="wpbc-booking-resource-selector-js" src="https://rifugiocittadifiume.it/wp-content/plugins/booking/includes/booking-resource-selector/_out/booking-resource-selector.js?ver=11.9"></script>
+<script data-cfasync="false" id="jquery-ui-core-js-before">
+jQuery.uiBackCompat = true;
+//# sourceURL=jquery-ui-core-js-before
+</script>
+<script id="jquery-ui-core-js" src="https://rifugiocittadifiume.it/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2"></script>
+<script data-cfasync="false" id="jquery-ui-datepicker-js" src="https://rifugiocittadifiume.it/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.14.2"></script>
+<script id="jquery-ui-mouse-js" src="https://rifugiocittadifiume.it/wp-includes/js/jquery/ui/mouse.min.js?ver=1.14.2"></script>
+<script id="jquery-ui-resizable-js" src="https://rifugiocittadifiume.it/wp-includes/js/jquery/ui/resizable.min.js?ver=1.14.2"></script>
+<script id="jquery-ui-draggable-js" src="https://rifugiocittadifiume.it/wp-includes/js/jquery/ui/draggable.min.js?ver=1.14.2"></script>
+<script id="jquery-ui-controlgroup-js" src="https://rifugiocittadifiume.it/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.14.2"></script>
+<script id="jquery-ui-checkboxradio-js" src="https://rifugiocittadifiume.it/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.14.2"></script>
+<script id="jquery-ui-button-js" src="https://rifugiocittadifiume.it/wp-includes/js/jquery/ui/button.min.js?ver=1.14.2"></script>
+<script id="jquery-ui-dialog-js" src="https://rifugiocittadifiume.it/wp-includes/js/jquery/ui/dialog.min.js?ver=1.14.2"></script>
+<script id="jquery-ui-tooltip-js" src="https://rifugiocittadifiume.it/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.14.2"></script>
+<script id="resources-datesrangepicker-js" src="https://rifugiocittadifiume.it/wp-content/plugins/vikbooking/site/resources/datesrangepicker.js"></script>
+<script id="vbo-sys-script-js" src="https://rifugiocittadifiume.it/wp-content/plugins/vikbooking/admin/resources/js/system.js?ver=1.8.16"></script>
+<script id="fusion-scripts-js" src="https://rifugiocittadifiume.it/wp-content/uploads/fusion-scripts/11eda027d1414a8d938b317d37faccec.min.js?ver=3.11.6"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://rifugiocittadifiume.it/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://rifugiocittadifiume.it/wp-includes/js/wp-emoji-loader.min.js
+</script>
+<style type="text/css">
+:root {
+--vbo-pref-textcolor: #2282bd;
+--vbo-pref-bgcolor: #2282bd;
+--vbo-pref-fontcolor: #fff;
+--vbo-pref-bgcolorhov: #1890ce;
+--vbo-pref-fontcolorhov: #fff;
+}
+</style>
+<script type="text/javascript">
+
+jQuery(function($) {
+
+	$.datepicker.regional["vikbooking"] = {"closeText":"Done","prevText":"Prev","nextText":"Next","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"weekHeader":"Wk","dateFormat":"dd\/mm\/yy","firstDay":1,"isRTL":false,"showMonthAfterYear":false,"yearSuffix":""};
+	$.datepicker.setDefaults($.datepicker.regional["vikbooking"]);
+
+});
+</script>
+<script type="text/javascript">
+
+jQuery.noConflict();
+function vbGetDateObject(dstring) {
+	var dparts = dstring.split("-");
+	return new Date(dparts[0], (parseInt(dparts[1]) - 1), parseInt(dparts[2]), 0, 0, 0, 0);
+}
+function vbFullObject(obj) {
+	var jk;
+	for(jk in obj) {
+		return obj.hasOwnProperty(jk);
+	}
+}
+var vbrestrctarange, vbrestrctdrange, vbrestrcta, vbrestrctd;
+</script>
+<script type="text/javascript">
+
+var vbclosingdates = [];
+function vbCheckClosingDatesIn(date) {
+	if(!vbIsDayOpen(date) || !vboValidateCta(date)) {
+		return [false];
+	}
+	return [true];
+}
+function vbCheckClosingDatesOut(date) {
+	if(!vbIsDayOpen(date) || !vboValidateCtd(date)) {
+		return [false];
+	}
+	return [true];
+}
+function vbIsDayOpen(date) {
+	if(vbFullObject(vbclosingdates)) {
+		for (var cd in vbclosingdates) {
+			if(vbclosingdates.hasOwnProperty(cd)) {
+				var cdfrom = vbGetDateObject(vbclosingdates[cd][0]);
+				var cdto = vbGetDateObject(vbclosingdates[cd][1]);
+				if(date >= cdfrom && date <= cdto) {
+					return false;
+				}
+			}
+		}
+	}
+	return true;
+}
+function vboValidateCta(date) {
+	var m = date.getMonth(), wd = date.getDay();
+	if(vbFullObject(vbrestrctarange)) {
+		for (var rk in vbrestrctarange) {
+			if(vbrestrctarange.hasOwnProperty(rk)) {
+				var wdrangeinit = vbGetDateObject(vbrestrctarange[rk][0]);
+				if(date >= wdrangeinit) {
+					var wdrangeend = vbGetDateObject(vbrestrctarange[rk][1]);
+					if(date <= wdrangeend) {
+						if(jQuery.inArray('-'+wd+'-', vbrestrctarange[rk][2]) >= 0) {
+							return false;
+						}
+					}
+				}
+			}
+		}
+	}
+	if(vbFullObject(vbrestrcta)) {
+		if(vbrestrcta.hasOwnProperty(m) && jQuery.inArray('-'+wd+'-', vbrestrcta[m]) >= 0) {
+			return false;
+		}
+	}
+	return true;
+}
+function vboValidateCtd(date) {
+	var m = date.getMonth(), wd = date.getDay();
+	if(vbFullObject(vbrestrctdrange)) {
+		for (var rk in vbrestrctdrange) {
+			if(vbrestrctdrange.hasOwnProperty(rk)) {
+				var wdrangeinit = vbGetDateObject(vbrestrctdrange[rk][0]);
+				if(date >= wdrangeinit) {
+					var wdrangeend = vbGetDateObject(vbrestrctdrange[rk][1]);
+					if(date <= wdrangeend) {
+						if(jQuery.inArray('-'+wd+'-', vbrestrctdrange[rk][2]) >= 0) {
+							return false;
+						}
+					}
+				}
+			}
+		}
+	}
+	if(vbFullObject(vbrestrctd)) {
+		if(vbrestrctd.hasOwnProperty(m) && jQuery.inArray('-'+wd+'-', vbrestrctd[m]) >= 0) {
+			return false;
+		}
+	}
+	return true;
+}
+function vbSetGlobalMinCheckoutDate() {
+	var minlos = 1;
+	var nowcheckin = jQuery('#checkindate').vboDatesRangePicker('getCheckinDate');
+	var nowcheckindate = new Date(nowcheckin.getTime());
+	nowcheckindate.setDate(nowcheckindate.getDate() + minlos);
+	jQuery('#checkindate').vboDatesRangePicker('checkout', 'minDate', nowcheckindate);
+	jQuery('#checkindate').vboDatesRangePicker('checkout', 'minStayNights', minlos);
+	jQuery('#checkindate').vboDatesRangePicker('checkout', 'setCheckoutDate', nowcheckindate);
+}
+
+jQuery(function() {
+	// reset regional
+	jQuery.datepicker.setDefaults(jQuery.datepicker.regional['']);
+
+	// start DRP
+	jQuery('#checkindate').vboDatesRangePicker({
+		checkout: '#checkoutdate',
+		dateFormat: 'dd/mm/yy',
+		showOn: 'focus',
+		numberOfMonths: 2,
+		minDate: '2d',
+		maxDate: '+2d',
+		beforeShowDay: {
+			checkin: vbCheckClosingDatesIn,
+			checkout: vbCheckClosingDatesOut,
+		},
+		onSelect: {
+			checkin: (selectedDate) => {
+				vbSetGlobalMinCheckoutDate();
+				vbCalcNights();
+			},
+			checkout: (selectedDate) => {
+				vbCalcNights();
+			},
+		},
+		labels: {
+			checkin: Joomla.JText._('VBPICKUPROOM'),
+			checkout: Joomla.JText._('VBRETURNROOM'),
+			minStayNights: (nights) => {
+				return (Joomla.JText._('VBO_MIN_STAY_NIGHTS') + '').replace('%d', nights);
+			},
+		},
+		bottomCommands: {
+			clear: Joomla.JText._('VBO_CLEAR_DATES'),
+			close: Joomla.JText._('VBO_CLOSE'),
+			onClear: () => {
+				vbCalcNights();
+			},
+		},
+	});
+
+	// set proper regional
+	jQuery('#checkindate').datepicker('option', jQuery.datepicker.regional['vikbooking']);
+
+	// register additional triggers
+	jQuery('.vb-cal-img, .vbo-caltrigger').click(function() {
+		let dp = jQuery(this).prev('input');
+		if (!dp.length) {
+			return;
+		}
+		if (dp.hasClass('hasDatepicker')) {
+			dp.focus();
+		} else if (dp.attr('id') == 'checkoutdate') {
+			jQuery('#checkindate').focus();
+		}
+	});
+});
+</script>
+<script type="text/javascript">
+(function($) {
+	$.ajaxSetup({
+		headers: {
+			'X-CSRF-Token': 'd652b292f6'
+		}
+	});
+})(jQuery);
+</script>
+<script type="application/json" class="joomla-options new">
+{"joomla.jtext":{"JGLOBAL_SELECT_AN_OPTION":"- Select an option -","VBPICKUPROOM":"Check-in date","VBRETURNROOM":"Check-out date","VBO_MIN_STAY_NIGHTS":"Minimum stay: %d nights","VBO_CLEAR_DATES":"Clear dates","VBO_CLOSE":"Close","CONNECTION_LOST":"Connection lost or the server is busy. Please try again later."}}
+</script>
+				<script type="text/javascript">
+				jQuery( document ).ready( function() {
+					var ajaxurl = 'https://rifugiocittadifiume.it/wp-admin/admin-ajax.php';
+					if ( 0 < jQuery( '.fusion-login-nonce' ).length ) {
+						jQuery.get( ajaxurl, { 'action': 'fusion_login_nonce' }, function( response ) {
+							jQuery( '.fusion-login-nonce' ).html( response );
+						});
+					}
+				});
+				</script>
+				<script>
+ document.addEventListener('DOMContentLoaded', () => {
+
+
+    const replacer = (tagName) => {
+        Array.from(document.getElementsByTagName(tagName)).forEach(label => {
+            if (label.innerText.includes('Camera')) {
+                label.innerText = label.innerText.replace('Camera', 'Posto letto')
+            }
+            if (label.innerText.includes('Camere')) {
+                label.innerText = label.innerText.replace('Camere', 'Posti letto')
+            }
+            if (label.innerText.includes('camera')) {
+                label.innerText = label.innerText.replace('camera', 'posto letto')
+            }
+            if (label.innerText.includes('camere')) {
+                label.innerText = label.innerText.replace('camere', 'posti letto')
+            }
+            if (label.innerText.includes('Room')) {
+                label.innerText = label.innerText.replace('Room', 'Bed Place')
+            }
+            if (label.innerText.includes('Rooms')) {
+                label.innerText = label.innerText.replace('Rooms', 'Bed places')
+            }
+            if (label.innerText.includes('room')) {
+                label.innerText = label.innerText.replace('room', 'bed place')
+            }
+            if (label.innerText.includes('rooms')) {
+                label.innerText = label.innerText.replace('rooms', 'bed places')
+            }            
+            
+        });
+
+    };
+    
+    replacer('label');
+    replacer('span');
+})
+
+
+
+</script>
+
+<!-- RCF VikBooking controlli: INIZIO -->
+<script>
+(function () {
+  'use strict';
+
+  function isEnglish() {
+    var htmlLang = (document.documentElement.lang || '').toLowerCase();
+    if (htmlLang.indexOf('en') === 0) return true;
+    return /\b(lang=en|\/en(\/|$|_|-))/i.test(window.location.href);
+  }
+
+  /*
+   * Mappa campi:
+   *  vbf16 = Sei un'agenzia? (Sì/No)      vbf11 = Ragione sociale
+   *  vbf18 = Guest Names List             vbf2  = Nome      vbf3 = Cognome
+   *  vbf15 = Soci CAI / Alpine Club       vbf17 = Informazioni soci CAI
+   */
+  var AGENCY = 16;
+
+  var AGENCY_ONLY = [11, 18];
+
+  var PRIVATE_ONLY = [2, 3, 15, 17];
+
+  var RULES = [
+    {
+      when: [{ id: AGENCY, is: 'yes' }],
+      required: [11],
+      msg: {
+        it: "Hai indicato di essere un'agenzia: inserisci la Ragione sociale.",
+        en: "You indicated that you are an agency: please enter the Company Name."
+      }
+    },
+    {
+      when: [{ id: AGENCY, is: 'yes' }],
+      required: [18],
+      msg: {
+        it: "Hai indicato di essere un'agenzia: inserisci la lista dei nominativi del gruppo.",
+        en: "You indicated that you are an agency: please enter the list of names of the group members."
+      }
+    },
+    {
+      when: [{ id: AGENCY, is: 'no' }],
+      required: [2, 3],
+      msg: {
+        it: "Non hai indicato di essere un'agenzia: inserisci nome e cognome del prenotante.",
+        en: "You did not indicate that you are an agency: please enter the first and last name of the person making the booking."
+      }
+    },
+    {
+      when: [{ id: AGENCY, is: 'no' }, { id: 15, is: 'yes' }],
+      required: [17],
+      msg: {
+        it: "Hai indicato la presenza di soci CAI: inserisci nominativo e numero tessera di ciascun socio.",
+        en: "You indicated the presence of CAI members: please enter the name and membership card number of each member."
+      }
+    }
+  ];
+
+  function fields(id) {
+    return document.querySelectorAll('[name="vbf' + id + '"], [name="vbf' + id + '[]"]');
+  }
+
+  function field(id) {
+    return fields(id)[0] || null;
+  }
+
+  function value(id) {
+    var els = fields(id);
+    if (!els.length) return '';
+    var t = (els[0].type || '').toLowerCase();
+    if (t === 'radio' || t === 'checkbox') {
+      for (var i = 0; i < els.length; i++) if (els[i].checked) return String(els[i].value || '').trim();
+      return '';
+    }
+    return String(els[0].value || '').trim();
+  }
+
+  function isYes(id) { return /^(s[iì]|yes)$/i.test(value(id)); }
+  function isNo(id)  { return /^no$/i.test(value(id)); }
+
+  function isActive(r) {
+    return r.when.every(function (c) {
+      return c.is === 'no' ? isNo(c.id) : isYes(c.id);
+    });
+  }
+
+  function isEmpty(el) {
+    return !el || !String(el.value || '').trim();
+  }
+
+  function mark(el, on) {
+    if (!el) return;
+    el.style.borderColor = on ? '#d00000' : '';
+    el.style.boxShadow = on ? '0 0 0 1px #d00000' : '';
+  }
+
+  function rowOf(el) {
+    if (!el) return null;
+    var node = el;
+    while (node.parentElement && node.parentElement.tagName !== 'FORM' &&
+           node.parentElement.querySelectorAll('[name^="vbf"]').length <= 1) {
+      node = node.parentElement;
+    }
+    return node;
+  }
+
+  function clearField(id) {
+    Array.prototype.forEach.call(fields(id), function (el) {
+      var t = (el.type || '').toLowerCase();
+      if (t === 'radio' || t === 'checkbox') {
+        el.checked = false;
+      } else if (el.tagName === 'SELECT') {
+        el.value = '';
+        if (el.value !== '') el.selectedIndex = -1;
+      } else {
+        el.value = '';
+      }
+      mark(el, false);
+    });
+  }
+
+  function setVisible(id, show) {
+    var el = field(id);
+    var row = rowOf(el);
+    if (!row) return;
+    row.style.display = show ? '' : 'none';
+    if (!show) mark(el, false);
+  }
+
+  function applyVisibility(clear) {
+    var yes = isYes(AGENCY), no = isNo(AGENCY);
+
+    PRIVATE_ONLY.forEach(function (id) { setVisible(id, no); });
+    AGENCY_ONLY.forEach(function (id) { setVisible(id, !no); });
+
+    if (clear) {
+      if (yes) PRIVATE_ONLY.forEach(clearField);
+      if (no)  AGENCY_ONLY.forEach(clearField);
+    }
+  }
+
+  function validate() {
+    var errors = [], first = null;
+    var isEn = isEnglish();
+
+    RULES.forEach(function (r) {
+      var active = isActive(r);
+      var missing = false;
+
+      r.required.forEach(function (id) {
+        var el = field(id);
+        var bad = active && isEmpty(el);
+        mark(el, bad);
+        if (bad) {
+          missing = true;
+          if (!first) first = el;
+        }
+      });
+
+      if (missing) {
+        var text = typeof r.msg === 'object' ? (isEn ? r.msg.en : r.msg.it) : r.msg;
+        if (errors.indexOf(text) === -1) errors.push(text);
+      }
+    });
+
+    if (errors.length) {
+      alert(errors.join('\n\n'));
+      if (first && first.focus) first.focus();
+      return false;
+    }
+    return true;
+  }
+
+  function beforeSubmit() {
+    if (!validate()) return false;
+    applyVisibility(true);
+    return true;
+  }
+
+  function init() {
+    var anchor = field(AGENCY) || field(15);
+    if (!anchor || !anchor.form) return;
+    var form = anchor.form;
+    if (form.getAttribute('data-rcf-check')) return;
+    form.setAttribute('data-rcf-check', '1');
+
+    var orig = form.onsubmit;
+    form.onsubmit = function (e) {
+      if (!beforeSubmit()) {
+        if (e && e.preventDefault) e.preventDefault();
+        return false;
+      }
+      return typeof orig === 'function' ? orig.call(this, e) : true;
+    };
+
+    var btns = form.querySelectorAll('[type="submit"], button:not([type]), input[type="image"]');
+    Array.prototype.forEach.call(btns, function (b) {
+      b.addEventListener('click', function (e) {
+        if (!beforeSubmit()) {
+          e.preventDefault();
+          e.stopImmediatePropagation();
+        }
+      }, true);
+    });
+
+    Array.prototype.forEach.call(fields(AGENCY), function (el) {
+      el.addEventListener('change', function () { applyVisibility(true); });
+    });
+
+    var watched = {};
+    RULES.forEach(function (r) {
+      r.required.forEach(function (id) { watched[id] = true; });
+      r.when.forEach(function (c) { watched[c.id] = true; });
+    });
+    Object.keys(watched).forEach(function (id) {
+      Array.prototype.forEach.call(fields(id), function (el) {
+        ['input', 'change'].forEach(function (ev) {
+          el.addEventListener(ev, function () {
+            RULES.forEach(function (r) {
+              r.required.forEach(function (rid) {
+                var x = field(rid);
+                if (!isActive(r) || !isEmpty(x)) mark(x, false);
+              });
+            });
+          });
+        });
+      });
+    });
+
+    applyVisibility(false);
+  }
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+  else init();
+})();
+</script>
+
+
+
+<!-- RCF VikBooking controlli: FINE -->		</div>
+
+			<section class="to-top-container to-top-right" aria-labelledby="awb-to-top-label">
+		<a href="#" id="toTop" class="fusion-top-top-link">
+			<span id="awb-to-top-label" class="screen-reader-text">Go to Top</span>
+		</a>
+	</section>
+		</body>
+</html>

@@ -1,0 +1,50 @@
+[
+ {
+  "name": "bs_widget_js",
+  "status": 200,
+  "bytes": 243051,
+  "url": "https://widget.bookingsuedtirol.com/widget.js"
+ },
+ {
+  "name": "bs_v2_bundle",
+  "status": 200,
+  "bytes": 243051,
+  "url": "https://widget.bookingsuedtirol.com/v2/bundle.js"
+ },
+ {
+  "name": "cai_custom_js",
+  "status": 200,
+  "bytes": 1804,
+  "url": "https://www.prenotarifugi.cai.it/wp-content/themes/Avada-Child-Theme/custom.js"
+ },
+ {
+  "name": "cai_script_js",
+  "status": 200,
+  "bytes": 4410453,
+  "url": "https://www.prenotarifugi.cai.it/wp-content/themes/Avada-Child-Theme/script.js"
+ },
+ {
+  "name": "cai_ajax_search_js",
+  "status": 200,
+  "bytes": 9432,
+  "url": "https://www.prenotarifugi.cai.it/wp-content/themes/Avada-Child-Theme/ajax_search.js"
+ },
+ {
+  "name": "nuvolau_avail",
+  "status": 200,
+  "bytes": 166919,
+  "url": "https://rifugionuvolau.it/en/availability/"
+ },
+ {
+  "name": "fiume_en",
+  "status": 200,
+  "bytes": 111840,
+  "url": "https://rifugiocittadifiume.it/en/book-online/"
+ },
+ {
+  "name": "bs_fanes_page",
+  "status": 403,
+  "bytes": 5950,
+  "url": "https://www.bookingsuedtirol.com/en/sanvigiliomarebbestvigilenneberg/schutzhuette-fanes"
+ }
+]

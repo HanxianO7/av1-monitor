@@ -1,0 +1,48 @@
+function getCookie(name) {
+    var cookies = document.cookie.split(';');
+    for (var i = 0; i < cookies.length; i++) {
+        var cookie = cookies[i].trim();
+        if (cookie.indexOf(name + '=') === 0) {
+            return cookie.substring(name.length + 1);
+        }
+    }
+    return null;
+}
+
+function getReservedAreaHTML(id) {
+    const reservedArea = document.getElementById(id);
+    return reservedArea ? reservedArea.innerHTML : null;
+}
+
+// Example usage:
+jQuery(document).ready(function($) {
+    const reservedAreaHTMLDesktop = getReservedAreaHTML('reserved-area');
+    const reservedAreaHTMLMobile = getReservedAreaHTML('reserved-area-mobile');
+
+    if (reservedAreaHTMLDesktop != null && reservedAreaHTMLMobile != null) {
+        $.ajax({
+            url: '/frontend/web/user-management/auth/get-web-user',
+            type: 'GET',
+            success: function(response) {
+                try {
+                    response = JSON.parse(response)
+                } catch (error) {
+                    response = { logged_in: false }
+                }
+
+                if (response.logged_in === true) {
+                    const firstLetter = response.user_profile.first_name.toUpperCase().charAt(0);
+
+                    const newHTML = reservedAreaHTMLDesktop.replace('<i class="material-icons-outlined">person</i>', `<p class="header-avatar">${firstLetter}</p>`);
+                    document.getElementById('reserved-area').innerHTML = newHTML;
+            
+                    const newHTMLMobile = reservedAreaHTMLMobile.replace('<i class="material-icons-outlined">person</i>', `<p class="header-avatar-mobile">${firstLetter}</p>`);
+                    document.getElementById('reserved-area-mobile').innerHTML = newHTMLMobile;
+                }
+            }
+        });
+    }
+});
+
+
+
