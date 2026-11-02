@@ -36,7 +36,11 @@
     "https://www.sennes.com/en/contact/"
    ],
    "book_url": "https://www.sennes.com/en/contact/",
-   "stated": "Summer bookings open 4 Nov 2026, possibly earlier (per Sennes' reply)"
+   "stated": "Summer bookings open 4 Nov 2026, possibly earlier (per Sennes' reply)",
+   "debug_urls": [
+    "https://www.sennes.com/en/contact/",
+    "https://www.sennes.com/en/"
+   ]
   },
   {
    "id": "biella",
@@ -49,7 +53,11 @@
     "https://www.planyo.com/booking.php?calendar=67368&mode=resource_list&planyo_lang=EN"
    ],
    "book_url": "https://www.planyo.com/booking/Rifugio-Biella",
-   "watch_banner": "APERTURA PRENOTAZIONI"
+   "watch_banner": "APERTURA PRENOTAZIONI",
+   "debug_urls": [
+    "https://www.planyo.com/booking.php?calendar=67368&mode=resource_list&planyo_lang=EN",
+    "https://www.planyo.com/booking/Rifugio-Biella"
+   ]
   },
   {
    "id": "lavarella",
@@ -62,7 +70,10 @@
     "https://lavarella.it/en/book-online"
    ],
    "book_url": "https://lavarella.it/en/book-online",
-   "stated": "Summer bookings open early November 2026 (per Lavarella's reply)"
+   "stated": "Summer bookings open early November 2026 (per Lavarella's reply)",
+   "debug_urls": [
+    "https://lavarella.it/en/book-online"
+   ]
   },
   {
    "id": "fanes",
@@ -74,7 +85,11 @@
     "https://www.rifugiofanes.com/en/booking",
     "https://www.rifugiofanes.com/en/rates-request/request-reservation"
    ],
-   "book_url": "https://www.rifugiofanes.com/en/rates-request/request-reservation"
+   "book_url": "https://www.rifugiofanes.com/en/rates-request/request-reservation",
+   "debug_urls": [
+    "https://www.rifugiofanes.com/en/booking",
+    "https://www.rifugiofanes.com/en/rates-request/request-reservation"
+   ]
   },
   {
    "id": "lagazuoi",
@@ -127,7 +142,11 @@
     "https://rifugionuvolau.it/en/booking/",
     "https://rifugionuvolau.it/en/booking-form/"
    ],
-   "book_url": "https://rifugionuvolau.it/en/booking-form/"
+   "book_url": "https://rifugionuvolau.it/en/booking-form/",
+   "debug_urls": [
+    "https://rifugionuvolau.it/en/booking/",
+    "https://rifugionuvolau.it/en/booking-form/"
+   ]
   },
   {
    "id": "fiume",
@@ -139,7 +158,10 @@
     "https://rifugiocittadifiume.it/prenota/",
     "https://rifugiocittadifiume.it/pernotto/"
    ],
-   "book_url": "https://rifugiocittadifiume.it/prenota/"
+   "book_url": "https://rifugiocittadifiume.it/prenota/",
+   "debug_urls": [
+    "https://rifugiocittadifiume.it/prenota/"
+   ]
   },
   {
    "id": "averau",
@@ -238,7 +260,10 @@
     "https://www.rifugiosommarivaalpramperet.it/rifugio.asp"
    ],
    "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-   "alert_changes": true
+   "alert_changes": true,
+   "debug_urls": [
+    "https://www.prenotarifugi.cai.it/dettaglio/?id=5925"
+   ]
   },
   {
    "id": "piandefontana",
@@ -250,7 +275,10 @@
     "https://www.prenotarifugi.cai.it/dettaglio/?id=5942"
    ],
    "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-   "alert_changes": true
+   "alert_changes": true,
+   "debug_urls": [
+    "https://www.prenotarifugi.cai.it/dettaglio/?id=5942"
+   ]
   }
  ]
 }
