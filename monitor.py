@@ -3,7 +3,7 @@
 Runs on GitHub Actions. Checks each hut for its night under every date plan
 (Plan A, plus Plan B a few days later - see trip.plans in huts.json) and sends a
 Telegram alert ONLY when something actionable changes:
-  - dorm beds for 2 appear on your night (engine huts)
+  - dorm beds for 2 appear on your night (engine huts, CAI Prenota Rifugi huts)
   - rooms appear on your night (Scotoni / Bukly - verify dorm)
   - a hut page starts saying 2027 bookings are open (page-watch huts)
   - a check has been broken for several runs in a row (so it never dies silently)
@@ -34,7 +34,7 @@ GUESTS = CFG["trip"]["guests"]
 ALERTS = CFG["alerts"]
 # Date plans: each hut's "night" is the first plan's night; other plans shift it.
 PLANS = CFG["trip"].get("plans") or [{"id": "A", "label": "Plan A", "shift_days": 0}]
-DATED = {"engine", "bukly"}  # checks that look at a specific night
+DATED = {"engine", "bukly", "cai"}  # checks that look at a specific night
 ROME, KL = ZoneInfo("Europe/Rome"), ZoneInfo("Asia/Kuala_Lumpur")
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -349,6 +349,54 @@ def check_bukly(hut, nights, prevs):
     return {pid: dict(err) for pid in nights}
 
 
+# ---------------------------------------------------------------- CAI Prenota Rifugi
+CAI_API = "https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/byAttributes"
+# disponibilita.stato codes, from the site's own labels (window.disponibilitaLabels)
+CAI_STATES = {0: "not enough places", 1: "not enough places", 2: "available", 3: "available on some dates only",
+              4: "not yet on the booking platform", 5: "full", 6: "closed", 7: "not bookable",
+              8: "these dates not bookable"}
+
+
+def cai_state(hut, night):
+    """The CAI search API's availability code for GUESTS people on one night."""
+    a = d(night)
+    rng = f"{a:%d/%m/%Y} - {a + dt.timedelta(days=1):%d/%m/%Y}"
+    r = requests.get(CAI_API, timeout=TIMEOUT, headers={
+        **HEADERS, "Accept": "application/json", "Referer": hut["book_url"]}, params={
+        "attribute[id]": hut["cai_id"], "attribute[people]": GUESTS,
+        "attribute[date]": rng, "attribute[range]": rng})
+    r.raise_for_status()
+    time.sleep(PAUSE)
+    res = [x for x in r.json()["response"]["results"] if str(x.get("id")) == str(hut["cai_id"])]
+    if not res:
+        raise RuntimeError("hut missing from CAI search results")
+    return (res[0].get("disponibilita") or {}).get("stato")
+
+
+def check_cai(hut, nights, prevs):
+    """nights/prevs are keyed by plan id; returns a result per plan id."""
+    got = {n: cai_state(hut, n) for n in dict.fromkeys(nights.values())}
+    live = None
+    if not any(v in (0, 1, 2, 3, 5) for v in got.values()):
+        for c in ["2027-07-15", "2027-08-10"]:  # is the 2027 season on the platform at all?
+            if cai_state(hut, c) in (0, 1, 2, 3, 5):
+                live = c
+                break
+    out = {}
+    for pid, night in nights.items():
+        st, link = got[night], hut["book_url"]
+        what = CAI_STATES.get(st, f"unknown code {st}")
+        if st in (2, 3):
+            out[pid] = {"status": AVAILABLE, "link": link, "detail": f"CAI platform: {what} for {GUESTS}"}
+        elif st in (0, 1, 5):
+            out[pid] = {"status": LIVE_FULL, "link": link, "detail": f"CAI platform: {what}"}
+        elif live:
+            out[pid] = {"status": LIVE_FULL, "link": link, "detail": f"{what} on your night (control {live} live)"}
+        else:
+            out[pid] = {"status": NOT_LIVE, "link": link, "detail": f"CAI platform: {what}"}
+    return out
+
+
 # ---------------------------------------------------------------- page watch
 KEY_RE = re.compile(r"2027|prenotazion|booking|reservation|buchung|apertur|opening|stagione|season", re.I)
 OPEN_RE = re.compile(
@@ -472,7 +520,7 @@ def check_manual(hut, prev):
             "link": hut.get("book_url", "")}
 
 
-CHECKS = {"engine": check_engine, "bukly": check_bukly, "page": check_page, "manual": check_manual}
+CHECKS = {"engine": check_engine, "bukly": check_bukly, "cai": check_cai, "page": check_page, "manual": check_manual}
 
 
 # ---------------------------------------------------------------- telegram
