@@ -1,63 +1,30 @@
 [
  {
-  "name": "bs_booking_chunk",
+  "name": "cai_by_pram",
   "status": 200,
-  "bytes": 110082,
-  "url": "https://widget.bookingsuedtirol.com/v2/booking.b790e402839c6e9adc72.js"
+  "bytes": 4591,
+  "url": "https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/byAttributes?attribute[id]=5925&attribute[people]=2&attribute[date]=28/06/2027%20-%2029/06/2027&attribute[range]=28/06/2027%20-%2029/06/2027&attribute[page]=1&attribute[rows]=5",
+  "headers": {
+   "Referer": "https://www.prenotarifugi.cai.it/",
+   "Origin": "https://www.prenotarifugi.cai.it",
+   "Accept": "application/json"
+  }
  },
  {
-  "name": "bs_calendar_chunk",
+  "name": "cai_by_tissi",
   "status": 200,
-  "bytes": 2041,
-  "url": "https://widget.bookingsuedtirol.com/v2/calendar.ba90aa558483f5bdff51.js"
- },
- {
-  "name": "bs_widgets_fanes",
-  "status": 403,
-  "bytes": 134,
-  "url": "https://api.widgets.bookingsuedtirol.com/v6/widgets?id=8501930f-1806-4a11-bdfe-03a3942aa693",
+  "bytes": 4451,
+  "url": "https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/byAttributes?attribute[id]=5813&attribute[people]=2&attribute[date]=26/06/2027%20-%2027/06/2027&attribute[range]=26/06/2027%20-%2027/06/2027",
   "headers": {
-   "Origin": "https://www.rifugiofanes.com",
-   "Referer": "https://www.rifugiofanes.com/"
+   "Referer": "https://www.prenotarifugi.cai.it/",
+   "Origin": "https://www.prenotarifugi.cai.it",
+   "Accept": "application/json"
   }
  },
  {
-  "name": "bs_rooms_fanes",
-  "status": 403,
-  "bytes": 134,
-  "url": "https://api.widgets.bookingsuedtirol.com/v6/properties/13308/rooms",
-  "headers": {
-   "Origin": "https://www.rifugiofanes.com"
-  }
- },
- {
-  "name": "bs_rooms_lavarella",
-  "status": 403,
-  "bytes": 134,
-  "url": "https://api.widgets.bookingsuedtirol.com/v6/properties/13004/rooms",
-  "headers": {
-   "Origin": "https://lavarella.it"
-  }
- },
- {
-  "name": "bs_widgets_lavarella",
-  "status": 403,
-  "bytes": 134,
-  "url": "https://api.widgets.bookingsuedtirol.com/v6/widgets?propertyId=13004&type=booking&source=website",
-  "headers": {
-   "Origin": "https://lavarella.it"
-  }
- },
- {
-  "name": "cai_shelter_5925",
+  "name": "cai_by_plain",
   "status": 403,
   "bytes": 555,
-  "url": "https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/webContent/webContentsAndSuppliersByAttributes?id=5925"
- },
- {
-  "name": "cai_cerca",
-  "status": 200,
-  "bytes": 158454,
-  "url": "https://www.prenotarifugi.cai.it/cerca-e-prenota/?date=22-06-2027&people=2"
+  "url": "https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/byAttributes?id=5925&people=2"
  }
 ]
