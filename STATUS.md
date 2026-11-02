@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **02 Nov 2026 07:05 Kuala Lumpur** · 00:05 Italy
+Last check: **02 Nov 2026 08:05 Kuala Lumpur** · 01:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -17,11 +17,11 @@ Trip: 2 guests · dorm only · half board
 | [Dibona](https://www.rifugiodibona.app/en) | backup | 23 Jun | **BOOKED** | 23 Jun booked at Scotoni (Plan A) - backup checks and alerts stopped |
 | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | 24 Jun | **WATCHING PAGE** | no booking-text change |
 | [Città di Fiume](https://rifugiocittadifiume.it/prenota/) | backup | 24 Jun | **WATCHING PAGE** | no booking-text change |
-| [Averau](https://www.rifugioaverau.it/en/) | backup | [24 Jun](https://rifugioaverau.bukly.com/it/hotel/2027-06-24/2027-06-25/) | **LIVE - your night full** | calendar live (control 2027-07-15) |
+| [Averau](https://www.rifugioaverau.it/en/) | backup | [24 Jun](https://rifugioaverau.bukly.com/it/hotel/2027-06-24/2027-06-25/) | **LIVE - your night full** | calendar live (control 2027-09-14) |
 | [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | 25 Jun | **BOOKED** | Booked for Plan A (Fri 25 Jun 2027) - checks and alerts stopped |
 | [Vazzoler](https://rifugiovazzoler.com/Booking/index.php) | preferred | 26 Jun | **BOOKED** | Booked for Plan A (Sat 26 Jun 2027) - checks and alerts stopped |
 | [Tissi](https://www.prenotarifugi.cai.it/dettaglio/?id=5813) | backup | 26 Jun | **BOOKED** | 26 Jun booked at Vazzoler (Plan A) - backup checks and alerts stopped |
-| [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | 27 Jun | **NOT LIVE YET** | no space on your night or control 2027-09-08 |
+| [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | 27 Jun | **NOT LIVE YET** | no space on your night or control 2027-06-09 |
 | [Passo Duran](https://rifugiopassoduran.it/booking/index_en.php) | backup | 27 Jun | **CHECK MANUALLY** | Site shows a CAPTCHA to automated checks - check the calendar by hand |
 | [Pramperet](https://www.prenotarifugi.cai.it/dettaglio/?id=5925) | preferred | 28 Jun | **WATCHING PAGE** | no booking-text change |
 | [Pian de Fontana](https://www.prenotarifugi.cai.it/dettaglio/?id=5942) | backup | 28 Jun | **WATCHING PAGE** | no booking-text change |
