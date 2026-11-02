@@ -1,0 +1,38 @@
+name: Probe booking engines
+
+on:
+  workflow_dispatch:
+    inputs:
+      requests:
+        description: 'JSON list of URLs or {"url","method","json","data","headers","name"} objects'
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: av1-monitor
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Probe
+        env:
+          REQS: ${{ inputs.requests }}
+        run: python tools/probe.py "$REQS"
+      - name: Save results
+        run: |
+          git config user.name "av1-monitor"
+          git config user.email "av1-monitor@users.noreply.github.com"
+          git add probe
+          git diff --cached --quiet || git commit -m "probe run $(date -u +%FT%H:%MZ)"
+          git push
