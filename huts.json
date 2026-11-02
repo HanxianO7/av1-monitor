@@ -232,25 +232,25 @@
    "name": "Pramperet",
    "night": "2027-06-28",
    "role": "preferred",
-   "check": "cai",
+   "check": "page",
    "pages": [
     "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
     "https://www.rifugiosommarivaalpramperet.it/rifugio.asp"
    ],
    "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-   "cai_id": 5925
+   "alert_changes": true
   },
   {
    "id": "piandefontana",
    "name": "Pian de Fontana",
    "night": "2027-06-28",
    "role": "backup",
-   "check": "cai",
+   "check": "page",
    "pages": [
     "https://www.prenotarifugi.cai.it/dettaglio/?id=5942"
    ],
    "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-   "cai_id": 5942
+   "alert_changes": true
   }
  ]
 }
