@@ -14,7 +14,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.sennes.com/en/",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -41,7 +41,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiobiella.it/",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -62,7 +62,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://lavarella.it/",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-10-22T10:05:15.711882+00:00",
   "errors": 0,
   "alerted": "2026-10-22T10:05:15.711882+00:00"
@@ -70,30 +70,28 @@
  "muntagnoles": {
   "link": "https://muntagnoles.com/index.php/it/info-prenotazioni",
   "sentences": [
-   "In caso di cancellazione, la caparra versata sarà trattenuta e non verrà restituita._ ![Image 13](https://muntagnoles.com/images/Signs/reservation-icon.png) * * * **Pagamenti** _Accettiamo pagamenti in contanti o bonifico bancario anticipato_ _![Image 14](blob:http://localhost/5bac77cfb8f281e0307d78",
-   "Title: Fanes - Ücia dles Muntagnoles - Info - Prenotazioni URL Source: https://muntagnoles.com/index.php/it/info-prenotazioni Markdown Content: * [![Image 1: Italiano (Italia)](https://muntagnoles.com/media/mod_languages/images/it_it.gif)](https://muntagnoles.com/index.php/it/info-prenotazioni) * [!",
-   "ante o tramite email_ _![Image 12](blob:http://localhost/0b49bc4560557a1ed85a96122ef44427)_ * * * **Prenotazioni** _Alla conferma facciamo richiesta di una caparra di 60 € a persona al giorno."
-  ],
-  "fingerprint": "fedf7e2ac787",
-  "via": [
-   "reader-proxy"
-  ],
-  "added": [
-   "In caso di cancellazione, la caparra versata sarà trattenuta e non verrà restituita._ ![Image 13](https://muntagnoles.com/images/Signs/reservation-icon.png) * * * **Pagamenti** _Accettiamo pagamenti in contanti o bonifico bancario anticipato_ _![Image 14](blob:http://localhost/5bac77cfb8f281e0307d78",
-   "Title: Fanes - Ücia dles Muntagnoles - Info - Prenotazioni URL Source: https://muntagnoles.com/index.php/it/info-prenotazioni Markdown Content: * [![Image 1: Italiano (Italia)](https://muntagnoles.com/media/mod_languages/images/it_it.gif)](https://muntagnoles.com/index.php/it/info-prenotazioni) * [!",
-   "ante o tramite email_ _![Image 12](blob:http://localhost/0b49bc4560557a1ed85a96122ef44427)_ * * * **Prenotazioni** _Alla conferma facciamo richiesta di una caparra di 60 € a persona al giorno."
-  ],
-  "removed": [
    "+39 347 5214753 Prezzi Chiediamo cortesemente di farci una richiesta, tramite il modulo sottostante o tramite email Prenotazioni Alla conferma facciamo richiesta di una caparra di 60 € a persona al giorno."
   ],
+  "fingerprint": "e69af3c35afc",
+  "via": [
+   "direct"
+  ],
+  "added": [
+   "+39 347 5214753 Prezzi Chiediamo cortesemente di farci una richiesta, tramite il modulo sottostante o tramite email Prenotazioni Alla conferma facciamo richiesta di una caparra di 60 € a persona al giorno."
+  ],
+  "removed": [
+   "In caso di cancellazione, la caparra versata sarà trattenuta e non verrà restituita._ ![Image 13](https://muntagnoles.com/images/Signs/reservation-icon.png) * * * **Pagamenti** _Accettiamo pagamenti in contanti o bonifico bancario anticipato_ _![Image 14](blob:http://localhost/5bac77cfb8f281e0307d78",
+   "Title: Fanes - Ücia dles Muntagnoles - Info - Prenotazioni URL Source: https://muntagnoles.com/index.php/it/info-prenotazioni Markdown Content: * [![Image 1: Italiano (Italia)](https://muntagnoles.com/media/mod_languages/images/it_it.gif)](https://muntagnoles.com/index.php/it/info-prenotazioni) * [!",
+   "ante o tramite email_ _![Image 12](blob:http://localhost/0b49bc4560557a1ed85a96122ef44427)_ * * * **Prenotazioni** _Alla conferma facciamo richiesta di una caparra di 60 € a persona al giorno."
+  ],
   "status": "WATCHING PAGE",
-  "detail": "page text changed: In caso di cancellazione, la caparra versata sarà trattenuta e non verrà restituita._ ![Image 13](https://muntagnoles.com/images/Signs/reservation-icon.png) * * * **Pagamenti** _Acc",
+  "detail": "page text changed: +39 347 5214753 Prezzi Chiediamo cortesemente di farci una richiesta, tramite il modulo sottostante o tramite email Prenotazioni Alla conferma facciamo richiesta di una caparra di 6",
   "changed": true,
   "probe_url": "https://muntagnoles.com/",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-11-02T06:05:16.354782+00:00",
   "errors": 0,
-  "alerted": "2026-11-02T20:05:17.857283+00:00"
+  "alerted": "2026-11-02T21:05:16.383375+00:00"
  },
  "lagazuoi": {
   "endpoint": "https://rifugiolagazuoi.com/EN/prenotazione1.php",
@@ -101,7 +99,7 @@
   "status": "LIVE - your night full",
   "detail": "portal live, your night full",
   "probe_url": "https://rifugiolagazuoi.com/EN/prenotazione1.php",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-10-31T23:05:20.451808+00:00",
   "errors": 0,
   "alerted": null
@@ -111,7 +109,7 @@
   "detail": "Booked for Plan A (Wed 23 Jun 2027) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://scotoni.bukly.com/it",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-10-20T07:05:14.284938+00:00",
   "errors": 0,
   "alerted": null
@@ -121,7 +119,7 @@
   "detail": "23 Jun booked at Scotoni (Plan A) - backup checks and alerts stopped",
   "probe_url": "",
   "link": "https://www.rifugiodibona.app/en",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-11-01T15:05:15.066947+00:00",
   "errors": 0,
   "alerted": null
@@ -150,7 +148,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugionuvolau.it/",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-09-30T01:12:38.354077+00:00",
   "errors": 0,
   "alerted": null
@@ -186,7 +184,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiocittadifiume.it/prenota/",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -198,7 +196,7 @@
   "status": "LIVE - your night full",
   "detail": "calendar live (control 2027-09-14)",
   "probe_url": "https://rifugioaverau.bukly.com/it/hotel/2027-06-24/2027-06-25/",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-10-01T02:09:41.414915+00:00",
   "errors": 0,
   "alerted": null
@@ -208,7 +206,7 @@
   "detail": "Booked for Plan A (Fri 25 Jun 2027) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://rifugiocoldai.com/Booking/index_en.php",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-11-01T13:39:31.115768+00:00",
   "errors": 0,
   "alerted": null
@@ -218,7 +216,7 @@
   "detail": "Booked for Plan A (Sat 26 Jun 2027) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://rifugiovazzoler.com/Booking/index.php",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-11-01T13:39:31.115768+00:00",
   "errors": 0,
   "alerted": "2026-11-01T13:39:31.115768+00:00"
@@ -228,7 +226,7 @@
   "detail": "26 Jun booked at Vazzoler (Plan A) - backup checks and alerts stopped",
   "probe_url": "",
   "link": "https://www.prenotarifugi.cai.it/dettaglio/?id=5813",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-11-01T13:39:31.115768+00:00",
   "errors": 0,
   "alerted": null
@@ -237,9 +235,9 @@
   "endpoint": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
   "link": "https://www.rifugiocarestiato.com/Booking/index_en.php",
   "status": "NOT LIVE YET",
-  "detail": "no space on your night or control 2027-06-09",
+  "detail": "no space on your night or control 2027-07-14",
   "probe_url": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -249,7 +247,7 @@
   "detail": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
   "link": "https://rifugiopassoduran.it/booking/index_en.php",
   "probe_url": "https://rifugiopassoduran.it/booking/index_en.php",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-10-01T04:05:20.722969+00:00",
   "errors": 0,
   "alerted": null
@@ -274,7 +272,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-11-02T03:05:17.536953+00:00",
   "errors": 0,
   "alerted": null
@@ -297,7 +295,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-  "checked": "2026-11-02T20:05:17.857283+00:00",
+  "checked": "2026-11-02T21:05:16.383375+00:00",
   "since": "2026-11-02T03:05:17.536953+00:00",
   "errors": 0,
   "alerted": null
