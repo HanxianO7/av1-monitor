@@ -65,16 +65,18 @@
    "stated": "Summer bookings open early November 2026 (per Lavarella's reply)"
   },
   {
-   "id": "fanes",
-   "name": "Fanes",
+   "id": "muntagnoles",
+   "name": "Ücia dles Muntagnoles",
    "night": "2027-06-22",
    "role": "backup",
    "check": "page",
    "pages": [
-    "https://www.rifugiofanes.com/en/booking",
-    "https://www.rifugiofanes.com/en/rates-request/request-reservation"
+    "https://muntagnoles.com/",
+    "https://muntagnoles.com/index.php/it/info-prenotazioni"
    ],
-   "book_url": "https://www.rifugiofanes.com/en/rates-request/request-reservation"
+   "book_url": "https://muntagnoles.com/index.php/it/info-prenotazioni",
+   "stated": "Bookings by request only (form or info@muntagnoles.com), no online calendar; open June to end of September (per hut's website)",
+   "alert_changes": true
   },
   {
    "id": "lagazuoi",
