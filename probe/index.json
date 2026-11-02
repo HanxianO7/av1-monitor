@@ -1,30 +1,29 @@
 [
  {
-  "name": "cai_by_pram",
-  "status": 200,
-  "bytes": 4591,
-  "url": "https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/byAttributes?attribute[id]=5925&attribute[people]=2&attribute[date]=28/06/2027%20-%2029/06/2027&attribute[range]=28/06/2027%20-%2029/06/2027&attribute[page]=1&attribute[rows]=5",
-  "headers": {
-   "Referer": "https://www.prenotarifugi.cai.it/",
-   "Origin": "https://www.prenotarifugi.cai.it",
-   "Accept": "application/json"
-  }
- },
- {
-  "name": "cai_by_tissi",
-  "status": 200,
-  "bytes": 4451,
-  "url": "https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/byAttributes?attribute[id]=5813&attribute[people]=2&attribute[date]=26/06/2027%20-%2027/06/2027&attribute[range]=26/06/2027%20-%2027/06/2027",
-  "headers": {
-   "Referer": "https://www.prenotarifugi.cai.it/",
-   "Origin": "https://www.prenotarifugi.cai.it",
-   "Accept": "application/json"
-  }
- },
- {
-  "name": "cai_by_plain",
+  "name": "cai_lit_ref",
   "status": 403,
   "bytes": 555,
-  "url": "https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/byAttributes?id=5925&people=2"
+  "url": "https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/byAttributes?attribute[id]=5925&attribute[people]=2&attribute[date]=28/06/2027%20-%2029/06/2027&attribute[range]=28/06/2027%20-%2029/06/2027",
+  "headers": {
+   "Referer": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
+   "Accept": "application/json"
+  }
+ },
+ {
+  "name": "cai_enc_ref_origin",
+  "status": 200,
+  "bytes": 4592,
+  "url": "https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/byAttributes?attribute%5Bid%5D=5925&attribute%5Bpeople%5D=2&attribute%5Bdate%5D=28%2F06%2F2027+-+29%2F06%2F2027&attribute%5Brange%5D=28%2F06%2F2027+-+29%2F06%2F2027",
+  "headers": {
+   "Referer": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
+   "Origin": "https://www.prenotarifugi.cai.it",
+   "Accept": "application/json"
+  }
+ },
+ {
+  "name": "cai_lit_noheaders",
+  "status": 403,
+  "bytes": 555,
+  "url": "https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/byAttributes?attribute[id]=5925&attribute[people]=2&attribute[date]=28/06/2027%20-%2029/06/2027&attribute[range]=28/06/2027%20-%2029/06/2027"
  }
 ]
