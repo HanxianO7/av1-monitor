@@ -1,50 +1,63 @@
 [
  {
-  "name": "bs_widget_js",
+  "name": "bs_booking_chunk",
   "status": 200,
-  "bytes": 243051,
-  "url": "https://widget.bookingsuedtirol.com/widget.js"
+  "bytes": 110082,
+  "url": "https://widget.bookingsuedtirol.com/v2/booking.b790e402839c6e9adc72.js"
  },
  {
-  "name": "bs_v2_bundle",
+  "name": "bs_calendar_chunk",
   "status": 200,
-  "bytes": 243051,
-  "url": "https://widget.bookingsuedtirol.com/v2/bundle.js"
+  "bytes": 2041,
+  "url": "https://widget.bookingsuedtirol.com/v2/calendar.ba90aa558483f5bdff51.js"
  },
  {
-  "name": "cai_custom_js",
-  "status": 200,
-  "bytes": 1804,
-  "url": "https://www.prenotarifugi.cai.it/wp-content/themes/Avada-Child-Theme/custom.js"
- },
- {
-  "name": "cai_script_js",
-  "status": 200,
-  "bytes": 4410453,
-  "url": "https://www.prenotarifugi.cai.it/wp-content/themes/Avada-Child-Theme/script.js"
- },
- {
-  "name": "cai_ajax_search_js",
-  "status": 200,
-  "bytes": 9432,
-  "url": "https://www.prenotarifugi.cai.it/wp-content/themes/Avada-Child-Theme/ajax_search.js"
- },
- {
-  "name": "nuvolau_avail",
-  "status": 200,
-  "bytes": 166919,
-  "url": "https://rifugionuvolau.it/en/availability/"
- },
- {
-  "name": "fiume_en",
-  "status": 200,
-  "bytes": 111840,
-  "url": "https://rifugiocittadifiume.it/en/book-online/"
- },
- {
-  "name": "bs_fanes_page",
+  "name": "bs_widgets_fanes",
   "status": 403,
-  "bytes": 5950,
-  "url": "https://www.bookingsuedtirol.com/en/sanvigiliomarebbestvigilenneberg/schutzhuette-fanes"
+  "bytes": 134,
+  "url": "https://api.widgets.bookingsuedtirol.com/v6/widgets?id=8501930f-1806-4a11-bdfe-03a3942aa693",
+  "headers": {
+   "Origin": "https://www.rifugiofanes.com",
+   "Referer": "https://www.rifugiofanes.com/"
+  }
+ },
+ {
+  "name": "bs_rooms_fanes",
+  "status": 403,
+  "bytes": 134,
+  "url": "https://api.widgets.bookingsuedtirol.com/v6/properties/13308/rooms",
+  "headers": {
+   "Origin": "https://www.rifugiofanes.com"
+  }
+ },
+ {
+  "name": "bs_rooms_lavarella",
+  "status": 403,
+  "bytes": 134,
+  "url": "https://api.widgets.bookingsuedtirol.com/v6/properties/13004/rooms",
+  "headers": {
+   "Origin": "https://lavarella.it"
+  }
+ },
+ {
+  "name": "bs_widgets_lavarella",
+  "status": 403,
+  "bytes": 134,
+  "url": "https://api.widgets.bookingsuedtirol.com/v6/widgets?propertyId=13004&type=booking&source=website",
+  "headers": {
+   "Origin": "https://lavarella.it"
+  }
+ },
+ {
+  "name": "cai_shelter_5925",
+  "status": 403,
+  "bytes": 555,
+  "url": "https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/webContent/webContentsAndSuppliersByAttributes?id=5925"
+ },
+ {
+  "name": "cai_cerca",
+  "status": 200,
+  "bytes": 158454,
+  "url": "https://www.prenotarifugi.cai.it/cerca-e-prenota/?date=22-06-2027&people=2"
  }
 ]
