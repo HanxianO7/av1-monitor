@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **02 Nov 2026 10:31 Kuala Lumpur** · 03:31 Italy
+Last check: **02 Nov 2026 10:41 Kuala Lumpur** · 03:41 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -23,5 +23,5 @@ Trip: 2 guests · dorm only · half board
 | [Tissi](https://www.prenotarifugi.cai.it/dettaglio/?id=5813) | backup | 26 Jun | **BOOKED** | 26 Jun booked at Vazzoler (Plan A) - backup checks and alerts stopped |
 | [Carestiato](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | 27 Jun | **NOT LIVE YET** | no space on your night or control 2027-08-04 |
 | [Passo Duran](https://rifugiopassoduran.it/booking/index_en.php) | backup | 27 Jun | **CHECK MANUALLY** | Site shows a CAPTCHA to automated checks - check the calendar by hand |
-| [Pramperet](https://www.prenotarifugi.cai.it/dettaglio/?id=5925) | preferred | 28 Jun | **WATCHING PAGE** | no booking-text change |
-| [Pian de Fontana](https://www.prenotarifugi.cai.it/dettaglio/?id=5942) | backup | 28 Jun | **WATCHING PAGE** | no booking-text change |
+| [Pramperet](https://www.prenotarifugi.cai.it/dettaglio/?id=5925) | preferred | 28 Jun | **ERROR** | HTTPError: 403 Client Error: Forbidden for url: https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/byAttributes?attribute%5Bid%5D=5925&attribute%5Bpeople%5D=2&attribute%5Bdat |
+| [Pian de Fontana](https://www.prenotarifugi.cai.it/dettaglio/?id=5942) | backup | 28 Jun | **ERROR** | HTTPError: 403 Client Error: Forbidden for url: https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/byAttributes?attribute%5Bid%5D=5942&attribute%5Bpeople%5D=2&attribute%5Bdat |
