@@ -100,7 +100,8 @@
    "stated": "Summer bookings open November 2026 (per Scotoni's reply)",
    "booked": {
     "plan": "A",
-    "note": "Booked for Plan A (Wed 23 Jun 2027) - checks and alerts stopped"
+    "note": "Booked for Plan A (Wed 23 Jun 2027) - checks and alerts stopped",
+    "confirmed": true
    }
   },
   {
@@ -169,7 +170,8 @@
    "book_url": "https://rifugiocoldai.com/Booking/index_en.php",
    "booked": {
     "plan": "A",
-    "note": "Booked for Plan A (Fri 25 Jun 2027) - checks and alerts stopped"
+    "note": "Booked for Plan A (Fri 25 Jun 2027) - checks and alerts stopped",
+    "confirmed": true
    }
   },
   {
@@ -184,7 +186,8 @@
    "book_url": "https://rifugiovazzoler.com/Booking/index.php",
    "booked": {
     "plan": "A",
-    "note": "Booked for Plan A (Sat 26 Jun 2027) - checks and alerts stopped"
+    "note": "Booked for Plan A (Sat 26 Jun 2027) - checks and alerts stopped",
+    "confirmed": true
    }
   },
   {
@@ -235,7 +238,8 @@
    "manual_note": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
    "booked": {
     "plan": "A",
-    "note": "Booked for Plan A (Sun 27 Jun 2027) - checks and alerts stopped"
+    "note": "Booked for Plan A (Sun 27 Jun 2027) - checks and alerts stopped",
+    "confirmed": true
    }
   },
   {

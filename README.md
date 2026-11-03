@@ -34,7 +34,7 @@ That's it. It stops by itself after 28 Jun 2027 (you can also disable it under A
 | `alerts.page_changes` | `false` | Also alert on any booking-text change on watched pages |
 | `alerts.remind_hours` | `24` | Reminder interval while beds stay open (`0` = off) |
 | `trip.plans` | Plan A only | Date plans to track (add e.g. `{"id": "B", "label": "Plan B", "shift_days": 2}` for a backup start date); `shift_days` moves every hut's night (Plan A = the `night` in each hut) |
-| `huts[].booked` | not set | e.g. `{"plan": "A", "note": "..."}`: hut is booked, so it's no longer checked and sends no alerts |
+| `huts[].booked` | not set | e.g. `{"plan": "A", "note": "..."}`: hut is booked, so it's no longer checked and sends no alerts. Add `"confirmed": true` for a hut you actually hold a bed at (shown with ✅ in STATUS.md), as opposed to a backup tagged only to stop its alerts |
 | `huts[].pages` | set | Pages watched for "2027 bookings open" text |
 | `huts[].alert_changes` | not set | `true`: alert on any booking-text change for this hut only (like `alerts.page_changes`) |
 
