@@ -214,7 +214,11 @@
    "endpoints": [
     "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php"
    ],
-   "book_url": "https://www.rifugiocarestiato.com/Booking/index_en.php"
+   "book_url": "https://www.rifugiocarestiato.com/Booking/index_en.php",
+   "booked": {
+    "plan": "A",
+    "note": "27 Jun booked at Passo Duran (Plan A) - checks and alerts stopped"
+   }
   },
   {
    "id": "passoduran",
@@ -227,7 +231,11 @@
     "https://www.rifugiopassoduran.it/booking/EN/prenotazione1.php"
    ],
    "book_url": "https://rifugiopassoduran.it/booking/index_en.php",
-   "manual_note": "Site shows a CAPTCHA to automated checks - check the calendar by hand"
+   "manual_note": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
+   "booked": {
+    "plan": "A",
+    "note": "Booked for Plan A (Sun 27 Jun 2027) - checks and alerts stopped"
+   }
   },
   {
    "id": "pramperet",
