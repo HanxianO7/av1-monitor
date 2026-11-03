@@ -14,7 +14,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.sennes.com/en/",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -41,7 +41,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiobiella.it/",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -62,7 +62,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://lavarella.it/",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-10-22T10:05:15.711882+00:00",
   "errors": 0,
   "alerted": "2026-10-22T10:05:15.711882+00:00"
@@ -82,7 +82,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://muntagnoles.com/",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-11-02T06:05:16.354782+00:00",
   "errors": 0,
   "alerted": "2026-11-02T21:05:16.383375+00:00"
@@ -93,7 +93,7 @@
   "status": "LIVE - your night full",
   "detail": "portal live, your night full",
   "probe_url": "https://rifugiolagazuoi.com/EN/prenotazione1.php",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-10-31T23:05:20.451808+00:00",
   "errors": 0,
   "alerted": null
@@ -103,7 +103,7 @@
   "detail": "Booked for Plan A (Wed 23 Jun 2027) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://scotoni.bukly.com/it",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-10-20T07:05:14.284938+00:00",
   "errors": 0,
   "alerted": null
@@ -113,7 +113,7 @@
   "detail": "23 Jun booked at Scotoni (Plan A) - backup checks and alerts stopped",
   "probe_url": "",
   "link": "https://www.rifugiodibona.app/en",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-11-01T15:05:15.066947+00:00",
   "errors": 0,
   "alerted": null
@@ -142,7 +142,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugionuvolau.it/",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-09-30T01:12:38.354077+00:00",
   "errors": 0,
   "alerted": null
@@ -178,7 +178,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://rifugiocittadifiume.it/prenota/",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-09-29T17:13:31.266748+00:00",
   "errors": 0,
   "alerted": null
@@ -190,7 +190,7 @@
   "status": "LIVE - your night full",
   "detail": "calendar live (control 2027-09-14)",
   "probe_url": "https://rifugioaverau.bukly.com/it/hotel/2027-06-24/2027-06-25/",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-10-01T02:09:41.414915+00:00",
   "errors": 0,
   "alerted": null
@@ -200,7 +200,7 @@
   "detail": "Booked for Plan A (Fri 25 Jun 2027) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://rifugiocoldai.com/Booking/index_en.php",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-11-01T13:39:31.115768+00:00",
   "errors": 0,
   "alerted": null
@@ -210,7 +210,7 @@
   "detail": "Booked for Plan A (Sat 26 Jun 2027) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://rifugiovazzoler.com/Booking/index.php",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-11-01T13:39:31.115768+00:00",
   "errors": 0,
   "alerted": "2026-11-01T13:39:31.115768+00:00"
@@ -220,7 +220,7 @@
   "detail": "26 Jun booked at Vazzoler (Plan A) - backup checks and alerts stopped",
   "probe_url": "",
   "link": "https://www.prenotarifugi.cai.it/dettaglio/?id=5813",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-11-01T13:39:31.115768+00:00",
   "errors": 0,
   "alerted": null
@@ -230,7 +230,7 @@
   "detail": "27 Jun booked at Passo Duran (Plan A) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://www.rifugiocarestiato.com/Booking/index_en.php",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-11-03T03:05:14.686438+00:00",
   "errors": 0,
   "alerted": null
@@ -240,8 +240,52 @@
   "detail": "Booked for Plan A (Sun 27 Jun 2027) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://rifugiopassoduran.it/booking/index_en.php",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-11-03T03:05:14.686438+00:00",
+  "errors": 0,
+  "alerted": null
+ },
+ "coldai-26": {
+  "endpoint": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
+  "link": "https://rifugiocoldai.com/Booking/index_en.php",
+  "status": "AVAILABLE",
+  "detail": "2 dorm beds shown for your night",
+  "probe_url": "https://rifugiocoldai.com/Booking/EN/prenotazione1.php",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
+  "since": "2026-11-03T03:15:36.893662+00:00",
+  "errors": 0,
+  "alerted": "2026-11-03T03:15:36.893662+00:00"
+ },
+ "vazzoler-27": {
+  "status": "ERROR",
+  "detail": "HTTPError: 503 Server Error: Service Unavailable for url: https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
+  "link": "https://rifugiovazzoler.com/Booking/index.php",
+  "unreachable": false,
+  "probe_url": "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
+  "since": "2026-11-03T03:15:36.893662+00:00",
+  "errors": 1,
+  "alerted": null,
+  "last_good": null
+ },
+ "carestiato-28": {
+  "endpoint": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
+  "link": "https://www.rifugiocarestiato.com/Booking/index_en.php",
+  "status": "NOT LIVE YET",
+  "detail": "no space on your night or control 2027-09-08",
+  "probe_url": "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
+  "since": "2026-11-03T03:15:36.893662+00:00",
+  "errors": 0,
+  "alerted": null
+ },
+ "passoduran-28": {
+  "status": "CHECK MANUALLY",
+  "detail": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
+  "link": "https://rifugiopassoduran.it/booking/index_en.php",
+  "probe_url": "https://rifugiopassoduran.it/booking/index_en.php",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
+  "since": "2026-11-03T03:15:36.893662+00:00",
   "errors": 0,
   "alerted": null
  },
@@ -265,7 +309,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-11-02T03:05:17.536953+00:00",
   "errors": 0,
   "alerted": null
@@ -288,7 +332,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-  "checked": "2026-11-03T03:05:14.686438+00:00",
+  "checked": "2026-11-03T03:15:36.893662+00:00",
   "since": "2026-11-02T03:05:17.536953+00:00",
   "errors": 0,
   "alerted": null
