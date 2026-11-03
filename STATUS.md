@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **03 Nov 2026 12:05 Kuala Lumpur** · 05:05 Italy
+Last check: **03 Nov 2026 13:05 Kuala Lumpur** · 06:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -25,7 +25,7 @@ Trip: 2 guests · dorm only · half board
 | ✅ [Passo Duran](https://rifugiopassoduran.it/booking/index_en.php) | backup | 27 Jun | **BOOKED** | Booked for Plan A (Sun 27 Jun 2027) - checks and alerts stopped |
 | [Sonino al Coldai (move to 26 Jun)](https://rifugiocoldai.com/Booking/index_en.php) | preferred | 26 Jun | **AVAILABLE** | 2 dorm beds shown for your night |
 | [Vazzoler (move to 27 Jun)](https://rifugiovazzoler.com/Booking/index.php) | preferred | 27 Jun | **ERROR** | HTTPError: 503 Server Error: Service Unavailable for url: https://rifugiovazzoler.com/Booking/EN/prenotazione1.php |
-| [Carestiato (move to 28 Jun)](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | 28 Jun | **NOT LIVE YET** | no space on your night or control 2027-06-09 |
+| [Carestiato (move to 28 Jun)](https://www.rifugiocarestiato.com/Booking/index_en.php) | preferred | 28 Jun | **NOT LIVE YET** | no space on your night or control 2027-07-14 |
 | [Passo Duran (move to 28 Jun)](https://rifugiopassoduran.it/booking/index_en.php) | backup | 28 Jun | **CHECK MANUALLY** | Site shows a CAPTCHA to automated checks - check the calendar by hand |
 | [Pramperet](https://www.prenotarifugi.cai.it/dettaglio/?id=5925) | preferred | 28 Jun | **WATCHING PAGE** | no booking-text change |
 | [Pian de Fontana](https://www.prenotarifugi.cai.it/dettaglio/?id=5942) | backup | 28 Jun | **WATCHING PAGE** | no booking-text change |
