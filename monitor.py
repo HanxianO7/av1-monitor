@@ -603,6 +603,8 @@ def write_status(results, state, ts):
         rs = [res_for(hut, p) for p in PLANS]
         link = next((r["link"] for r in rs if r.get("link")), "")
         name = f"[{hut['name']}]({link})" if link else hut["name"]
+        if hut.get("booked", {}).get("confirmed"):  # a bed you actually hold, not a tagged backup
+            name = "✅ " + name
         cells = " | ".join(
             (f"[{d(plan_night(hut, p)):%d %b}]({r['dated_link']})" if r.get("dated_link")
              else f"{d(plan_night(hut, p)):%d %b}") + f" | **{r.get('status', '-')}**" for p, r in zip(PLANS, rs))

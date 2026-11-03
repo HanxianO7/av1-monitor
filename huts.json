@@ -10,7 +10,7 @@
     "shift_days": 0
    }
   ],
-  "stop_after": "2027-06-28"
+  "stop_after": "2027-06-30"
  },
  "control_nights": [
   "2027-06-09",
@@ -100,7 +100,8 @@
    "stated": "Summer bookings open November 2026 (per Scotoni's reply)",
    "booked": {
     "plan": "A",
-    "note": "Booked for Plan A (Wed 23 Jun 2027) - checks and alerts stopped"
+    "note": "Booked for Plan A (Wed 23 Jun 2027) - checks and alerts stopped",
+    "confirmed": true
    }
   },
   {
@@ -134,14 +135,15 @@
   {
    "id": "fiume",
    "name": "Città di Fiume",
-   "night": "2027-06-24",
-   "role": "backup",
+   "night": "2027-06-25",
+   "role": "preferred",
    "check": "page",
    "pages": [
     "https://rifugiocittadifiume.it/prenota/",
     "https://rifugiocittadifiume.it/pernotto/"
    ],
-   "book_url": "https://rifugiocittadifiume.it/prenota/"
+   "book_url": "https://rifugiocittadifiume.it/prenota/",
+   "stated": "New 25 Jun stop (Nuvolau -> Fiume, then Coldai on 26 Jun); summer 2027 bookings not open yet"
   },
   {
    "id": "averau",
@@ -168,7 +170,8 @@
    "book_url": "https://rifugiocoldai.com/Booking/index_en.php",
    "booked": {
     "plan": "A",
-    "note": "Booked for Plan A (Fri 25 Jun 2027) - checks and alerts stopped"
+    "note": "Booked for Plan A (Fri 25 Jun 2027) - checks and alerts stopped",
+    "confirmed": true
    }
   },
   {
@@ -183,7 +186,8 @@
    "book_url": "https://rifugiovazzoler.com/Booking/index.php",
    "booked": {
     "plan": "A",
-    "note": "Booked for Plan A (Sat 26 Jun 2027) - checks and alerts stopped"
+    "note": "Booked for Plan A (Sat 26 Jun 2027) - checks and alerts stopped",
+    "confirmed": true
    }
   },
   {
@@ -234,8 +238,59 @@
    "manual_note": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
    "booked": {
     "plan": "A",
-    "note": "Booked for Plan A (Sun 27 Jun 2027) - checks and alerts stopped"
+    "note": "Booked for Plan A (Sun 27 Jun 2027) - checks and alerts stopped",
+    "confirmed": true
    }
+  },
+  {
+   "id": "coldai-26",
+   "name": "Sonino al Coldai (move to 26 Jun)",
+   "night": "2027-06-26",
+   "role": "preferred",
+   "check": "engine",
+   "endpoints": [
+    "https://rifugiocoldai.com/Booking/EN/prenotazione1.php"
+   ],
+   "book_url": "https://rifugiocoldai.com/Booking/index_en.php",
+   "stated": "Watching the shifted night (Sat 26 Jun) while you ask to move your booking by +1 night"
+  },
+  {
+   "id": "vazzoler-27",
+   "name": "Vazzoler (move to 27 Jun)",
+   "night": "2027-06-27",
+   "role": "preferred",
+   "check": "engine",
+   "endpoints": [
+    "https://rifugiovazzoler.com/Booking/EN/prenotazione1.php"
+   ],
+   "book_url": "https://rifugiovazzoler.com/Booking/index.php",
+   "stated": "Watching the shifted night (Sun 27 Jun) while you ask to move your booking by +1 night"
+  },
+  {
+   "id": "carestiato-28",
+   "name": "Carestiato (move to 28 Jun)",
+   "night": "2027-06-28",
+   "role": "preferred",
+   "check": "engine",
+   "endpoints": [
+    "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php"
+   ],
+   "book_url": "https://www.rifugiocarestiato.com/Booking/index_en.php",
+   "stated": "Watching the shifted night (Mon 28 Jun) while you ask to move your booking by +1 night"
+  },
+  {
+   "id": "passoduran-28",
+   "name": "Passo Duran (move to 28 Jun)",
+   "night": "2027-06-28",
+   "role": "backup",
+   "check": "manual",
+   "endpoints": [
+    "https://rifugiopassoduran.it/booking/EN/prenotazione1.php",
+    "https://www.rifugiopassoduran.it/booking/EN/prenotazione1.php"
+   ],
+   "book_url": "https://rifugiopassoduran.it/booking/index_en.php",
+   "manual_note": "Site shows a CAPTCHA to automated checks - check the calendar by hand",
+   "stated": "Watching the shifted night (Mon 28 Jun) while you ask to move your booking by +1 night"
   },
   {
    "id": "pramperet",
