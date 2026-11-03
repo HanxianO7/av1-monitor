@@ -1,10 +1,10 @@
 # Alta Via 1 booking monitor
 
-Last check: **03 Nov 2026 19:05 Kuala Lumpur** · 12:05 Italy
+Last check: **03 Nov 2026 19:37 Kuala Lumpur** · 12:37 Italy
 
 Trip: 2 guests · dorm only · half board
 
-- **Plan A** (21 Jun - 30 Jun): beds showing on 0 of 10 nights · booked: 23 Jun, 26 Jun, 27 Jun, 28 Jun
+- **Plan A** (21 Jun - 30 Jun): beds showing on 0 of 10 nights · booked: 23 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun
 
 | Hut | Role | Plan A night | Plan A status | Detail |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ Trip: 2 guests · dorm only · half board
 | [Dibona](https://www.rifugiodibona.app/en) | backup | 23 Jun | **BOOKED** | 23 Jun booked at Scotoni (Plan A) - backup checks and alerts stopped |
 | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | 24 Jun | **WATCHING PAGE** | no booking-text change |
 | [Averau](https://www.rifugioaverau.it/en/) | backup | [24 Jun](https://rifugioaverau.bukly.com/it/hotel/2027-06-24/2027-06-25/) | **LIVE - your night full** | calendar live (control 2027-09-14) |
-| [Città di Fiume](https://rifugiocittadifiume.it/prenota/) | preferred | 25 Jun | **WATCHING PAGE** | no booking-text change |
+| ✅ [Città di Fiume](https://rifugiocittadifiume.it/prenota/) | preferred | 25 Jun | **BOOKED** | Booked for Fri 25 Jun 2027 - checks and alerts stopped |
 | ✅ [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | 26 Jun | **BOOKED** | Booked for Sat 26 Jun 2027 (moved from 25 Jun) - checks and alerts stopped |
 | ✅ [Vazzoler](https://rifugiovazzoler.com/Booking/index.php) | preferred | 27 Jun | **BOOKED** | Booked for Sun 27 Jun 2027 (moved from 26 Jun) - checks and alerts stopped |
 | [Tissi](https://www.prenotarifugi.cai.it/dettaglio/?id=5813) | backup | 27 Jun | **BOOKED** | Backup for 27 Jun; checks and alerts stopped (night booked elsewhere) |
