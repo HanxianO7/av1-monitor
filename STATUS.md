@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **04 Nov 2026 11:05 Kuala Lumpur** · 04:05 Italy
+Last check: **04 Nov 2026 12:05 Kuala Lumpur** · 05:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -13,7 +13,7 @@ Trip: 2 guests · dorm only · half board
 | [Lavarella](https://lavarella.it/en/book-online) | preferred | 22 Jun | **WATCHING PAGE** | no booking-text change |
 | [Ücia dles Muntagnoles](https://muntagnoles.com/index.php/it/info-prenotazioni) | backup | 22 Jun | **WATCHING PAGE** | no booking-text change |
 | [Lagazuoi](https://rifugiolagazuoi.com/index_en.php) | preferred | 23 Jun | **LIVE - your night full** | portal live, your night full |
-| ✅ [Scotoni](https://scotoni.bukly.com/it) | backup | 23 Jun | **BOOKED** | Booked for Wed 23 Jun 2027 - TO DO: reschedule or cancel - checks and alerts stopped |
+| ✅ [Scotoni](https://scotoni.bukly.com/it) | backup | 23 Jun | **BOOKED** | Booked for Wed 23 Jun 2027 - checks and alerts stopped |
 | [Dibona](https://www.rifugiodibona.app/en) | backup | 23 Jun | **BOOKED** | 23 Jun booked at Scotoni (Plan A) - backup checks and alerts stopped |
 | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | 24 Jun | **WATCHING PAGE** | no booking-text change |
 | [Averau](https://www.rifugioaverau.it/en/) | backup | [24 Jun](https://rifugioaverau.bukly.com/it/hotel/2027-06-24/2027-06-25/) | **LIVE - your night full** | calendar live (control 2027-09-14) |
