@@ -105,21 +105,6 @@
    }
   },
   {
-   "id": "dibona",
-   "name": "Dibona",
-   "night": "2027-06-23",
-   "role": "backup",
-   "check": "page",
-   "pages": [
-    "https://www.rifugiodibona.app/en"
-   ],
-   "book_url": "https://www.rifugiodibona.app/en",
-   "booked": {
-    "plan": "A",
-    "note": "23 Jun booked at Scotoni (Plan A) - backup checks and alerts stopped"
-   }
-  },
-  {
    "id": "nuvolau",
    "name": "Nuvolau",
    "night": "2027-06-24",
@@ -193,40 +178,6 @@
     "plan": "A",
     "note": "Booked for Sun 27 Jun 2027 (moved from 26 Jun) - checks and alerts stopped",
     "confirmed": true
-   }
-  },
-  {
-   "id": "tissi",
-   "name": "Tissi",
-   "night": "2027-06-27",
-   "role": "backup",
-   "check": "page",
-   "pages": [
-    "https://rifugiotissi.com/",
-    "https://rifugiotissi.com/IT/p40-Prezzi-e-prenotazioni",
-    "https://www.prenotarifugi.cai.it/dettaglio/?id=5813"
-   ],
-   "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5813",
-   "stated": "2027 bookings open 1 Nov 2026 (per Tissi's website)",
-   "alert_changes": true,
-   "booked": {
-    "plan": "A",
-    "note": "Backup for 27 Jun; checks and alerts stopped (night booked elsewhere)"
-   }
-  },
-  {
-   "id": "carestiato",
-   "name": "Carestiato",
-   "night": "2027-06-28",
-   "role": "preferred",
-   "check": "engine",
-   "endpoints": [
-    "https://www.rifugiocarestiato.com/Booking/EN/prenotazione1.php"
-   ],
-   "book_url": "https://www.rifugiocarestiato.com/Booking/index_en.php",
-   "booked": {
-    "plan": "A",
-    "note": "Backup for 28 Jun; checks and alerts stopped (night booked elsewhere)"
    }
   },
   {

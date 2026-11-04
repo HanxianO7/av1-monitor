@@ -2,7 +2,7 @@
 
 Checks your huts every 4 hours on GitHub (free) and messages you on Telegram **only** when:
 
-- 🟢 dorm beds for 2 appear on your night (Lagazuoi, Coldai, Vazzoler, Carestiato)
+- 🟢 dorm beds for 2 appear on your night (Lagazuoi, Coldai, Vazzoler)
 - 🟢 Scotoni or Averau show rooms on your night (you check if they're dorm beds)
 - 🟡 a hut page says 2027 bookings are open (page-watch huts)
 - ⚠️ a check has failed 3 runs in a row (so it never dies silently)
