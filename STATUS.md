@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **05 Nov 2026 02:05 Kuala Lumpur** · 19:05 Italy
+Last check: **05 Nov 2026 03:05 Kuala Lumpur** · 20:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -15,7 +15,7 @@ Trip: 2 guests · dorm only · half board
 | [Lagazuoi](https://rifugiolagazuoi.com/index_en.php) | preferred | 23 Jun | **LIVE - your night full** | portal live, your night full |
 | ✅ [Scotoni](https://scotoni.bukly.com/it) | backup | 23 Jun | **BOOKED** | Booked for Wed 23 Jun 2027 - checks and alerts stopped |
 | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | 24 Jun | **WATCHING PAGE** | no booking-text change |
-| [Averau](https://www.rifugioaverau.it/en/) | backup | 24 Jun | **ERROR** | averau.bukly.com: HTTPError |
+| [Averau](https://www.rifugioaverau.it/en/) | backup | 24 Jun | **ERROR** | rifugioaverau.bukly.com: HTTPError |
 | ✅ [Città di Fiume](https://rifugiocittadifiume.it/prenota/) | preferred | 25 Jun | **BOOKED** | Booked for Fri 25 Jun 2027 - checks and alerts stopped |
 | ✅ [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | 26 Jun | **BOOKED** | Booked for Sat 26 Jun 2027 (moved from 25 Jun) - checks and alerts stopped |
 | ✅ [Vazzoler](https://rifugiovazzoler.com/Booking/index.php) | preferred | 27 Jun | **BOOKED** | Booked for Sun 27 Jun 2027 (moved from 26 Jun) - checks and alerts stopped |
