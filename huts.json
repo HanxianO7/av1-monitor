@@ -95,7 +95,7 @@
    "night": "2027-06-23",
    "role": "backup",
    "check": "bukly",
-   "base": "https://scotoni.bukly.com/it/hotel",
+   "base": "https://scotoni.bukly.com",
    "book_url": "https://scotoni.bukly.com/it",
    "stated": "Summer bookings open November 2026 (per Scotoni's reply)",
    "booked": {
@@ -123,12 +123,9 @@
    "night": "2027-06-24",
    "role": "backup",
    "check": "bukly",
-   "bases": [
-    "https://averau.bukly.com/it/hotel",
-    "https://rifugioaverau.bukly.com/it/hotel"
-   ],
-   "book_url": "https://www.rifugioaverau.it/en/",
-   "stated": "Uses Bukly (same system as Scotoni); exact booking address unconfirmed"
+   "base": "https://rifugioaverau.bukly.com",
+   "book_url": "https://rifugioaverau.bukly.com/",
+   "stated": "Bukly booking engine, new app since 4 Nov 2026 (the 'Book now' link on rifugioaverau.it)"
   },
   {
    "id": "fiume",
