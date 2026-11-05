@@ -247,57 +247,33 @@ def check_engine(hut, nights, prevs):
     return {pid: dict(err) for pid in nights}
 
 
-# ---------------------------------------------------------------- Bukly (Scotoni)
-MONTHS_IT = {"gen": 1, "feb": 2, "mar": 3, "apr": 4, "mag": 5, "giu": 6,
-             "lug": 7, "ago": 8, "set": 9, "ott": 10, "nov": 11, "dic": 12}
+# ---------------------------------------------------------------- Bukly (Averau, Scotoni)
+# Bukly moved to a new app in Nov 2026: the old /it/hotel/<in>/<out>/ pages now 404.
+# The new page {base}/hotel/<in>/<out> (redirects to /booking?checkin=...) embeds its
+# data as Inertia JSON. calendarMinPrices.prices lists every night that can still be
+# booked (a min price per date) and calendarRestrictions.unavailableDates the closed ones.
+BUKLY_PAGE_RE = re.compile(r'<script data-page="app" type="application/json">(.*?)</script>', re.S)
 
 
-def bukly_get(hut, night, also=()):
-    """Returns {night: (url, on_day, any_open, rooms_text)} for `night` and any of the
-    `also` nights the same page covers. on_day None = page not recognised.
-    Ported from the old monitor: either a room list (night bookable) or a ~16-day
-    grid of div.s-open / div.s-closed cells, read by the column for each trip night."""
-    a = d(night)
-    url = f"{hut['base']}/{a.isoformat()}/{(a + dt.timedelta(days=1)).isoformat()}/"
-    r = requests.get(url, headers=HEADERS, timeout=40)
+def bukly_link(base, night):
+    n = d(night)
+    return f"{base}/hotel/{n.isoformat()}/{(n + dt.timedelta(days=1)).isoformat()}"
+
+
+def bukly_calendar(base, night):
+    """(bookable {date: EUR min price}, unavailable dates) from one booking page."""
+    r = requests.get(bukly_link(base, night), headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
     time.sleep(PAUSE)
-    soup = BeautifulSoup(r.text, "html.parser")
-    table = next((t for t in soup.find_all("table") if t.find("span", class_="day")), None)
-    if table is None:
-        rooms = soup.select(".hotel-room__info")
-        if rooms:
-            return {night: (url, len(rooms), True, " | ".join(
-                re.sub(r"\s+", " ", x.get_text(" ")).strip()[:60] for x in rooms[:4]))}
-        return {night: (url, None, None, "")}
-    heads = []
-    for th in table.find_all("th"):
-        day, mon = th.find("span", class_="day"), th.find("span", class_="month")
-        if day and mon:
-            heads.append((MONTHS_IT.get(mon.get_text(strip=True)[:3].lower()), int(day.get_text(strip=True))))
-    rows = [tr.find_all("td")[1:] for tr in table.find_all("tr")]
-    any_open = any(c.find("div", class_="s-open") for cells in rows for c in cells)
-    out = {}
-    for n in [night, *also]:
-        nd = d(n)
-        if (nd.month, nd.day) not in heads:
-            if n == night:
-                out[n] = (url, 0, any_open, "")
-            continue
-        col = heads.index((nd.month, nd.day))
-        on_day = sum(1 for cells in rows if col < len(cells) and cells[col].find("div", class_="s-open"))
-        out[n] = (url, on_day, any_open, "")
-    return out
-
-
-def bukly_nights(hut, nights):
-    """Read every trip night, reusing one calendar page where it covers several."""
-    pending, got = list(dict.fromkeys(nights)), {}
-    while pending:
-        night, pending = pending[0], pending[1:]
-        got.update(bukly_get(hut, night, also=pending))
-        pending = [n for n in pending if n not in got]
-    return got
+    m = BUKLY_PAGE_RE.search(r.text)
+    if not m:
+        raise ValueError("booking page data not found")
+    be = json.loads(m.group(1))["props"]["bookingEngine"]
+    prices = be["calendarMinPrices"]["prices"] or {}
+    if isinstance(prices, list):  # empty PHP array comes through as []
+        prices = {}
+    bookable = {k: (v or {}).get("EUR") for k, v in prices.items()}
+    return bookable, set((be.get("calendarRestrictions") or {}).get("unavailableDates") or [])
 
 
 def check_bukly(hut, nights, prevs):
@@ -309,41 +285,26 @@ def check_bukly(hut, nights, prevs):
         bases.insert(0, known)
     last = "no address worked"
     for base in bases:
-        h = {**hut, "base": base}
         try:
-            got = bukly_nights(h, nights.values())
+            bookable, _ = bukly_calendar(base, next(iter(nights.values())))
         except Exception as e:  # noqa: BLE001
             last = f"{base.split('//')[-1].split('/')[0]}: {type(e).__name__}"
             continue
-        if any(v[1] is None for v in got.values()):
-            last = f"{base.split('//')[-1].split('/')[0]}: calendar page not recognised"
-            continue
-        live = any(v[2] for v in got.values())
-        if not live:
-            for c in ["2027-07-15", "2027-08-15", "2027-09-14"]:
-                try:
-                    _, _, ao, _ = bukly_get(h, c)[c]
-                except Exception:  # noqa: BLE001
-                    continue
-                if ao:
-                    live = c
-                    break
         results = {}
         for pid, night in nights.items():
-            url, on_day, _, names = got[night]
-            n = d(night)  # page may have been read for another night - link this plan's own dates
-            dated = f"{base}/{n.isoformat()}/{(n + dt.timedelta(days=1)).isoformat()}/"
-            out = {"link": dated, "base": base, "dated_link": dated}
-            if on_day:
-                dorm = "dorm-type room listed" if DORM_RE.search(names) else "check if any are dorm"
-                results[pid] = {**out, "status": ROOMS,
-                                "detail": f"{on_day} room type(s) open: {dorm}. {names}".strip()}
-            elif live is True:
-                results[pid] = {**out, "status": LIVE_FULL, "detail": "2027 calendar live, your night closed"}
-            elif live:
-                results[pid] = {**out, "status": LIVE_FULL, "detail": f"calendar live (control {live})"}
+            link = bukly_link(base, night)
+            out = {"link": link, "base": base, "dated_link": link}
+            season = [k for k in bookable if k[:4] == night[:4]]
+            if night in bookable:
+                price = bookable[night]
+                results[pid] = {**out, "status": ROOMS, "detail": (
+                    f"your night bookable (from EUR {price:g})" if price else "your night bookable")
+                    + ": check if it's dorm beds for 2"}
+            elif season:
+                results[pid] = {**out, "status": LIVE_FULL,
+                                "detail": f"{night[:4]} calendar live ({len(season)} nights open), your night closed"}
             else:
-                results[pid] = {**out, "status": NOT_LIVE, "detail": "2027 calendar blank"}
+                results[pid] = {**out, "status": NOT_LIVE, "detail": f"no {night[:4]} nights open yet"}
         return results
     err = {"status": ERROR, "detail": last[:200], "link": bases[0]}
     return {pid: dict(err) for pid in nights}
