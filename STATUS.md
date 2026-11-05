@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **05 Nov 2026 18:05 Kuala Lumpur** · 11:05 Italy
+Last check: **05 Nov 2026 19:05 Kuala Lumpur** · 12:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -10,9 +10,9 @@ Trip: 2 guests · dorm only · half board
 |---|---|---|---|---|
 | [Sennes](https://www.sennes.com/en/contact/) | preferred | 21 Jun | **WATCHING PAGE** | no booking-text change |
 | [Biella](https://www.planyo.com/booking/Rifugio-Biella) | backup | 21 Jun | **WATCHING PAGE** | no booking-text change |
-| [Lavarella](https://lavarella.it/en/book-online) | preferred | 22 Jun | **WATCHING PAGE** | page text changed: s://lavarella.it/en/prices/wiinter) * [Meteo](https://www.dolomitesmeteo.it/fanes/) [AVAILABILITY & BOOKING](https://lavarella.it/en/book-online) [San Vigilio di Marebbe 39030 - ITA |
-| [Ücia dles Muntagnoles](https://muntagnoles.com/index.php/it/info-prenotazioni) | backup | 22 Jun | **WATCHING PAGE** | page text changed: In caso di cancellazione, la caparra versata sarà trattenuta e non verrà restituita._ ![Image 13](https://muntagnoles.com/images/Signs/reservation-icon.png) * * * **Pagamenti** _Acc |
-| [Lagazuoi](https://rifugiolagazuoi.com/index_en.php) | preferred | 23 Jun | **ERROR** | site showed a bot check ("One moment, please") - will retry |
+| [Lavarella](https://lavarella.it/en/book-online) | preferred | 22 Jun | **WATCHING PAGE** | page text changed: ntain bike Winter The nature park Ski touring Snowshoeing Prices Summer Winter Meteo AVAILABILITY & BOOKING San Vigilio di Marebbe 39030 - ITALY Temporary Interruption of Email Proc |
+| [Ücia dles Muntagnoles](https://muntagnoles.com/index.php/it/info-prenotazioni) | backup | 22 Jun | **WATCHING PAGE** | page text changed: +39 347 5214753 Prezzi Chiediamo cortesemente di farci una richiesta, tramite il modulo sottostante o tramite email Prenotazioni Alla conferma facciamo richiesta di una caparra di 6 |
+| [Lagazuoi](https://rifugiolagazuoi.com/index_en.php) | preferred | 23 Jun | **ERROR** | ConnectTimeout: HTTPSConnectionPool(host='rifugiolagazuoi.com', port=443): Max retries exceeded with url: /EN/prenotazione1.php (Caused by ConnectTimeoutError(<HTTPSConnection(host='rifugiolagazuoi.co |
 | ✅ [Scotoni](https://scotoni.bukly.com/it) | backup | 23 Jun | **BOOKED** | Booked for Wed 23 Jun 2027 - checks and alerts stopped |
 | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | 24 Jun | **WATCHING PAGE** | no booking-text change |
 | [Averau](https://www.rifugioaverau.it/en/) | backup | 24 Jun | **ERROR** | rifugioaverau.bukly.com: HTTPError |
