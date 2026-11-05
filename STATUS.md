@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **05 Nov 2026 21:05 Kuala Lumpur** · 14:05 Italy
+Last check: **05 Nov 2026 22:05 Kuala Lumpur** · 15:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -11,10 +11,10 @@ Trip: 2 guests · dorm only · half board
 | [Sennes](https://www.sennes.com/en/contact/) | preferred | 21 Jun | **WATCHING PAGE** | no booking-text change |
 | [Biella](https://www.planyo.com/booking/Rifugio-Biella) | backup | 21 Jun | **WATCHING PAGE** | no booking-text change |
 | [Lavarella](https://lavarella.it/en/book-online) | preferred | 22 Jun | **WATCHING PAGE** | no booking-text change |
-| [Ücia dles Muntagnoles](https://muntagnoles.com/index.php/it/info-prenotazioni) | backup | 22 Jun | **WATCHING PAGE** | no booking-text change |
+| [Ücia dles Muntagnoles](https://muntagnoles.com/index.php/it/info-prenotazioni) | backup | 22 Jun | **WATCHING PAGE** | page text changed: In caso di cancellazione, la caparra versata sarà trattenuta e non verrà restituita._ ![Image 13](https://muntagnoles.com/images/Signs/reservation-icon.png) * * * **Pagamenti** _Acc |
 | [Lagazuoi](https://rifugiolagazuoi.com/index_en.php) | preferred | 23 Jun | **LIVE - your night full** | portal live, your night full |
 | ✅ [Scotoni](https://scotoni.bukly.com/it) | backup | 23 Jun | **BOOKED** | Booked for Wed 23 Jun 2027 - checks and alerts stopped |
-| [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | 24 Jun | **WATCHING PAGE** | no booking-text change |
+| [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | 24 Jun | **WATCHING PAGE** | page text changed: ![Image 11](https://rifugionuvolau.it/wp-content/uploads/2025/09/images.png) #### Bookings * Bookings can be made exclusively through the booking system on the website * To confirm  |
 | [Averau](https://rifugioaverau.bukly.com/) | backup | [24 Jun](https://rifugioaverau.bukly.com/hotel/2027-06-24/2027-06-25) | **LIVE - your night full** | 2027 calendar live (88 nights open), your night closed |
 | ✅ [Città di Fiume](https://rifugiocittadifiume.it/prenota/) | preferred | 25 Jun | **BOOKED** | Booked for Fri 25 Jun 2027 - checks and alerts stopped |
 | ✅ [Sonino al Coldai](https://rifugiocoldai.com/Booking/index_en.php) | preferred | 26 Jun | **BOOKED** | Booked for Sat 26 Jun 2027 (moved from 25 Jun) - checks and alerts stopped |
