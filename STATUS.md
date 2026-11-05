@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **05 Nov 2026 17:05 Kuala Lumpur** · 10:05 Italy
+Last check: **05 Nov 2026 18:05 Kuala Lumpur** · 11:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -10,9 +10,9 @@ Trip: 2 guests · dorm only · half board
 |---|---|---|---|---|
 | [Sennes](https://www.sennes.com/en/contact/) | preferred | 21 Jun | **WATCHING PAGE** | no booking-text change |
 | [Biella](https://www.planyo.com/booking/Rifugio-Biella) | backup | 21 Jun | **WATCHING PAGE** | no booking-text change |
-| [Lavarella](https://lavarella.it/en/book-online) | preferred | 22 Jun | **WATCHING PAGE** | no booking-text change |
-| [Ücia dles Muntagnoles](https://muntagnoles.com/index.php/it/info-prenotazioni) | backup | 22 Jun | **WATCHING PAGE** | no booking-text change |
-| [Lagazuoi](https://rifugiolagazuoi.com/index_en.php) | preferred | 23 Jun | **LIVE - your night full** | portal live, your night full |
+| [Lavarella](https://lavarella.it/en/book-online) | preferred | 22 Jun | **WATCHING PAGE** | page text changed: s://lavarella.it/en/prices/wiinter) * [Meteo](https://www.dolomitesmeteo.it/fanes/) [AVAILABILITY & BOOKING](https://lavarella.it/en/book-online) [San Vigilio di Marebbe 39030 - ITA |
+| [Ücia dles Muntagnoles](https://muntagnoles.com/index.php/it/info-prenotazioni) | backup | 22 Jun | **WATCHING PAGE** | page text changed: In caso di cancellazione, la caparra versata sarà trattenuta e non verrà restituita._ ![Image 13](https://muntagnoles.com/images/Signs/reservation-icon.png) * * * **Pagamenti** _Acc |
+| [Lagazuoi](https://rifugiolagazuoi.com/index_en.php) | preferred | 23 Jun | **ERROR** | site showed a bot check ("One moment, please") - will retry |
 | ✅ [Scotoni](https://scotoni.bukly.com/it) | backup | 23 Jun | **BOOKED** | Booked for Wed 23 Jun 2027 - checks and alerts stopped |
 | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | 24 Jun | **WATCHING PAGE** | no booking-text change |
 | [Averau](https://www.rifugioaverau.it/en/) | backup | 24 Jun | **ERROR** | rifugioaverau.bukly.com: HTTPError |
