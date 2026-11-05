@@ -1,0 +1,1 @@
+{"message":"Questo campo deve essere un numero intero.","errors":{"hotel":["Questo campo deve essere un numero intero."]}}

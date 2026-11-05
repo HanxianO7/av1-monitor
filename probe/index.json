@@ -1,32 +1,56 @@
 [
  {
-  "name": "averau_root",
+  "name": "av_hotel",
   "status": 200,
-  "bytes": 189536,
-  "url": "https://rifugioaverau.bukly.com/"
+  "bytes": 184222,
+  "url": "https://rifugioaverau.bukly.com/hotel/2027-06-24/2027-06-25"
  },
  {
-  "name": "averau_old_dated",
-  "status": 404,
-  "bytes": 135081,
-  "url": "https://rifugioaverau.bukly.com/it/hotel/2027-06-24/2027-06-25/"
- },
- {
-  "name": "averau_old2_dated",
-  "status": 500,
-  "bytes": 0,
-  "url": "https://averau.bukly.com/it/hotel/2027-06-24/2027-06-25/"
- },
- {
-  "name": "scotoni_root",
+  "name": "av_itit_hotel",
   "status": 200,
-  "bytes": 198913,
-  "url": "https://scotoni.bukly.com/"
+  "bytes": 184222,
+  "url": "https://rifugioaverau.bukly.com/it-it/hotel/2027-06-24/2027-06-25"
  },
  {
-  "name": "scotoni_old_dated",
-  "status": 404,
-  "bytes": 132291,
-  "url": "https://scotoni.bukly.com/it/hotel/2027-06-23/2027-06-24/"
+  "name": "av_view_id",
+  "status": 200,
+  "bytes": 184233,
+  "url": "https://rifugioaverau.bukly.com/d/hotel_view/3312/2027-06-24/2027-06-25",
+  "headers": {
+   "Accept": "application/json",
+   "X-Requested-With": "XMLHttpRequest"
+  }
+ },
+ {
+  "name": "av_view_slug",
+  "status": 422,
+  "bytes": 122,
+  "url": "https://rifugioaverau.bukly.com/d/hotel_view/rifugioaverau/2027-06-24/2027-06-25",
+  "headers": {
+   "Accept": "application/json",
+   "X-Requested-With": "XMLHttpRequest"
+  }
+ },
+ {
+  "name": "av_view_dec",
+  "status": 200,
+  "bytes": 184233,
+  "url": "https://rifugioaverau.bukly.com/d/hotel_view/3312/2026-12-20/2026-12-21",
+  "headers": {
+   "Accept": "application/json",
+   "X-Requested-With": "XMLHttpRequest"
+  }
+ },
+ {
+  "name": "av_hotel_dec",
+  "status": 200,
+  "bytes": 184222,
+  "url": "https://rifugioaverau.bukly.com/hotel/2026-12-20/2026-12-21"
+ },
+ {
+  "name": "av_index_js",
+  "status": 200,
+  "bytes": 64216,
+  "url": "https://rifugioaverau.bukly.com/build/assets/Index-BzzCAaoM.js"
  }
 ]
