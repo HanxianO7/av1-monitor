@@ -1,6 +1,6 @@
 # Alta Via 1 booking monitor
 
-Last check: **07 Nov 2026 00:05 Kuala Lumpur** · 17:05 Italy
+Last check: **07 Nov 2026 01:05 Kuala Lumpur** · 18:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
@@ -11,7 +11,7 @@ Trip: 2 guests · dorm only · half board
 | [Sennes](https://www.sennes.com/en/contact/) | preferred | 21 Jun | **WATCHING PAGE** | no booking-text change |
 | [Biella](https://www.planyo.com/booking/Rifugio-Biella) | backup | 21 Jun | **WATCHING PAGE** | no booking-text change |
 | [Lavarella](https://lavarella.it/en/book-online) | preferred | 22 Jun | **WATCHING PAGE** | no booking-text change |
-| [Ücia dles Muntagnoles](https://muntagnoles.com/index.php/it/info-prenotazioni) | backup | 22 Jun | **WATCHING PAGE** | page text changed: In caso di cancellazione, la caparra versata sarà trattenuta e non verrà restituita._ ![Image 13](https://muntagnoles.com/images/Signs/reservation-icon.png) * * * **Pagamenti** _Acc |
+| [Ücia dles Muntagnoles](https://muntagnoles.com/index.php/it/info-prenotazioni) | backup | 22 Jun | **WATCHING PAGE** | page text changed: +39 347 5214753 Prezzi Chiediamo cortesemente di farci una richiesta, tramite il modulo sottostante o tramite email Prenotazioni Alla conferma facciamo richiesta di una caparra di 6 |
 | [Lagazuoi](https://rifugiolagazuoi.com/index_en.php) | preferred | 23 Jun | **LIVE - your night full** | portal live, your night full |
 | ✅ [Scotoni](https://scotoni.bukly.com/it) | backup | 23 Jun | **BOOKED** | Booked for Wed 23 Jun 2027 - checks and alerts stopped |
 | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | 24 Jun | **WATCHING PAGE** | no booking-text change |
