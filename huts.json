@@ -76,7 +76,12 @@
    ],
    "book_url": "https://muntagnoles.com/index.php/it/info-prenotazioni",
    "stated": "Bookings by request only (form or info@muntagnoles.com), no online calendar; open June to end of September (per hut's website)",
-   "alert_changes": true
+   "alert_changes": true,
+   "booked": {
+    "plan": "A",
+    "note": "Booked for Tue 22 Jun 2027 - checks and alerts stopped",
+    "confirmed": true
+   }
   },
   {
    "id": "lagazuoi",
