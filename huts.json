@@ -101,13 +101,13 @@
    "name": "Nuvolau",
    "night": "2027-06-24",
    "role": "preferred",
-   "check": "page",
-   "pages": [
-    "https://rifugionuvolau.it/",
-    "https://rifugionuvolau.it/en/booking/",
-    "https://rifugionuvolau.it/en/booking-form/"
-   ],
-   "book_url": "https://rifugionuvolau.it/en/booking-form/"
+   "check": "vik",
+   "base": "https://rifugionuvolau.it",
+   "room_ids": [4, 6, 8, 5, 7],
+   "control_months": ["2027-07", "2027-08", "2027-09"],
+   "alert_live": true,
+   "book_url": "https://rifugionuvolau.it/en/availability/",
+   "stated": "2027 online bookings open January 2027 (per the hut)"
   },
   {
    "id": "averau",
