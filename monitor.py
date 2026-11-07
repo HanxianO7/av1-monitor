@@ -34,7 +34,7 @@ GUESTS = CFG["trip"]["guests"]
 ALERTS = CFG["alerts"]
 # Date plans: each hut's "night" is the first plan's night; other plans shift it.
 PLANS = CFG["trip"].get("plans") or [{"id": "A", "label": "Plan A", "shift_days": 0}]
-DATED = {"engine", "bukly", "cai"}  # checks that look at a specific night
+DATED = {"engine", "bukly", "cai", "vik"}  # checks that look at a specific night
 ROME, KL = ZoneInfo("Europe/Rome"), ZoneInfo("Asia/Kuala_Lumpur")
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -310,6 +310,76 @@ def check_bukly(hut, nights, prevs):
     return {pid: dict(err) for pid in nights}
 
 
+# ---------------------------------------------------------------- VikBooking (Nuvolau)
+# The availability page shows one month per bed type, one cell per day:
+# <td data-cell-date="24/06/2027"><span data-units-booked="3" data-units-left="0">.
+# Every bed type is a bed in a shared room, so units left = dorm beds left.
+# Before the season opens the hut's whole month shows 0 left.
+VIK_TABLE_RE = re.compile(r'data-room-table="(\d+)"(.*?)</table>', re.S)
+VIK_CELL_RE = re.compile(r'data-cell-date="(\d\d)/(\d\d)/(\d{4})"[^>]*>\s*<span[^>]*'
+                         r'data-units-booked="\d+"\s+data-units-left="(\d+)"')
+VIK_MONTH_RE = re.compile(r'<option value="(\d+)" selected="selected">')
+
+
+def vik_link(hut, month):
+    ts = int(dt.datetime(int(month[:4]), int(month[5:7]), 1, tzinfo=dt.timezone.utc).timestamp())
+    rooms = "".join(f"&room_ids%5B{i}%5D={r}" for i, r in enumerate(hut["room_ids"]))
+    return f"{hut['base']}/en/availability/?view=availability&month={ts}{rooms}", str(ts)
+
+
+def vik_month(hut, month):
+    """{date: dorm beds left, summed over bed types} for one month ("YYYY-MM")."""
+    url, ts = vik_link(hut, month)
+    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+    r.raise_for_status()
+    time.sleep(PAUSE)
+    m = VIK_MONTH_RE.search(r.text)
+    if not m or m.group(1) != ts:
+        raise ValueError(f"availability page didn't show {month}")
+    left = {}
+    for _, table in VIK_TABLE_RE.findall(r.text):
+        for dd, mm, yyyy, n in VIK_CELL_RE.findall(table):
+            day = f"{yyyy}-{mm}-{dd}"
+            if day[:7] != month:  # only the month asked for
+                continue
+            left[day] = left.get(day, 0) + int(n)
+    if not left:
+        raise ValueError("availability calendar not found (layout changed?)")
+    return left
+
+
+def check_vik(hut, nights, prevs):
+    """Your night's month every run, plus one rotating control month, so the
+    season going live is seen even if your own month stays shut.
+    nights/prevs are keyed by plan id; returns a result per plan id."""
+    months = list(dict.fromkeys(n[:7] for n in nights.values()))
+    controls = [m for m in hut.get("control_months", []) if m not in months]
+    if controls:
+        months.append(controls[now_utc().hour % len(controls)])
+    cal = {}
+    for m in months:
+        cal.update(vik_month(hut, m))
+    open_days = sorted(k for k, v in cal.items() if v)
+    results = {}
+    for pid, night in nights.items():
+        link = vik_link(hut, night[:7])[0]
+        out = {"link": link, "dated_link": link}
+        beds = cal.get(night)
+        if beds is None:
+            results[pid] = {**out, "status": ERROR, "detail": f"{night} missing from calendar"}
+        elif beds >= GUESTS:
+            results[pid] = {**out, "status": AVAILABLE, "detail": f"{beds} dorm beds shown for your night"}
+        elif open_days:
+            note = f" (only {beds} bed left)" if beds else ""
+            results[pid] = {**out, "status": LIVE_FULL, "detail": (
+                f"calendar live ({len(open_days)} open nights seen, e.g. {open_days[0]}), "
+                f"your night full{note}")}
+        else:
+            results[pid] = {**out, "status": NOT_LIVE,
+                            "detail": f"all nights closed in {', '.join(months)}"}
+    return results
+
+
 # ---------------------------------------------------------------- CAI Prenota Rifugi
 CAI_API = "https://booking.prenotarifugi.cai.it/backend/web/api/1.0/it/json/get/shelter/byAttributes"
 # disponibilita.stato codes, from the site's own labels (window.disponibilitaLabels)
@@ -481,7 +551,7 @@ def check_manual(hut, prev):
             "link": hut.get("book_url", "")}
 
 
-CHECKS = {"engine": check_engine, "bukly": check_bukly, "cai": check_cai, "page": check_page, "manual": check_manual}
+CHECKS = {"engine": check_engine, "bukly": check_bukly, "cai": check_cai, "vik": check_vik, "page": check_page, "manual": check_manual}
 
 
 # ---------------------------------------------------------------- telegram
@@ -663,8 +733,9 @@ def main():
                 last = dt.datetime.fromisoformat(res["alerted"])
                 if ts - last >= dt.timedelta(hours=ALERTS["remind_hours"]):
                     send = alert_text(hut, res, plan, reminder=True)
-            elif status == LIVE_FULL and pstatus == NOT_LIVE and ALERTS["portal_live"]:
-                send = f"🔵 <b>{esc(hut['name'])}</b>{esc(tag)}: 2027 portal is live, but your night is full."
+            elif status == LIVE_FULL and pstatus == NOT_LIVE and (ALERTS["portal_live"] or hut.get("alert_live")):
+                send = (f"🔵 <b>{esc(hut['name'])}</b>{esc(tag)}: 2027 portal is live, but your night is full."
+                        f"\n{esc(res.get('detail', ''))}\n{esc(res.get('dated_link') or res['link'])}")
             elif status == WATCHING and res.get("changed") and (ALERTS["page_changes"] or hut.get("alert_changes")):
                 send = f"📝 <b>{esc(hut['name'])}</b> booking text changed:\n{esc(res['detail'])}\n{esc(res['link'])}"
             elif (status == ERROR and res["errors"] == ALERTS["error_after_runs"]

@@ -4,14 +4,13 @@ Last check: **07 Nov 2026 12:05 Kuala Lumpur** · 05:05 Italy
 
 Trip: 2 guests · dorm only · half board
 
-- **Plan A** (21 Jun - 30 Jun): beds showing on 0 of 10 nights · booked: 23 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun
+- **Plan A** (21 Jun - 30 Jun): beds showing on 0 of 10 nights · booked: 22 Jun, 23 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun
 
 | Hut | Role | Plan A night | Plan A status | Detail |
 |---|---|---|---|---|
 | [Sennes](https://www.sennes.com/en/contact/) | preferred | 21 Jun | **WATCHING PAGE** | no booking-text change |
 | [Biella](https://www.planyo.com/booking/Rifugio-Biella) | backup | 21 Jun | **WATCHING PAGE** | no booking-text change |
-| [Lavarella](https://lavarella.it/en/book-online) | preferred | 22 Jun | **WATCHING PAGE** | no booking-text change |
-| [Ücia dles Muntagnoles](https://muntagnoles.com/index.php/it/info-prenotazioni) | backup | 22 Jun | **WATCHING PAGE** | no booking-text change |
+| ✅ [Ücia dles Muntagnoles](https://muntagnoles.com/index.php/it/info-prenotazioni) | backup | 22 Jun | **BOOKED** | Booked for Tue 22 Jun 2027 - checks and alerts stopped |
 | [Lagazuoi](https://rifugiolagazuoi.com/index_en.php) | preferred | 23 Jun | **LIVE - your night full** | portal live, your night full |
 | ✅ [Scotoni](https://scotoni.bukly.com/it) | backup | 23 Jun | **BOOKED** | Booked for Wed 23 Jun 2027 - checks and alerts stopped |
 | [Nuvolau](https://rifugionuvolau.it/en/booking-form/) | preferred | 24 Jun | **WATCHING PAGE** | no booking-text change |

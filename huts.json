@@ -52,19 +52,6 @@
    "watch_banner": "APERTURA PRENOTAZIONI"
   },
   {
-   "id": "lavarella",
-   "name": "Lavarella",
-   "night": "2027-06-22",
-   "role": "preferred",
-   "check": "page",
-   "pages": [
-    "https://lavarella.it/",
-    "https://lavarella.it/en/book-online"
-   ],
-   "book_url": "https://lavarella.it/en/book-online",
-   "stated": "Summer bookings open early November 2026 (per Lavarella's reply)"
-  },
-  {
    "id": "muntagnoles",
    "name": "Ücia dles Muntagnoles",
    "night": "2027-06-22",
@@ -76,7 +63,12 @@
    ],
    "book_url": "https://muntagnoles.com/index.php/it/info-prenotazioni",
    "stated": "Bookings by request only (form or info@muntagnoles.com), no online calendar; open June to end of September (per hut's website)",
-   "alert_changes": true
+   "alert_changes": true,
+   "booked": {
+    "plan": "A",
+    "note": "Booked for Tue 22 Jun 2027 - checks and alerts stopped",
+    "confirmed": true
+   }
   },
   {
    "id": "lagazuoi",
@@ -109,13 +101,13 @@
    "name": "Nuvolau",
    "night": "2027-06-24",
    "role": "preferred",
-   "check": "page",
-   "pages": [
-    "https://rifugionuvolau.it/",
-    "https://rifugionuvolau.it/en/booking/",
-    "https://rifugionuvolau.it/en/booking-form/"
-   ],
-   "book_url": "https://rifugionuvolau.it/en/booking-form/"
+   "check": "vik",
+   "base": "https://rifugionuvolau.it",
+   "room_ids": [4, 6, 8, 5, 7],
+   "control_months": ["2027-07", "2027-08", "2027-09"],
+   "alert_live": true,
+   "book_url": "https://rifugionuvolau.it/en/availability/",
+   "stated": "2027 online bookings open January 2027 (per the hut)"
   },
   {
    "id": "averau",
