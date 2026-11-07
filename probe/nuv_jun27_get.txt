@@ -1,0 +1,2619 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="//gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.8 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Availability - Rifugio Nuvolau</title>
+	<meta name="description" content="Prenota ora il Rifugio Nuvolau: verifica la disponibilità e vivi un’esperienza unica sulle Dolomiti." />
+	<link rel="canonical" href="https://rifugionuvolau.it/en/availability/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Availability - Rifugio Nuvolau" />
+	<meta property="og:description" content="Prenota ora il Rifugio Nuvolau: verifica la disponibilità e vivi un’esperienza unica sulle Dolomiti." />
+	<meta property="og:url" content="https://rifugionuvolau.it/en/availability/" />
+	<meta property="og:site_name" content="Rifugio Nuvolau" />
+	<meta property="article:modified_time" content="2026-03-18T15:28:59+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/rifugionuvolau.it\/en\/availability\/","url":"https:\/\/rifugionuvolau.it\/en\/availability\/","name":"Availability - Rifugio Nuvolau","isPartOf":{"@id":"https:\/\/rifugionuvolau.it\/en\/#website"},"datePublished":"2026-03-18T14:42:09+00:00","dateModified":"2026-03-18T15:28:59+00:00","description":"Prenota ora il Rifugio Nuvolau: verifica la disponibilità e vivi un’esperienza unica sulle Dolomiti.","breadcrumb":{"@id":"https:\/\/rifugionuvolau.it\/en\/availability\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/rifugionuvolau.it\/en\/availability\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/rifugionuvolau.it\/en\/availability\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/rifugionuvolau.it\/en\/"},{"@type":"ListItem","position":2,"name":"Availability"}]},{"@type":"WebSite","@id":"https:\/\/rifugionuvolau.it\/en\/#website","url":"https:\/\/rifugionuvolau.it\/en\/","name":"Rifugio Nuvolau","description":"Cortina d'Ampezzo - 2.575 m","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/rifugionuvolau.it\/en\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//challenges.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
+<link rel="alternate" type="application/rss+xml" title="Rifugio Nuvolau &raquo; Feed" href="https://rifugionuvolau.it/en/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Rifugio Nuvolau &raquo; Comments Feed" href="https://rifugionuvolau.it/en/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://rifugionuvolau.it/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frifugionuvolau.it%2Fen%2Favailability%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://rifugionuvolau.it/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frifugionuvolau.it%2Fen%2Favailability%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='swiper-css' href='https://rifugionuvolau.it/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='sbi-tokens-local-css' href='https://rifugionuvolau.it/wp-content/plugins/instagram-feed/assets/tokens/sb-tokens-local.css?ver=6.15.1' media='all' />
+<link rel='stylesheet' id='sbi_styles-css' href='https://rifugionuvolau.it/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.15.1' media='all' />
+<link rel='stylesheet' id='sb-elementor-shared-style-css' href='https://rifugionuvolau.it/wp-content/plugins/instagram-feed/vendor/smashballoon/framework/Packages/Blocks/css/sb-elementor.css?ver=1.0.0' media='all' />
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #202236;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--main-theme: #dcb14f;--wp--preset--color--gray: #f0ebe1;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 14px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 24px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--regular: 16px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-main-theme-color{color: var(--wp--preset--color--main-theme) !important;}.has-gray-color{color: var(--wp--preset--color--gray) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-main-theme-background-color{background-color: var(--wp--preset--color--main-theme) !important;}.has-gray-background-color{background-color: var(--wp--preset--color--gray) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-main-theme-border-color{border-color: var(--wp--preset--color--main-theme) !important;}.has-gray-border-color{border-color: var(--wp--preset--color--gray) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-regular-font-size{font-size: var(--wp--preset--font-size--regular) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-gallery.is-layout-flex){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}:where(.wp-block-gallery.is-layout-grid){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+:where(.wp-block-latest-posts.is-layout-flex){gap: 1.25em;}:where(.wp-block-latest-posts.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='ae-pro-css-css' href='https://rifugionuvolau.it/wp-content/plugins/anywhere-elementor/includes/assets/css/ae-pro.min.css?ver=1.3.1' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://rifugionuvolau.it/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.2.4.1' media='all' />
+<link rel='stylesheet' id='wpa-css-css' href='https://rifugionuvolau.it/wp-content/plugins/honeypot/includes/css/wpa.css?ver=2.4.02' media='all' />
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css' href='https://rifugionuvolau.it/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=520000' media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css' href='https://rifugionuvolau.it/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=520000' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://rifugionuvolau.it/wp-content/themes/milatte/assets/css/bootstrap-grid.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='milatte-theme-style-css' href='https://rifugionuvolau.it/wp-content/themes/milatte-child/style.css?ver=1.0' media='all' />
+<style id="milatte-theme-style-inline-css">
+			:root {			  --main:   #90a958 !important;			  --second:   #90a958 !important;			  --gray:   #f8f6f1 !important;			  --black:  #202236 !important;			  --black-dark:  #121317 !important;			  --white:  #FFFFFF !important;			  --red:   #e43f13 !important;			  --yellow:   #fca000 !important;			  --footer-color:   transparent !important;			  --green:   #2eca91 !important;--font-main: 'Raleway' !important;--font-headers: 'Sue Ellen Francisco' !important;--font-subheaders: 'Raleway' !important;			  			}				.lte-page-header { background-image: url(https://rifugionuvolau.it/wp-content/uploads/2025/09/rifugio_nuvolau_bg03.jpg) !important; } #content-sidebar .widget_search, #content-sidebar .widget_product_search { background-image: url() !important; } .woocommerce-MyAccount-navigation, .widget-area { background-image: url() !important; } #lte-nav-wrapper.lte-layout-pattern .lte-navbar { background-image: url() !important; } .go-top:before { background-image: url() !important; } .lte-logo img { max-height: 75px !important; } .lte-layout-desktop-center-transparent .lte-navbar .lte-logo img { max-height: 75px !important; } 
+/*# sourceURL=milatte-theme-style-inline-css */
+</style>
+<link rel='stylesheet' id='milatte-parent-style-css' href='https://rifugionuvolau.it/wp-content/themes/milatte/style.css?ver=7.1' media='all' />
+<link rel='stylesheet' id='milatte-child-style-css' href='https://rifugionuvolau.it/wp-content/themes/milatte-child/style.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://rifugionuvolau.it/wp-content/themes/milatte/assets/fonts/font-awesome/css/all.min.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='font-awesome-shims-css' href='https://rifugionuvolau.it/wp-content/themes/milatte/assets/fonts/font-awesome/css/v4-shims.min.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='https://rifugionuvolau.it/wp-content/themes/milatte/assets/css/magnific-popup.css?ver=1.1.0' media='all' />
+<link rel='stylesheet' id='lte-font-css' href='https://rifugionuvolau.it/wp-content/themes/milatte/assets/fonts/lte-font-codes.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://rifugionuvolau.it/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.54.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://rifugionuvolau.it/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1793827969' media='all' />
+<style id="elementor-frontend-inline-css">
+.elementor-kit-13200{--e-global-color-primary:#DCB14F;--e-global-color-secondary:#DCB14F;--e-global-color-text:#2E2937BF;--e-global-color-accent:#61CE70;--e-global-color-40581f4e:#FFFFFF99;--e-global-color-6dc76ba4:#F4EEE9;--e-global-color-5c405526:#2E2937;--e-global-color-524ee74:#FFF;--e-global-color-adf3e93:#121317;--e-global-color-d70b063:#CCCACA;--e-global-color-1d9d5ee:#90A958;--e-global-typography-primary-font-family:"Open Sans";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Marcellus";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Open Sans";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Tangerine";--e-global-typography-accent-font-weight:500;--e-global-typography-1268224-font-family:"quentin";}.elementor-kit-13200 h1{font-weight:300;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1200px;}.e-con{--container-max-width:1200px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1599px){.elementor-kit-13200 h1{letter-spacing:5px;}}@media(max-width:1199px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}@media(min-width:2200px){.elementor-kit-13200 h1{letter-spacing:5.5px;}}
+.elementor-47083 .elementor-element.elementor-element-20e80ea9{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--overlay-opacity:0;--margin-top:60px;--margin-bottom:100px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:20px;--padding-right:20px;}.elementor-47083 .elementor-element.elementor-element-20e80ea9::before, .elementor-47083 .elementor-element.elementor-element-20e80ea9 > .elementor-background-video-container::before, .elementor-47083 .elementor-element.elementor-element-20e80ea9 > .e-con-inner > .elementor-background-video-container::before, .elementor-47083 .elementor-element.elementor-element-20e80ea9 > .elementor-background-slideshow::before, .elementor-47083 .elementor-element.elementor-element-20e80ea9 > .e-con-inner > .elementor-background-slideshow::before, .elementor-47083 .elementor-element.elementor-element-20e80ea9 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{--background-overlay:'';}.elementor-47083 .elementor-element.elementor-element-8d28249{--display:flex;--min-height:760px;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--overlay-opacity:0.5;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-47083 .elementor-element.elementor-element-8d28249:not(.elementor-motion-effects-element-type-background), .elementor-47083 .elementor-element.elementor-element-8d28249 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://rifugionuvolau.it/wp-content/uploads/2025/09/rifugio_nuvolau_bg05.jpg");background-repeat:no-repeat;background-size:cover;}.elementor-47083 .elementor-element.elementor-element-8d28249::before, .elementor-47083 .elementor-element.elementor-element-8d28249 > .elementor-background-video-container::before, .elementor-47083 .elementor-element.elementor-element-8d28249 > .e-con-inner > .elementor-background-video-container::before, .elementor-47083 .elementor-element.elementor-element-8d28249 > .elementor-background-slideshow::before, .elementor-47083 .elementor-element.elementor-element-8d28249 > .e-con-inner > .elementor-background-slideshow::before, .elementor-47083 .elementor-element.elementor-element-8d28249 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:#0000004F;--background-overlay:'';}.elementor-47083 .elementor-element.elementor-element-395459f{text-align:center;}.elementor-47083 .elementor-element.elementor-element-395459f > .elementor-widget-container{margin:0px 0px 32px 0px;}.elementor-47083 .elementor-element.elementor-element-395459f .lte-header{line-height:1.2em;}.elementor-47083 .elementor-element.elementor-element-78b12ba{text-align:center;}.elementor-47083 .elementor-element.elementor-element-78b12ba .lte-btn{color:#FFFFFF;font-size:16px;}@media(max-width:1599px){.elementor-47083 .elementor-element.elementor-element-20e80ea9{--min-height:200px;--justify-content:flex-start;}}@media(max-width:767px){.elementor-47083 .elementor-element.elementor-element-20e80ea9{--margin-top:60px;--margin-bottom:100px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:20px;--padding-right:20px;}.elementor-47083 .elementor-element.elementor-element-8d28249{--min-height:700px;}}
+/*# sourceURL=elementor-frontend-inline-css */
+</style>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CSue%20Ellen%20Francisco:400&#038;subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese&#038;display=swap&#038;ver=7.1" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CSue%20Ellen%20Francisco:400&#038;subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese&#038;display=swap&#038;ver=7.1" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CSue%20Ellen%20Francisco:400&#038;subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese&#038;display=swap&#038;ver=7.1" /></noscript><link rel='stylesheet' id='elementor-gf-local-opensans-css' href='https://rifugionuvolau.it/wp-content/uploads/elementor/google-fonts/css/opensans.css?ver=1751981401' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-marcellus-css' href='https://rifugionuvolau.it/wp-content/uploads/elementor/google-fonts/css/marcellus.css?ver=1751981401' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-tangerine-css' href='https://rifugionuvolau.it/wp-content/uploads/elementor/google-fonts/css/tangerine.css?ver=1751981401' media='all' />
+<script id="wpml-cookie-js-extra">
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":"Sun, 08 Nov 2026 01:51:17 GMT","maxAge":86400,"path":"/"}};
+//# sourceURL=wpml-cookie-js-extra
+</script>
+<script data-wp-strategy="defer" defer id="wpml-cookie-js" src="https://rifugionuvolau.it/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=520000"></script>
+<script id="jquery-core-js" src="https://rifugionuvolau.it/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://rifugionuvolau.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="jquery-tilt-js" src="https://rifugionuvolau.it/wp-content/plugins/lte-ext/assets/js/tilt.jquery.js?ver=1.1.19"></script>
+<script id="jquery-paroller-js" src="https://rifugionuvolau.it/wp-content/plugins/lte-ext/assets/js/jquery.paroller.js?ver=1.4.7"></script>
+<script id="modernizr-js" src="https://rifugionuvolau.it/wp-content/themes/milatte/assets/js/modernizr-2.6.2.min.js?ver=2.6.2"></script>
+<link rel="https://api.w.org/" href="https://rifugionuvolau.it/en/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://rifugionuvolau.it/en/wp-json/wp/v2/pages/47083" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rifugionuvolau.it/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1" />
+<link rel='shortlink' href='https://rifugionuvolau.it/en/?p=47083' />
+<meta name="generator" content="WPML ver:5.2.0 stt:1,3,27,2;" />
+<meta name="generator" content="Redux 4.5.14" /><!-- Analytics by WP Statistics - https://wp-statistics.com -->
+<meta name="generator" content="Elementor 4.3.6; features: additional_custom_breakpoints; settings: css_print_method-internal, google_font-enabled, font_display-auto">
+<script type="text/javascript">
+(function($) {
+	'use strict';
+
+	if ($.fn.chosen === undefined) {
+		$.fn.chosen = function(data) {
+			// iterate all selected elements
+			$(this).each(function() {
+				// check is we have a multiple select
+				var isMultiple = $(this).prop('multiple');
+
+				if (!0 && !isMultiple) {
+					// do not go ahead in case we don't need a custom plugin
+					// to handle standard dropdowns
+					return this;
+				}
+
+				if (data !== undefined) {
+					// invoke requested method (e.g. destroy)
+					$(this).select2(data);
+				} else {
+					data = {};
+					data.width       = isMultiple ? 300 : 200;
+					data.allowClear  = $(this).hasClass('required') ? false : true;
+					data.placeholder = Joomla.JText._('JGLOBAL_SELECT_AN_OPTION');
+
+					var firstOption = $(this).find('option').first();
+
+					// in case we don't have an empty option, unset placeholder
+					if (!isMultiple && firstOption.length && firstOption.val().length > 0) {
+						data.allowClear  = false;
+						data.placeholder = null;
+					}
+
+					// turn off search when there are 5 options or less
+					if ($(this).find('option').length <= 5) {
+						data.minimumResultsForSearch = -1;
+					}
+
+					// init select2 plugin
+					$(this).select2(data);
+				}
+			});
+
+			return this;
+		}
+	}
+})(jQuery);
+</script>
+<script type="text/javascript">
+(function($) {
+	'use strict';
+
+	$(function() {
+		$('.btn-toolbar')
+			.find('select')
+				.chosen()
+					.on('chosen:updated', function() {
+						// refresh select2 value when triggered
+						// $(this).select2('val', $(this).val());
+					});
+	});
+})(jQuery);
+</script>
+<script type="text/javascript">
+if (typeof JFormValidator !== 'undefined') {
+	JFormValidator.prototype.getLabel = function(input) {
+		var name = jQuery(input).attr('name');	
+
+		if (this.labels.hasOwnProperty(name)) {
+			return jQuery(this.labels[name]);
+		}
+
+		return jQuery(input).parent().find('label').first();
+	}
+}
+</script>
+<script type="text/javascript">
+if (typeof VIK_WIDGET_SAVE_LOOKUP === 'undefined') {
+	var VIK_WIDGET_SAVE_LOOKUP = {};
+}
+
+(function($) {
+	$(document).on('widget-added', function(event, control) {
+		registerWidgetScripts($(control).find('form'));
+	});
+
+	function registerWidgetScripts(form) {
+		if (!form) {
+			// if the form was not provided, find it using the widget ID (before WP 5.8)
+			form = $('div[id$="mod_vikbooking_channelrates-1"] form');
+		}
+
+		if (typeof JFormValidator !== 'undefined') {
+			// init internal validator
+			var validator = new JFormValidator(form);
+
+			// validate fields every time the SAVE button is clicked
+			form.find('input[name="savewidget"]').on('click', function(event) {
+				return validator.validate();
+			});
+		}
+
+		// init select2 on dropdown with multiple selection
+		if (jQuery.fn.select2) {
+			form.find('select[multiple]').select2({
+				width: '100%'
+			});
+		}
+
+		// initialize popover within the form
+		if (jQuery.fn.popover) {
+			form.find('.inline-popover').popover({sanitize: false, container: 'body'});
+		}
+	}
+
+	$(function() {
+		// If the widget is not a template, register the scripts.
+		// A widget template ID always ends with "__i__"
+		if (!"mod_vikbooking_channelrates-1".match(/__i__$/)) {
+			registerWidgetScripts();
+		}
+
+		// Attach event to the "ADD WIDGET" button
+		$('.widgets-chooser-add').on('click', function(e) {
+			// find widget parent of the clicked button
+			var parent = this.closest('div[id$="mod_vikbooking_channelrates-1"]');
+
+			if (!parent) {
+				return;
+			}
+
+			// extract ID from the template parent (exclude "__i__")
+			var id = $(parent).attr('id').match(/(.*?)__i__$/);
+
+			if (!id) {
+				return;
+			}
+
+			// register scripts with a short delay to make sure the
+			// template has been moved on the right side
+			setTimeout(function() {
+				// obtain the box that has been created
+				var createdForm = $('div[id^="' + id.pop() + '"]').last();
+
+				// find form within the box
+				var _form = $(createdForm).find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(_form);
+			}, 32);
+		});
+
+		// register save callback for this kind of widget only once
+		if (!VIK_WIDGET_SAVE_LOOKUP.hasOwnProperty('mod_vikbooking_channelrates')) {
+			// flag as loaded
+			VIK_WIDGET_SAVE_LOOKUP['mod_vikbooking_channelrates'] = 1;
+
+			// Attach event to SAVE callback
+			$(document).ajaxSuccess(function(event, xhr, settings) {
+				// make sure the request was used to save the widget settings
+				if (!settings.data || typeof settings.data !== 'string' || settings.data.indexOf('action=save-widget') === -1) {
+					// wrong request
+					return;
+				}
+
+				// extract widget ID from request
+				var widget_id = settings.data.match(/widget-id=([a-z0-9_-]+)(?:&|$)/i);
+
+				// make sure this is the widget that was saved
+				if (!widget_id) {
+					// wrong widget
+					return;
+				}
+
+				// get cleansed widget ID
+				widget_id = widget_id.pop();
+
+				// make sure the widget starts with this ID
+				if (widget_id.indexOf('mod_vikbooking_channelrates') !== 0) {
+					// wrong widget
+					return;
+				}
+
+				// obtain the box that has been updated
+				var updatedForm = $('div[id$="' + widget_id + '"]').find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(updatedForm);
+			});
+		}
+	});
+})(jQuery);
+</script>
+<script type="text/javascript">
+if (typeof JFormValidator !== 'undefined') {
+	JFormValidator.prototype.getLabel = function(input) {
+		var name = jQuery(input).attr('name');	
+
+		if (this.labels.hasOwnProperty(name)) {
+			return jQuery(this.labels[name]);
+		}
+
+		return jQuery(input).parent().find('label').first();
+	}
+}
+</script>
+<script type="text/javascript">
+if (typeof VIK_WIDGET_SAVE_LOOKUP === 'undefined') {
+	var VIK_WIDGET_SAVE_LOOKUP = {};
+}
+
+(function($) {
+	$(document).on('widget-added', function(event, control) {
+		registerWidgetScripts($(control).find('form'));
+	});
+
+	function registerWidgetScripts(form) {
+		if (!form) {
+			// if the form was not provided, find it using the widget ID (before WP 5.8)
+			form = $('div[id$="mod_vikbooking_chat-1"] form');
+		}
+
+		if (typeof JFormValidator !== 'undefined') {
+			// init internal validator
+			var validator = new JFormValidator(form);
+
+			// validate fields every time the SAVE button is clicked
+			form.find('input[name="savewidget"]').on('click', function(event) {
+				return validator.validate();
+			});
+		}
+
+		// init select2 on dropdown with multiple selection
+		if (jQuery.fn.select2) {
+			form.find('select[multiple]').select2({
+				width: '100%'
+			});
+		}
+
+		// initialize popover within the form
+		if (jQuery.fn.popover) {
+			form.find('.inline-popover').popover({sanitize: false, container: 'body'});
+		}
+	}
+
+	$(function() {
+		// If the widget is not a template, register the scripts.
+		// A widget template ID always ends with "__i__"
+		if (!"mod_vikbooking_chat-1".match(/__i__$/)) {
+			registerWidgetScripts();
+		}
+
+		// Attach event to the "ADD WIDGET" button
+		$('.widgets-chooser-add').on('click', function(e) {
+			// find widget parent of the clicked button
+			var parent = this.closest('div[id$="mod_vikbooking_chat-1"]');
+
+			if (!parent) {
+				return;
+			}
+
+			// extract ID from the template parent (exclude "__i__")
+			var id = $(parent).attr('id').match(/(.*?)__i__$/);
+
+			if (!id) {
+				return;
+			}
+
+			// register scripts with a short delay to make sure the
+			// template has been moved on the right side
+			setTimeout(function() {
+				// obtain the box that has been created
+				var createdForm = $('div[id^="' + id.pop() + '"]').last();
+
+				// find form within the box
+				var _form = $(createdForm).find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(_form);
+			}, 32);
+		});
+
+		// register save callback for this kind of widget only once
+		if (!VIK_WIDGET_SAVE_LOOKUP.hasOwnProperty('mod_vikbooking_chat')) {
+			// flag as loaded
+			VIK_WIDGET_SAVE_LOOKUP['mod_vikbooking_chat'] = 1;
+
+			// Attach event to SAVE callback
+			$(document).ajaxSuccess(function(event, xhr, settings) {
+				// make sure the request was used to save the widget settings
+				if (!settings.data || typeof settings.data !== 'string' || settings.data.indexOf('action=save-widget') === -1) {
+					// wrong request
+					return;
+				}
+
+				// extract widget ID from request
+				var widget_id = settings.data.match(/widget-id=([a-z0-9_-]+)(?:&|$)/i);
+
+				// make sure this is the widget that was saved
+				if (!widget_id) {
+					// wrong widget
+					return;
+				}
+
+				// get cleansed widget ID
+				widget_id = widget_id.pop();
+
+				// make sure the widget starts with this ID
+				if (widget_id.indexOf('mod_vikbooking_chat') !== 0) {
+					// wrong widget
+					return;
+				}
+
+				// obtain the box that has been updated
+				var updatedForm = $('div[id$="' + widget_id + '"]').find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(updatedForm);
+			});
+		}
+	});
+})(jQuery);
+</script>
+<script type="text/javascript">
+if (typeof JFormValidator !== 'undefined') {
+	JFormValidator.prototype.getLabel = function(input) {
+		var name = jQuery(input).attr('name');	
+
+		if (this.labels.hasOwnProperty(name)) {
+			return jQuery(this.labels[name]);
+		}
+
+		return jQuery(input).parent().find('label').first();
+	}
+}
+</script>
+<script type="text/javascript">
+if (typeof VIK_WIDGET_SAVE_LOOKUP === 'undefined') {
+	var VIK_WIDGET_SAVE_LOOKUP = {};
+}
+
+(function($) {
+	$(document).on('widget-added', function(event, control) {
+		registerWidgetScripts($(control).find('form'));
+	});
+
+	function registerWidgetScripts(form) {
+		if (!form) {
+			// if the form was not provided, find it using the widget ID (before WP 5.8)
+			form = $('div[id$="mod_vikbooking_currencyconverter-1"] form');
+		}
+
+		if (typeof JFormValidator !== 'undefined') {
+			// init internal validator
+			var validator = new JFormValidator(form);
+
+			// validate fields every time the SAVE button is clicked
+			form.find('input[name="savewidget"]').on('click', function(event) {
+				return validator.validate();
+			});
+		}
+
+		// init select2 on dropdown with multiple selection
+		if (jQuery.fn.select2) {
+			form.find('select[multiple]').select2({
+				width: '100%'
+			});
+		}
+
+		// initialize popover within the form
+		if (jQuery.fn.popover) {
+			form.find('.inline-popover').popover({sanitize: false, container: 'body'});
+		}
+	}
+
+	$(function() {
+		// If the widget is not a template, register the scripts.
+		// A widget template ID always ends with "__i__"
+		if (!"mod_vikbooking_currencyconverter-1".match(/__i__$/)) {
+			registerWidgetScripts();
+		}
+
+		// Attach event to the "ADD WIDGET" button
+		$('.widgets-chooser-add').on('click', function(e) {
+			// find widget parent of the clicked button
+			var parent = this.closest('div[id$="mod_vikbooking_currencyconverter-1"]');
+
+			if (!parent) {
+				return;
+			}
+
+			// extract ID from the template parent (exclude "__i__")
+			var id = $(parent).attr('id').match(/(.*?)__i__$/);
+
+			if (!id) {
+				return;
+			}
+
+			// register scripts with a short delay to make sure the
+			// template has been moved on the right side
+			setTimeout(function() {
+				// obtain the box that has been created
+				var createdForm = $('div[id^="' + id.pop() + '"]').last();
+
+				// find form within the box
+				var _form = $(createdForm).find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(_form);
+			}, 32);
+		});
+
+		// register save callback for this kind of widget only once
+		if (!VIK_WIDGET_SAVE_LOOKUP.hasOwnProperty('mod_vikbooking_currencyconverter')) {
+			// flag as loaded
+			VIK_WIDGET_SAVE_LOOKUP['mod_vikbooking_currencyconverter'] = 1;
+
+			// Attach event to SAVE callback
+			$(document).ajaxSuccess(function(event, xhr, settings) {
+				// make sure the request was used to save the widget settings
+				if (!settings.data || typeof settings.data !== 'string' || settings.data.indexOf('action=save-widget') === -1) {
+					// wrong request
+					return;
+				}
+
+				// extract widget ID from request
+				var widget_id = settings.data.match(/widget-id=([a-z0-9_-]+)(?:&|$)/i);
+
+				// make sure this is the widget that was saved
+				if (!widget_id) {
+					// wrong widget
+					return;
+				}
+
+				// get cleansed widget ID
+				widget_id = widget_id.pop();
+
+				// make sure the widget starts with this ID
+				if (widget_id.indexOf('mod_vikbooking_currencyconverter') !== 0) {
+					// wrong widget
+					return;
+				}
+
+				// obtain the box that has been updated
+				var updatedForm = $('div[id$="' + widget_id + '"]').find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(updatedForm);
+			});
+		}
+	});
+})(jQuery);
+</script>
+<script type="text/javascript">
+if (typeof JFormValidator !== 'undefined') {
+	JFormValidator.prototype.getLabel = function(input) {
+		var name = jQuery(input).attr('name');	
+
+		if (this.labels.hasOwnProperty(name)) {
+			return jQuery(this.labels[name]);
+		}
+
+		return jQuery(input).parent().find('label').first();
+	}
+}
+</script>
+<script type="text/javascript">
+if (typeof VIK_WIDGET_SAVE_LOOKUP === 'undefined') {
+	var VIK_WIDGET_SAVE_LOOKUP = {};
+}
+
+(function($) {
+	$(document).on('widget-added', function(event, control) {
+		registerWidgetScripts($(control).find('form'));
+	});
+
+	function registerWidgetScripts(form) {
+		if (!form) {
+			// if the form was not provided, find it using the widget ID (before WP 5.8)
+			form = $('div[id$="mod_vikbooking_horizontalsearch-1"] form');
+		}
+
+		if (typeof JFormValidator !== 'undefined') {
+			// init internal validator
+			var validator = new JFormValidator(form);
+
+			// validate fields every time the SAVE button is clicked
+			form.find('input[name="savewidget"]').on('click', function(event) {
+				return validator.validate();
+			});
+		}
+
+		// init select2 on dropdown with multiple selection
+		if (jQuery.fn.select2) {
+			form.find('select[multiple]').select2({
+				width: '100%'
+			});
+		}
+
+		// initialize popover within the form
+		if (jQuery.fn.popover) {
+			form.find('.inline-popover').popover({sanitize: false, container: 'body'});
+		}
+	}
+
+	$(function() {
+		// If the widget is not a template, register the scripts.
+		// A widget template ID always ends with "__i__"
+		if (!"mod_vikbooking_horizontalsearch-1".match(/__i__$/)) {
+			registerWidgetScripts();
+		}
+
+		// Attach event to the "ADD WIDGET" button
+		$('.widgets-chooser-add').on('click', function(e) {
+			// find widget parent of the clicked button
+			var parent = this.closest('div[id$="mod_vikbooking_horizontalsearch-1"]');
+
+			if (!parent) {
+				return;
+			}
+
+			// extract ID from the template parent (exclude "__i__")
+			var id = $(parent).attr('id').match(/(.*?)__i__$/);
+
+			if (!id) {
+				return;
+			}
+
+			// register scripts with a short delay to make sure the
+			// template has been moved on the right side
+			setTimeout(function() {
+				// obtain the box that has been created
+				var createdForm = $('div[id^="' + id.pop() + '"]').last();
+
+				// find form within the box
+				var _form = $(createdForm).find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(_form);
+			}, 32);
+		});
+
+		// register save callback for this kind of widget only once
+		if (!VIK_WIDGET_SAVE_LOOKUP.hasOwnProperty('mod_vikbooking_horizontalsearch')) {
+			// flag as loaded
+			VIK_WIDGET_SAVE_LOOKUP['mod_vikbooking_horizontalsearch'] = 1;
+
+			// Attach event to SAVE callback
+			$(document).ajaxSuccess(function(event, xhr, settings) {
+				// make sure the request was used to save the widget settings
+				if (!settings.data || typeof settings.data !== 'string' || settings.data.indexOf('action=save-widget') === -1) {
+					// wrong request
+					return;
+				}
+
+				// extract widget ID from request
+				var widget_id = settings.data.match(/widget-id=([a-z0-9_-]+)(?:&|$)/i);
+
+				// make sure this is the widget that was saved
+				if (!widget_id) {
+					// wrong widget
+					return;
+				}
+
+				// get cleansed widget ID
+				widget_id = widget_id.pop();
+
+				// make sure the widget starts with this ID
+				if (widget_id.indexOf('mod_vikbooking_horizontalsearch') !== 0) {
+					// wrong widget
+					return;
+				}
+
+				// obtain the box that has been updated
+				var updatedForm = $('div[id$="' + widget_id + '"]').find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(updatedForm);
+			});
+		}
+	});
+})(jQuery);
+</script>
+<script type="text/javascript">
+if (typeof JFormValidator !== 'undefined') {
+	JFormValidator.prototype.getLabel = function(input) {
+		var name = jQuery(input).attr('name');	
+
+		if (this.labels.hasOwnProperty(name)) {
+			return jQuery(this.labels[name]);
+		}
+
+		return jQuery(input).parent().find('label').first();
+	}
+}
+</script>
+<script type="text/javascript">
+if (typeof VIK_WIDGET_SAVE_LOOKUP === 'undefined') {
+	var VIK_WIDGET_SAVE_LOOKUP = {};
+}
+
+(function($) {
+	$(document).on('widget-added', function(event, control) {
+		registerWidgetScripts($(control).find('form'));
+	});
+
+	function registerWidgetScripts(form) {
+		if (!form) {
+			// if the form was not provided, find it using the widget ID (before WP 5.8)
+			form = $('div[id$="mod_vikbooking_rooms-1"] form');
+		}
+
+		if (typeof JFormValidator !== 'undefined') {
+			// init internal validator
+			var validator = new JFormValidator(form);
+
+			// validate fields every time the SAVE button is clicked
+			form.find('input[name="savewidget"]').on('click', function(event) {
+				return validator.validate();
+			});
+		}
+
+		// init select2 on dropdown with multiple selection
+		if (jQuery.fn.select2) {
+			form.find('select[multiple]').select2({
+				width: '100%'
+			});
+		}
+
+		// initialize popover within the form
+		if (jQuery.fn.popover) {
+			form.find('.inline-popover').popover({sanitize: false, container: 'body'});
+		}
+	}
+
+	$(function() {
+		// If the widget is not a template, register the scripts.
+		// A widget template ID always ends with "__i__"
+		if (!"mod_vikbooking_rooms-1".match(/__i__$/)) {
+			registerWidgetScripts();
+		}
+
+		// Attach event to the "ADD WIDGET" button
+		$('.widgets-chooser-add').on('click', function(e) {
+			// find widget parent of the clicked button
+			var parent = this.closest('div[id$="mod_vikbooking_rooms-1"]');
+
+			if (!parent) {
+				return;
+			}
+
+			// extract ID from the template parent (exclude "__i__")
+			var id = $(parent).attr('id').match(/(.*?)__i__$/);
+
+			if (!id) {
+				return;
+			}
+
+			// register scripts with a short delay to make sure the
+			// template has been moved on the right side
+			setTimeout(function() {
+				// obtain the box that has been created
+				var createdForm = $('div[id^="' + id.pop() + '"]').last();
+
+				// find form within the box
+				var _form = $(createdForm).find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(_form);
+			}, 32);
+		});
+
+		// register save callback for this kind of widget only once
+		if (!VIK_WIDGET_SAVE_LOOKUP.hasOwnProperty('mod_vikbooking_rooms')) {
+			// flag as loaded
+			VIK_WIDGET_SAVE_LOOKUP['mod_vikbooking_rooms'] = 1;
+
+			// Attach event to SAVE callback
+			$(document).ajaxSuccess(function(event, xhr, settings) {
+				// make sure the request was used to save the widget settings
+				if (!settings.data || typeof settings.data !== 'string' || settings.data.indexOf('action=save-widget') === -1) {
+					// wrong request
+					return;
+				}
+
+				// extract widget ID from request
+				var widget_id = settings.data.match(/widget-id=([a-z0-9_-]+)(?:&|$)/i);
+
+				// make sure this is the widget that was saved
+				if (!widget_id) {
+					// wrong widget
+					return;
+				}
+
+				// get cleansed widget ID
+				widget_id = widget_id.pop();
+
+				// make sure the widget starts with this ID
+				if (widget_id.indexOf('mod_vikbooking_rooms') !== 0) {
+					// wrong widget
+					return;
+				}
+
+				// obtain the box that has been updated
+				var updatedForm = $('div[id$="' + widget_id + '"]').find('form');
+
+				// register scripts at runtime
+				registerWidgetScripts(updatedForm);
+			});
+		}
+	});
+})(jQuery);
+</script>
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://rifugionuvolau.it/wp-content/uploads/2025/09/favicon_nuvolau-80x80.png" sizes="32x32" />
+<link rel="icon" href="https://rifugionuvolau.it/wp-content/uploads/2025/09/favicon_nuvolau.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://rifugionuvolau.it/wp-content/uploads/2025/09/favicon_nuvolau.png" />
+<meta name="msapplication-TileImage" content="https://rifugionuvolau.it/wp-content/uploads/2025/09/favicon_nuvolau.png" />
+<style id="wp-custom-css">
+.lte-header, .header {
+  letter-spacing: normal;
+}
+.lte-heading.lte-style-header-subheader .lte-subheader {
+  letter-spacing: 2px!important;
+  margin-bottom: 20px!important;
+  font-size: 14px!important;
+  font-weight: 600!important;
+}
+
+
+
+/* 1. Di base, per tutti i dispositivi, lo sfondo scorre (così Apple è al sicuro) */
+.lte-page-header  {
+    background-attachment: scroll !important;
+}
+
+/* 2. Se il browser NON è Safari (o è un browser che gestisce il fixed correttamente) 
+      e siamo su un monitor grande, allora attiva l'effetto fisso */
+@supports not (-webkit-touch-callout: none) {
+.lte-page-header  {
+            background-attachment: fixed !important;
+        } 
+}
+.lte-page-header {
+  background-position: center center!important;
+}
+
+.lte-header-overlay .lte-page-header:before {
+    filter: alpha(opacity=35);
+    -webkit-opacity: 0.35;
+    -moz-opacity: 0.35;
+    opacity: 0.35;
+}
+.elementor-widget-n-accordion .e-n-accordion-item-title-header .e-n-accordion-item-title-text {
+  font-size: 32px!important;
+}
+
+/* -- POPUP -- */
+.sgpb-main-html-content-wrapper p{display:none}
+.hurrytimer-headline{font-size:18px!important}
+@media only screen and (min-width: 768px) {
+.hurrytimer-headline{font-size:24px!important}}
+
+
+/* -- HEADER -- */
+.lte-navbar-icons li {
+  padding: 0 8px !important;
+}
+.lte-navbar-custom-mobile .lte-ul-nav{
+	padding-top:30px!important
+}
+.lte-navbar-icons .lte-nav-social > a {
+  font-size: 20px!important;
+}
+.lte-navbar-custom .lte-navbar-items-custom.navbar-desktop .lte-ul-nav ul.sub-menu {
+border-radius:0px
+}
+.lte-navbar-custom .lte-navbar-items-custom.navbar-desktop .lte-ul-nav > li > a {
+text-transform:uppercase;
+font-family: var(--font-headers), serif;
+}
+ .lte-navbar-custom .lte-navbar-items-custom.navbar-desktop .lte-ul-nav ul.sub-menu li > a {
+text-transform:uppercase;
+font-family: var(--font-headers), serif;font-size:18px
+}
+ .lte-navbar-custom .lte-navbar-items-custom.navbar-desktop .lte-ul-nav ul.sub-menu li:hover > a {
+  background-color: #fff;
+  color: var(--main);
+}
+/* -- HOME -- */
+
+.lte-descr {
+  opacity:1!important;
+}
+.header-home .lte-navbar-icons .lte-nav-social > a {
+    color: #fff;
+}
+
+/* -- CAMERE -- */
+.subprice .lte-heading.lte-style-header-subheader.heading-tag-h4 .lte-subheader {
+  margin-bottom: 5px !important;
+}
+.room-gallery img {
+	width:711px;
+height:600px;
+object-fit:cover;
+}
+
+
+/* -- CONTATTI -- */
+ input[type="submit"] {
+  color: #ffffff!important;
+}
+/* -- FOOTER -- */
+.copyright-block.copyright-layout-copyright-transparent {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.gallery-partner img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+}
+
+/* -- POPUP WEBCAM -- */
+#popup-img {
+    display: none; /* nascosto all'inizio */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.8);
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    padding: 20px;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+
+#popup-img img {
+    max-width: 100%;
+    max-height: 90%;
+    object-fit: contain;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+#popup-img #close-popup {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 40px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    z-index: 10000;
+}
+
+/* -- VIK BOOKING -- */
+.vikbooking-container .vbo-room-details-wrap{
+display:none
+}
+.vbo-pref-color-btn {
+  background-color: #8fa958 !important;
+  color: #fff !important;
+  padding: 10px 30px;
+}
+/* -- VIK BOOKING DISPONIBILITA' -- */
+.vbroomimgdesc .vikfx-gallery-container{width:350px!important}
+.btn-disp .lte-btn {
+   border-radius: 4px;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1em;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 0;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+	padding: 10px 50px !important;
+}
+.vbdivsearch .vb-search-inner .vbo-search-inpblock .input-group > input {
+ 
+  width: 100%;
+  margin: 0;
+  height: 42px;
+  padding: 0 12px;
+ 
+  border-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  box-sizing: border-box;
+}
+</style>
+</head>
+<body class="wp-singular page-template page-template-page-templates page-template-full-width page-template-page-templatesfull-width-php page page-id-47083 wp-theme-milatte wp-child-theme-milatte-child eio-default full-width singular lte-plugin-loaded lte-color-scheme--1 lte-body-white lte-background-white paceloader- no-sidebar elementor-default elementor-kit-13200 elementor-page elementor-page-47083">
+<div class="lte-content-wrapper  lte-layout-transparent-full">	<div class="lte-header-wrapper header-h1 lte-header-overlay lte-layout- lte-pageheader-default">
+	<div id="lte-nav-wrapper" class="lte-navbar-custom" data-spy="static" data-offset-top="0">
+<style id="elementor-post-39621">.elementor-39621 .elementor-element.elementor-element-fc38a46{--display:flex;--min-height:100px;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:45px;--padding-right:45px;}.elementor-39621 .elementor-element.elementor-element-cd8d9a3{text-align:center;}.elementor-39621 .elementor-element.elementor-element-cd8d9a3 > .elementor-widget-container{margin:8px 0px 0px 0px;}.elementor-39621 .elementor-element.elementor-element-cd8d9a3.elementor-element{--flex-grow:1;--flex-shrink:0;}.elementor-39621 .elementor-element.elementor-element-cd8d9a3 .lte-navbar-items-custom.navbar-desktop > .lte-ul-nav > li >  a{font-size:20px;}.elementor-39621 .elementor-element.elementor-element-0089481 .lte-navbar-icons .lte-nav-profile a{font-size:20px;}.elementor-39621 .elementor-element.elementor-element-0089481 .lte-navbar-icons .lte-cart .lte-icon-cart{font-size:20px;}.elementor-39621 .elementor-element.elementor-element-0089481 .lte-navbar-icons .lte-top-search-wrapper .lte-top-search-ico{font-size:20px;}@media(max-width:1199px){.elementor-39621 .elementor-element.elementor-element-f27cd55.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-39621 .elementor-element.elementor-element-cd8d9a3{width:var( --container-widget-width, 50px );max-width:50px;--container-widget-width:50px;--container-widget-flex-grow:0;}.elementor-39621 .elementor-element.elementor-element-0089481 > .elementor-widget-container{margin:0px 32px 0px 0px;}.elementor-39621 .elementor-element.elementor-element-0089481.elementor-element{--flex-grow:1;--flex-shrink:0;}.elementor-39621 .elementor-element.elementor-element-0089481{text-align:right;}.elementor-39621 .elementor-element.elementor-element-7f32f8f.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-39621 .elementor-element.elementor-element-7f32f8f{text-align:right;}}@media(max-width:767px){.elementor-39621 .elementor-element.elementor-element-fc38a46{--padding-top:0px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}.elementor-39621 .elementor-element.elementor-element-f27cd55{text-align:left;}.elementor-39621 .elementor-element.elementor-element-7f32f8f.elementor-element{--flex-grow:1;--flex-shrink:0;}}</style>		<div data-elementor-type="wp-post" data-elementor-id="39621" class="elementor elementor-39621">
+				<div class="elementor-element elementor-element-fc38a46 lte-background-white e-flex e-con-boxed e-con e-parent" data-id="fc38a46" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f27cd55 elementor-widget elementor-widget-lte-elements" data-id="f27cd55" data-element_type="widget" data-e-type="widget" data-widget_type="lte-elements.default">
+				<div class="elementor-widget-container">
+					<a class="lte-logo" href="https://rifugionuvolau.it/en/"><img src="https://rifugionuvolau.it/wp-content/uploads/2025/11/logo_nuvolau_b-cai.png" alt="Rifugio Nuvolau" srcset="https://rifugionuvolau.it/wp-content/uploads/2025/11/logo_nuvolau_b-cai.png 1x,https://rifugionuvolau.it/wp-content/uploads/2025/11/logo_nuvolau_b-cai.png 2x"></a>				</div>
+				</div>
+				<div class="elementor-element elementor-element-cd8d9a3 elementor-hidden-tablet elementor-hidden-mobile_extra elementor-hidden-mobile lte-navbar-align-center elementor-widget-tablet__width-initial elementor-widget elementor-widget-lte-navmenu" data-id="cd8d9a3" data-element_type="widget" data-e-type="widget" data-widget_type="lte-navmenu.default">
+				<div class="elementor-widget-container">
+					<nav class="lte-navbar-custom"><div class="lte-navbar-items-custom navbar-desktop lte-scheme-dark"><ul id="menu-main-menu-nuvolau-inglese" class="lte-ul-nav"><li id="menu-item-46986" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-46986"><a href="#"><span>The Hut</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-46622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46622"><a href="https://rifugionuvolau.it/en/the-restaurant/"><span>The Restaurant</span></a></li>
+	<li id="menu-item-46623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46623"><a href="https://rifugionuvolau.it/en/our-dorms/"><span>Our Dorms</span></a></li>
+	<li id="menu-item-46621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46621"><a href="https://rifugionuvolau.it/en/the-hut/"><span>History of Rifugio Nuvolau</span></a></li>
+</ul>
+</li>
+<li id="menu-item-46624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-46624"><a href="#"><span>Sleeping</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-46625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46625"><a href="https://rifugionuvolau.it/en/booking/"><span>Booking</span></a></li>
+	<li id="menu-item-46627" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46627"><a href="/en/booking/#tariffe"><span>Price list</span></a></li>
+	<li id="menu-item-46628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46628"><a href="https://rifugionuvolau.it/en/rules-and-conditions/"><span>Rules and conditions</span></a></li>
+	<li id="menu-item-46629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46629"><a href="https://rifugionuvolau.it/en/faq/"><span>FAQ</span></a></li>
+</ul>
+</li>
+<li id="menu-item-46630" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-46630"><a href="#"><span>More</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-46631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46631"><a href="https://rifugionuvolau.it/en/how-to-reach-us/"><span>How to reach us</span></a></li>
+	<li id="menu-item-46632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46632"><a href="https://rifugionuvolau.it/en/faq/"><span>FAQ</span></a></li>
+	<li id="menu-item-46633" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46633"><a href="https://www.montagnaitalia.it/webcam/original/nuvolau.jpg"><span>Webcam</span></a></li>
+	<li id="menu-item-46634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46634"><a href="https://meteo.arpa.veneto.it/?page=DM"><span>Weather</span></a></li>
+</ul>
+</li>
+<li id="menu-item-46635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46635"><a href="https://rifugionuvolau.it/en/contact-us/"><span>Contact Us</span></a></li>
+<li id="menu-item-wpml-ls-679-en" class="menu-item wpml-ls-slot-679 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-679-en"><a href="https://rifugionuvolau.it/en/availability/" aria-current="page" role="button" aria-expanded="false" aria-controls="wpml-ls-submenu-wpml-ls-679-en"><span><img
+            class="wpml-ls-flag"
+            src="https://rifugionuvolau.it/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg"
+            alt=""
+            loading="lazy"
+            
+            
+    /><span class="wpml-ls-native" lang="en">EN</span></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-wpml-ls-679-de" class="menu-item wpml-ls-slot-679 wpml-ls-item wpml-ls-item-de wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-679-de"><a href="https://rifugionuvolau.it/de/verfugbarkeit/" title="Switch to DE" aria-label="Switch to DE"><span><img
+            class="wpml-ls-flag"
+            src="https://rifugionuvolau.it/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.svg"
+            alt=""
+            loading="lazy"
+            
+            
+    /><span class="wpml-ls-native" lang="de">DE</span></span></a></li>
+	<li id="menu-item-wpml-ls-679-it" class="menu-item wpml-ls-slot-679 wpml-ls-item wpml-ls-item-it wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-679-it"><a href="https://rifugionuvolau.it/disponibilita/" title="Switch to IT" aria-label="Switch to IT"><span><img
+            class="wpml-ls-flag"
+            src="https://rifugionuvolau.it/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.svg"
+            alt=""
+            loading="lazy"
+            
+            
+    /><span class="wpml-ls-native" lang="it">IT</span></span></a></li>
+	<li id="menu-item-wpml-ls-679-es" class="menu-item wpml-ls-slot-679 wpml-ls-item wpml-ls-item-es wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-679-es"><a href="https://rifugionuvolau.it/es/disponibilidad/" title="Switch to ES" aria-label="Switch to ES"><span><img
+            class="wpml-ls-flag"
+            src="https://rifugionuvolau.it/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg"
+            alt=""
+            loading="lazy"
+            
+            
+    /><span class="wpml-ls-native" lang="es">ES</span></span></a></li>
+</ul>
+</li>
+</ul></div></nav>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0089481 elementor-hidden-mobile elementor-widget elementor-widget-lte-elements" data-id="0089481" data-element_type="widget" data-e-type="widget" data-widget_type="lte-elements.default">
+				<div class="elementor-widget-container">
+					<div class="lte-scheme-navbar"><div class="lte-navbar-icons"><ul><li class="lte-nav-social ">
+							<a href="https://www.instagram.com/rifugio.nuvolau/" class="fab fa-instagram" target="_blank"></a></li><li class="lte-nav-social ">
+							<a href="https://www.facebook.com/rifugio.nuvolau.2575/" class="fab fa-facebook" target="_blank"></a></li><li class="lte-nav-social ">
+							<a href="https://www.youtube.com/@rifugionuvolau8867" class="fab fa-youtube" target="_blank"></a></li></ul></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7f32f8f elementor-hidden-widescreen elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet_extra elementor-widget elementor-widget-lte-nav-mobile" data-id="7f32f8f" data-element_type="widget" data-e-type="widget" data-widget_type="lte-nav-mobile.default">
+				<div class="elementor-widget-container">
+					<div class="lte-navbar-custom-mobile-wrapper lte-scheme-navbar"><button type="button" class="lte-navbar-toggle-custom">
+		<span class="icon-bar top-bar"></span>
+		<span class="icon-bar middle-bar"></span>
+		<span class="icon-bar bottom-bar"></span>
+	</button><nav class="lte-navbar-custom lte-navbar-custom-mobile"><div class="lte-navbar-items-custom navbar-mobile"><span class="lte-navbar-header"><a class="lte-logo" href="https://rifugionuvolau.it/en/"><img src="https://rifugionuvolau.it/wp-content/uploads/2025/11/logo_nuvolau_W_CAI.png" alt="Rifugio Nuvolau" srcset="https://rifugionuvolau.it/wp-content/uploads/2025/11/logo_nuvolau_W_CAI.png 1x,https://rifugionuvolau.it/wp-content/uploads/2025/11/logo_nuvolau_W_CAI.png 2x"></a><span class="lte-navbar-close"><span></span></span></span><div class="lte-mob"></div><ul id="menu-main-menu-nuvolau-inglese-1" class="lte-ul-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-46986"><a href="#"><span>The Hut</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46622"><a href="https://rifugionuvolau.it/en/the-restaurant/"><span>The Restaurant</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46623"><a href="https://rifugionuvolau.it/en/our-dorms/"><span>Our Dorms</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46621"><a href="https://rifugionuvolau.it/en/the-hut/"><span>History of Rifugio Nuvolau</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-46624"><a href="#"><span>Sleeping</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46625"><a href="https://rifugionuvolau.it/en/booking/"><span>Booking</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46627"><a href="/en/booking/#tariffe"><span>Price list</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46628"><a href="https://rifugionuvolau.it/en/rules-and-conditions/"><span>Rules and conditions</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46629"><a href="https://rifugionuvolau.it/en/faq/"><span>FAQ</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-46630"><a href="#"><span>More</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46631"><a href="https://rifugionuvolau.it/en/how-to-reach-us/"><span>How to reach us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46632"><a href="https://rifugionuvolau.it/en/faq/"><span>FAQ</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46633"><a href="https://www.montagnaitalia.it/webcam/original/nuvolau.jpg"><span>Webcam</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46634"><a href="https://meteo.arpa.veneto.it/?page=DM"><span>Weather</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46635"><a href="https://rifugionuvolau.it/en/contact-us/"><span>Contact Us</span></a></li>
+<li class="menu-item wpml-ls-slot-679 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-679-en"><a href="https://rifugionuvolau.it/en/availability/" aria-current="page" role="button" aria-expanded="false" aria-controls="wpml-ls-submenu-wpml-ls-679-en"><span><img
+            class="wpml-ls-flag"
+            src="https://rifugionuvolau.it/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg"
+            alt=""
+            loading="lazy"
+            
+            
+    /><span class="wpml-ls-native" lang="en">EN</span></span></a>
+<ul class="sub-menu">
+	<li class="menu-item wpml-ls-slot-679 wpml-ls-item wpml-ls-item-de wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-679-de"><a href="https://rifugionuvolau.it/de/verfugbarkeit/" title="Switch to DE" aria-label="Switch to DE"><span><img
+            class="wpml-ls-flag"
+            src="https://rifugionuvolau.it/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.svg"
+            alt=""
+            loading="lazy"
+            
+            
+    /><span class="wpml-ls-native" lang="de">DE</span></span></a></li>
+	<li class="menu-item wpml-ls-slot-679 wpml-ls-item wpml-ls-item-it wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-679-it"><a href="https://rifugionuvolau.it/disponibilita/" title="Switch to IT" aria-label="Switch to IT"><span><img
+            class="wpml-ls-flag"
+            src="https://rifugionuvolau.it/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.svg"
+            alt=""
+            loading="lazy"
+            
+            
+    /><span class="wpml-ls-native" lang="it">IT</span></span></a></li>
+	<li class="menu-item wpml-ls-slot-679 wpml-ls-item wpml-ls-item-es wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-679-es"><a href="https://rifugionuvolau.it/es/disponibilidad/" title="Switch to ES" aria-label="Switch to ES"><span><img
+            class="wpml-ls-flag"
+            src="https://rifugionuvolau.it/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg"
+            alt=""
+            loading="lazy"
+            
+            
+    /><span class="wpml-ls-native" lang="es">ES</span></span></a></li>
+</ul>
+</li>
+</ul><div class="lte-mobile-controls"><div><ul><li class="lte-nav-social ">
+							<a href="https://www.instagram.com/rifugio.nuvolau/" class="fab fa-instagram" target="_blank"></a></li><li class="lte-nav-social ">
+							<a href="https://www.facebook.com/rifugio.nuvolau.2575/" class="fab fa-facebook" target="_blank"></a></li><li class="lte-nav-social ">
+							<a href="https://www.youtube.com/@rifugionuvolau8867" class="fab fa-youtube" target="_blank"></a></li></ul></div></div></div></nav></div>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</div>
+		<header class="lte-page-header">
+		    <div class="container">
+		    	<div class="lte-header-h1-wrapper"><h1 class="lte-header">Availability</h1></div><ul class="breadcrumbs" typeof="BreadcrumbList"><li><a href="https://rifugionuvolau.it/en/">Home</a></li><li>Availability</li></ul>		    </div>
+					</header>
+			</div>
+
+	<!-- Content -->
+	<div class="lte-text-page disabled">
+        <div class="row centered">
+        	            <div class="col-xl-12 col-xs-12">
+				<article id="post-47083" class="post-47083 page type-page status-publish hentry">
+	<div class="entry-content clearfix" id="entry-div">
+				<div data-elementor-type="wp-page" data-elementor-id="47083" class="elementor elementor-47083 elementor-47034">
+				<div class="elementor-element elementor-element-20e80ea9 e-flex e-con-boxed e-con e-parent" data-id="20e80ea9" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-d3d1586 elementor-widget elementor-widget-shortcode" data-id="d3d1586" data-element_type="widget" data-e-type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode">
+<div class="wrap plugin-container">
+
+	
+	
+	<h3>Availability Calendar</h3>
+
+<div class="vbo-availability-controls">
+	<form action="https://rifugionuvolau.it/en/availability/?view=availability&amp;room_ids%5B0%5D=4&amp;room_ids%5B1%5D=6&amp;room_ids%5B2%5D=8&amp;room_ids%5B3%5D=5&amp;room_ids%5B4%5D=7" method="post" name="vbmonths">
+		<select name="month" onchange="document.vbmonths.submit();">
+<option value="1793491200">November 2026</option>
+<option value="1796083200">December 2026</option>
+<option value="1798761600">January 2027</option>
+<option value="1801440000">February 2027</option>
+<option value="1803859200">March 2027</option>
+<option value="1806537600">April 2027</option>
+<option value="1809129600">May 2027</option>
+<option value="1811808000" selected="selected">June 2027</option>
+<option value="1814400000">July 2027</option>
+<option value="1817078400">August 2027</option>
+<option value="1819756800">September 2027</option>
+<option value="1822348800">October 2027</option>
+<option value="1825027200">November 2027</option>
+</select>
+			<input type="hidden" name="room_ids[]" value="4" />
+				<input type="hidden" name="room_ids[]" value="6" />
+				<input type="hidden" name="room_ids[]" value="8" />
+				<input type="hidden" name="room_ids[]" value="5" />
+				<input type="hidden" name="room_ids[]" value="7" />
+				<input type="hidden" name="showtype" value="2" />
+	</form>
+	<div class="vblegendediv">
+		<span class="vblegenda"><span class="vblegenda-status vblegfree">&nbsp;</span> <span class="vblegenda-lbl"> Available</span></span>
+			<span class="vblegenda"><span class="vblegenda-status vblegwarning">&nbsp;</span> <span class="vblegenda-lbl"> Partially Reserved</span></span>
+				<span class="vblegenda"><span class="vblegenda-status vblegbusy">&nbsp;</span> <span class="vblegenda-lbl"> Not Available</span></span>
+	</div>
+</div>
+	
+<div class="vbo-availability-wrapper">
+	<div class="vbo-availability-room-container">
+		<div class="vbo-availability-room-details">
+			<div class="vbo-availability-room-details-first">
+				<div class="vbo-availability-room-details-left">
+									<img decoding="async" src="https://rifugionuvolau.it/wp-content/plugins/vikbooking/site/resources/uploads/img_7130.jpg" alt="Bed in a shared 3-bed room"/>
+									</div>
+				<div class="vbo-availability-room-details-right">
+					<h4>Bed in a shared 3-bed room</h4>
+					<div class="vbo-availability-room-details-descr">
+											</div>
+								</div>
+			</div>
+			<div class="vbo-availability-room-details-last vbselectr">
+				<div class="vbo-availability-room-details-last-inner">
+					<a class="btn vbo-pref-color-btn" id="vbo-av-btn-4" href="https://rifugionuvolau.it/en/availability/?view=roomdetails&amp;roomid=4&amp;checkin=-1">Book Now</a>
+				</div>
+				<div class="vbo-availability-room-details-last-checkin" id="vbo-av-checkin-4"><i class="fas fa-right-to-bracket vbo-pref-color-element"></i> <span></span></div>
+			</div>
+		</div>
+		<div class="vbo-availability-room-monthcal table-responsive">
+			<table class="table" id="vbo-av-table-4" data-room-table="4">
+				<tr class="vbo-availability-room-monthdays">
+					<td class="vbo-availability-month-name vbo-pref-color-text" rowspan="2">June 2027</td>
+									<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">1</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">2</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">3</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">4</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">5</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">6</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">7</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">8</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">9</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">10</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">11</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">12</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">13</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">14</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">15</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">16</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">17</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">18</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">19</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">20</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">21</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">22</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">23</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">24</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">25</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">26</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">27</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">28</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">29</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">30</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+									</tr>
+				<tr class="vbo-availability-room-avdays">
+									<td class="vbo-occupied-cell" data-cell-date="01/06/2027" data-cell-ts="1811808000"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="02/06/2027" data-cell-ts="1811894400"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="03/06/2027" data-cell-ts="1811980800"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="04/06/2027" data-cell-ts="1812067200"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="05/06/2027" data-cell-ts="1812153600"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="06/06/2027" data-cell-ts="1812240000"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="07/06/2027" data-cell-ts="1812326400"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="08/06/2027" data-cell-ts="1812412800"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="09/06/2027" data-cell-ts="1812499200"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="10/06/2027" data-cell-ts="1812585600"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="11/06/2027" data-cell-ts="1812672000"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="12/06/2027" data-cell-ts="1812758400"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="13/06/2027" data-cell-ts="1812844800"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="14/06/2027" data-cell-ts="1812931200"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="15/06/2027" data-cell-ts="1813017600"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="16/06/2027" data-cell-ts="1813104000"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="17/06/2027" data-cell-ts="1813190400"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="18/06/2027" data-cell-ts="1813276800"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="19/06/2027" data-cell-ts="1813363200"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="20/06/2027" data-cell-ts="1813449600"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="21/06/2027" data-cell-ts="1813536000"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="22/06/2027" data-cell-ts="1813622400"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="23/06/2027" data-cell-ts="1813708800"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="24/06/2027" data-cell-ts="1813795200"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="25/06/2027" data-cell-ts="1813881600"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="26/06/2027" data-cell-ts="1813968000"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="27/06/2027" data-cell-ts="1814054400"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="28/06/2027" data-cell-ts="1814140800"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="29/06/2027" data-cell-ts="1814227200"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="30/06/2027" data-cell-ts="1814313600"><span class="vbo-availability-day-container" data-units-booked="3" data-units-left="0">0</span></td>
+									</tr>
+			</table>
+		</div>
+	</div>
+		<div class="vbo-availability-room-container">
+		<div class="vbo-availability-room-details">
+			<div class="vbo-availability-room-details-first">
+				<div class="vbo-availability-room-details-left">
+									<img decoding="async" src="https://rifugionuvolau.it/wp-content/plugins/vikbooking/site/resources/uploads/img_7132.jpg" alt="Bed in a shared 4-bed room"/>
+									</div>
+				<div class="vbo-availability-room-details-right">
+					<h4>Bed in a shared 4-bed room</h4>
+					<div class="vbo-availability-room-details-descr">
+											</div>
+								</div>
+			</div>
+			<div class="vbo-availability-room-details-last vbselectr">
+				<div class="vbo-availability-room-details-last-inner">
+					<a class="btn vbo-pref-color-btn" id="vbo-av-btn-6" href="https://rifugionuvolau.it/en/availability/?view=roomdetails&amp;roomid=6&amp;checkin=-1">Book Now</a>
+				</div>
+				<div class="vbo-availability-room-details-last-checkin" id="vbo-av-checkin-6"><i class="fas fa-right-to-bracket vbo-pref-color-element"></i> <span></span></div>
+			</div>
+		</div>
+		<div class="vbo-availability-room-monthcal table-responsive">
+			<table class="table" id="vbo-av-table-6" data-room-table="6">
+				<tr class="vbo-availability-room-monthdays">
+					<td class="vbo-availability-month-name vbo-pref-color-text" rowspan="2">June 2027</td>
+									<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">1</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">2</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">3</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">4</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">5</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">6</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">7</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">8</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">9</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">10</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">11</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">12</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">13</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">14</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">15</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">16</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">17</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">18</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">19</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">20</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">21</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">22</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">23</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">24</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">25</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">26</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">27</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">28</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">29</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">30</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+									</tr>
+				<tr class="vbo-availability-room-avdays">
+									<td class="vbo-occupied-cell" data-cell-date="01/06/2027" data-cell-ts="1811808000"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="02/06/2027" data-cell-ts="1811894400"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="03/06/2027" data-cell-ts="1811980800"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="04/06/2027" data-cell-ts="1812067200"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="05/06/2027" data-cell-ts="1812153600"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="06/06/2027" data-cell-ts="1812240000"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="07/06/2027" data-cell-ts="1812326400"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="08/06/2027" data-cell-ts="1812412800"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="09/06/2027" data-cell-ts="1812499200"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="10/06/2027" data-cell-ts="1812585600"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="11/06/2027" data-cell-ts="1812672000"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="12/06/2027" data-cell-ts="1812758400"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="13/06/2027" data-cell-ts="1812844800"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="14/06/2027" data-cell-ts="1812931200"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="15/06/2027" data-cell-ts="1813017600"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="16/06/2027" data-cell-ts="1813104000"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="17/06/2027" data-cell-ts="1813190400"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="18/06/2027" data-cell-ts="1813276800"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="19/06/2027" data-cell-ts="1813363200"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="20/06/2027" data-cell-ts="1813449600"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="21/06/2027" data-cell-ts="1813536000"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="22/06/2027" data-cell-ts="1813622400"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="23/06/2027" data-cell-ts="1813708800"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="24/06/2027" data-cell-ts="1813795200"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="25/06/2027" data-cell-ts="1813881600"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="26/06/2027" data-cell-ts="1813968000"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="27/06/2027" data-cell-ts="1814054400"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="28/06/2027" data-cell-ts="1814140800"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="29/06/2027" data-cell-ts="1814227200"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="30/06/2027" data-cell-ts="1814313600"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+									</tr>
+			</table>
+		</div>
+	</div>
+		<div class="vbo-availability-room-container">
+		<div class="vbo-availability-room-details">
+			<div class="vbo-availability-room-details-first">
+				<div class="vbo-availability-room-details-left">
+									<img decoding="async" src="https://rifugionuvolau.it/wp-content/plugins/vikbooking/site/resources/uploads/1img_7132.jpg" alt="Bed in a shared 4-bed room"/>
+									</div>
+				<div class="vbo-availability-room-details-right">
+					<h4>Bed in a shared 4-bed room</h4>
+					<div class="vbo-availability-room-details-descr">
+											</div>
+								</div>
+			</div>
+			<div class="vbo-availability-room-details-last vbselectr">
+				<div class="vbo-availability-room-details-last-inner">
+					<a class="btn vbo-pref-color-btn" id="vbo-av-btn-8" href="https://rifugionuvolau.it/en/availability/?view=roomdetails&amp;roomid=8&amp;checkin=-1">Book Now</a>
+				</div>
+				<div class="vbo-availability-room-details-last-checkin" id="vbo-av-checkin-8"><i class="fas fa-right-to-bracket vbo-pref-color-element"></i> <span></span></div>
+			</div>
+		</div>
+		<div class="vbo-availability-room-monthcal table-responsive">
+			<table class="table" id="vbo-av-table-8" data-room-table="8">
+				<tr class="vbo-availability-room-monthdays">
+					<td class="vbo-availability-month-name vbo-pref-color-text" rowspan="2">June 2027</td>
+									<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">1</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">2</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">3</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">4</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">5</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">6</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">7</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">8</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">9</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">10</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">11</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">12</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">13</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">14</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">15</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">16</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">17</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">18</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">19</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">20</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">21</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">22</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">23</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">24</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">25</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">26</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">27</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">28</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">29</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">30</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+									</tr>
+				<tr class="vbo-availability-room-avdays">
+									<td class="vbo-occupied-cell" data-cell-date="01/06/2027" data-cell-ts="1811808000"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="02/06/2027" data-cell-ts="1811894400"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="03/06/2027" data-cell-ts="1811980800"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="04/06/2027" data-cell-ts="1812067200"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="05/06/2027" data-cell-ts="1812153600"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="06/06/2027" data-cell-ts="1812240000"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="07/06/2027" data-cell-ts="1812326400"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="08/06/2027" data-cell-ts="1812412800"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="09/06/2027" data-cell-ts="1812499200"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="10/06/2027" data-cell-ts="1812585600"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="11/06/2027" data-cell-ts="1812672000"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="12/06/2027" data-cell-ts="1812758400"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="13/06/2027" data-cell-ts="1812844800"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="14/06/2027" data-cell-ts="1812931200"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="15/06/2027" data-cell-ts="1813017600"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="16/06/2027" data-cell-ts="1813104000"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="17/06/2027" data-cell-ts="1813190400"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="18/06/2027" data-cell-ts="1813276800"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="19/06/2027" data-cell-ts="1813363200"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="20/06/2027" data-cell-ts="1813449600"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="21/06/2027" data-cell-ts="1813536000"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="22/06/2027" data-cell-ts="1813622400"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="23/06/2027" data-cell-ts="1813708800"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="24/06/2027" data-cell-ts="1813795200"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="25/06/2027" data-cell-ts="1813881600"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="26/06/2027" data-cell-ts="1813968000"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="27/06/2027" data-cell-ts="1814054400"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="28/06/2027" data-cell-ts="1814140800"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="29/06/2027" data-cell-ts="1814227200"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="30/06/2027" data-cell-ts="1814313600"><span class="vbo-availability-day-container" data-units-booked="4" data-units-left="0">0</span></td>
+									</tr>
+			</table>
+		</div>
+	</div>
+		<div class="vbo-availability-room-container">
+		<div class="vbo-availability-room-details">
+			<div class="vbo-availability-room-details-first">
+				<div class="vbo-availability-room-details-left">
+									<img decoding="async" src="https://rifugionuvolau.it/wp-content/plugins/vikbooking/site/resources/uploads/rifugio-nuvolau-camerata04.jpg" alt="Bed in a shared 5-bed room"/>
+									</div>
+				<div class="vbo-availability-room-details-right">
+					<h4>Bed in a shared 5-bed room</h4>
+					<div class="vbo-availability-room-details-descr">
+											</div>
+								</div>
+			</div>
+			<div class="vbo-availability-room-details-last vbselectr">
+				<div class="vbo-availability-room-details-last-inner">
+					<a class="btn vbo-pref-color-btn" id="vbo-av-btn-5" href="https://rifugionuvolau.it/en/availability/?view=roomdetails&amp;roomid=5&amp;checkin=-1">Book Now</a>
+				</div>
+				<div class="vbo-availability-room-details-last-checkin" id="vbo-av-checkin-5"><i class="fas fa-right-to-bracket vbo-pref-color-element"></i> <span></span></div>
+			</div>
+		</div>
+		<div class="vbo-availability-room-monthcal table-responsive">
+			<table class="table" id="vbo-av-table-5" data-room-table="5">
+				<tr class="vbo-availability-room-monthdays">
+					<td class="vbo-availability-month-name vbo-pref-color-text" rowspan="2">June 2027</td>
+									<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">1</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">2</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">3</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">4</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">5</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">6</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">7</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">8</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">9</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">10</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">11</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">12</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">13</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">14</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">15</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">16</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">17</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">18</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">19</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">20</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">21</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">22</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">23</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">24</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">25</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">26</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">27</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">28</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">29</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">30</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+									</tr>
+				<tr class="vbo-availability-room-avdays">
+									<td class="vbo-occupied-cell" data-cell-date="01/06/2027" data-cell-ts="1811808000"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="02/06/2027" data-cell-ts="1811894400"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="03/06/2027" data-cell-ts="1811980800"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="04/06/2027" data-cell-ts="1812067200"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="05/06/2027" data-cell-ts="1812153600"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="06/06/2027" data-cell-ts="1812240000"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="07/06/2027" data-cell-ts="1812326400"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="08/06/2027" data-cell-ts="1812412800"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="09/06/2027" data-cell-ts="1812499200"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="10/06/2027" data-cell-ts="1812585600"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="11/06/2027" data-cell-ts="1812672000"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="12/06/2027" data-cell-ts="1812758400"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="13/06/2027" data-cell-ts="1812844800"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="14/06/2027" data-cell-ts="1812931200"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="15/06/2027" data-cell-ts="1813017600"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="16/06/2027" data-cell-ts="1813104000"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="17/06/2027" data-cell-ts="1813190400"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="18/06/2027" data-cell-ts="1813276800"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="19/06/2027" data-cell-ts="1813363200"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="20/06/2027" data-cell-ts="1813449600"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="21/06/2027" data-cell-ts="1813536000"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="22/06/2027" data-cell-ts="1813622400"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="23/06/2027" data-cell-ts="1813708800"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="24/06/2027" data-cell-ts="1813795200"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="25/06/2027" data-cell-ts="1813881600"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="26/06/2027" data-cell-ts="1813968000"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="27/06/2027" data-cell-ts="1814054400"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="28/06/2027" data-cell-ts="1814140800"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="29/06/2027" data-cell-ts="1814227200"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="30/06/2027" data-cell-ts="1814313600"><span class="vbo-availability-day-container" data-units-booked="5" data-units-left="0">0</span></td>
+									</tr>
+			</table>
+		</div>
+	</div>
+		<div class="vbo-availability-room-container">
+		<div class="vbo-availability-room-details">
+			<div class="vbo-availability-room-details-first">
+				<div class="vbo-availability-room-details-left">
+									<img decoding="async" src="https://rifugionuvolau.it/wp-content/plugins/vikbooking/site/resources/uploads/img_7134.jpg" alt="Bed in a shared 8-bed room"/>
+									</div>
+				<div class="vbo-availability-room-details-right">
+					<h4>Bed in a shared 8-bed room</h4>
+					<div class="vbo-availability-room-details-descr">
+											</div>
+								</div>
+			</div>
+			<div class="vbo-availability-room-details-last vbselectr">
+				<div class="vbo-availability-room-details-last-inner">
+					<a class="btn vbo-pref-color-btn" id="vbo-av-btn-7" href="https://rifugionuvolau.it/en/availability/?view=roomdetails&amp;roomid=7&amp;checkin=-1">Book Now</a>
+				</div>
+				<div class="vbo-availability-room-details-last-checkin" id="vbo-av-checkin-7"><i class="fas fa-right-to-bracket vbo-pref-color-element"></i> <span></span></div>
+			</div>
+		</div>
+		<div class="vbo-availability-room-monthcal table-responsive">
+			<table class="table" id="vbo-av-table-7" data-room-table="7">
+				<tr class="vbo-availability-room-monthdays">
+					<td class="vbo-availability-month-name vbo-pref-color-text" rowspan="2">June 2027</td>
+									<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">1</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">2</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">3</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">4</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">5</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">6</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">7</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">8</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">9</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">10</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">11</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">12</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">13</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">14</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">15</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">16</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">17</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">18</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">19</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">20</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">21</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">22</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">23</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">24</span>
+						<span class="vbo-availability-weekday">Thu</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">25</span>
+						<span class="vbo-availability-weekday">Fri</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">26</span>
+						<span class="vbo-availability-weekday">Sat</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">27</span>
+						<span class="vbo-availability-weekday">Sun</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">28</span>
+						<span class="vbo-availability-weekday">Mon</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">29</span>
+						<span class="vbo-availability-weekday">Tue</span>
+					</td>
+										<td class="vbo-availability-month-day">
+						<span class="vbo-availability-daynumber">30</span>
+						<span class="vbo-availability-weekday">Wed</span>
+					</td>
+									</tr>
+				<tr class="vbo-availability-room-avdays">
+									<td class="vbo-occupied-cell" data-cell-date="01/06/2027" data-cell-ts="1811808000"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="02/06/2027" data-cell-ts="1811894400"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="03/06/2027" data-cell-ts="1811980800"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="04/06/2027" data-cell-ts="1812067200"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="05/06/2027" data-cell-ts="1812153600"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="06/06/2027" data-cell-ts="1812240000"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="07/06/2027" data-cell-ts="1812326400"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="08/06/2027" data-cell-ts="1812412800"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="09/06/2027" data-cell-ts="1812499200"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="10/06/2027" data-cell-ts="1812585600"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="11/06/2027" data-cell-ts="1812672000"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="12/06/2027" data-cell-ts="1812758400"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="13/06/2027" data-cell-ts="1812844800"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="14/06/2027" data-cell-ts="1812931200"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="15/06/2027" data-cell-ts="1813017600"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="16/06/2027" data-cell-ts="1813104000"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="17/06/2027" data-cell-ts="1813190400"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="18/06/2027" data-cell-ts="1813276800"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="19/06/2027" data-cell-ts="1813363200"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="20/06/2027" data-cell-ts="1813449600"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="21/06/2027" data-cell-ts="1813536000"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="22/06/2027" data-cell-ts="1813622400"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="23/06/2027" data-cell-ts="1813708800"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="24/06/2027" data-cell-ts="1813795200"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="25/06/2027" data-cell-ts="1813881600"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="26/06/2027" data-cell-ts="1813968000"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="27/06/2027" data-cell-ts="1814054400"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="28/06/2027" data-cell-ts="1814140800"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="29/06/2027" data-cell-ts="1814227200"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+										<td class="vbo-occupied-cell" data-cell-date="30/06/2027" data-cell-ts="1814313600"><span class="vbo-availability-day-container" data-units-booked="8" data-units-left="0">0</span></td>
+									</tr>
+			</table>
+		</div>
+	</div>
+	</div>
+
+<script type="text/javascript">
+jQuery(function() {
+	jQuery(".vbo-free-cell, .vbo-partially-cell").click(function() {
+		var idroom = jQuery(this).closest("table").attr("data-room-table");
+		var celldate = jQuery(this).attr("data-cell-date");
+		var cellts = jQuery(this).attr("data-cell-ts");
+		if (idroom.length && celldate.length && cellts.length) {
+			jQuery("#vbo-av-checkin-"+idroom).hide().find("span").text("");
+			if (jQuery("#vbo-av-btn-"+idroom).length) {
+				var btnlink = jQuery("#vbo-av-btn-"+idroom).attr("href");
+				if (jQuery(this).hasClass("vbo-cell-selected-arrival")) {
+					jQuery("#vbo-av-table-"+idroom).find("tr").find("td").removeClass("vbo-cell-selected-arrival");
+					jQuery("#vbo-av-checkin-"+idroom).fadeOut().find("span").text(celldate);
+					btnlink = btnlink.replace(/(checkin=)[^\&]+/, '$1' + "-1");
+				} else {
+					jQuery("#vbo-av-table-"+idroom).find("tr").find("td").removeClass("vbo-cell-selected-arrival");
+					jQuery(this).addClass("vbo-cell-selected-arrival");
+					jQuery("#vbo-av-checkin-"+idroom).fadeIn().find("span").text(celldate);
+					btnlink = btnlink.replace(/(checkin=)[^\&]+/, '$1' + cellts);
+				}
+				jQuery("#vbo-av-btn-"+idroom).attr("href", btnlink);
+			}
+		}
+	});
+});
+</script>
+
+</div>
+</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-8d28249 lte-background-black lte-parallax-yes lte-overlay-wrapper-semi-black e-con-full e-flex e-con e-parent" data-id="8d28249" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-395459f lte-heading-align-center lte-watermark-offset-1 elementor-widget elementor-widget-lte-header" data-id="395459f" data-element_type="widget" data-e-type="widget" data-widget_type="lte-header.default">
+				<div class="elementor-widget-container">
+					<div class="lte-heading lte-style-header-subheader lte-subcolor-gray heading-tag-h2 heading-subtag-h6"><div class="lte-heading-content"><h2 class="lte-header">Al rifugio Nuvolau <span>tutto è montagna</span>: <br />dalla roccia ruvida sulla quale sorge alla storia che custodisce</h2></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-78b12ba elementor-widget elementor-widget-lte-button" data-id="78b12ba" data-element_type="widget" data-e-type="widget" data-widget_type="lte-button.default">
+				<div class="elementor-widget-container">
+					<div class="lte-btn-wrap">
+	<a href="/dormire"  class="lte-btn btn-lg color-hover-main lte-icon-style-default"><span class="lte-btn-inner"><span class="lte-btn-before"></span>Prenota Ora<span class="lte-btn-after"></span></span></a></div>				</div>
+				</div>
+				</div>
+				</div>
+			</div>
+</article>
+            </div>
+        	        
+        </div>
+	</div>
+
+</div><div class="lte-footer-wrapper lte-footer-layout-default"><div class="footer-wrapper"><div class="lte-container"><div class="footer-block lte-footer-widget-area"><style id="elementor-post-46644">.elementor-46644 .elementor-element.elementor-element-cdec6cd{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:100px;--padding-bottom:60px;--padding-left:15px;--padding-right:15px;}.elementor-46644 .elementor-element.elementor-element-6100ddf{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-46644 .elementor-element.elementor-element-eb11ab1{width:var( --container-widget-width, 360px );max-width:360px;--container-widget-width:360px;--container-widget-flex-grow:0;}.elementor-46644 .elementor-element.elementor-element-eb11ab1 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-46644 .elementor-element.elementor-element-5548256{width:var( --container-widget-width, 360px );max-width:360px;--container-widget-width:360px;--container-widget-flex-grow:0;}.elementor-46644 .elementor-element.elementor-element-5548256 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-46644 .elementor-element.elementor-element-d598e79 .lte-btn{color:#FFFFFF;}.elementor-46644 .elementor-element.elementor-element-c219958 .elementor-repeater-item-6fc8768.elementor-social-icon{background-color:#FFFFFF;}.elementor-46644 .elementor-element.elementor-element-c219958 .elementor-repeater-item-6fc8768.elementor-social-icon i{color:#202236;}.elementor-46644 .elementor-element.elementor-element-c219958 .elementor-repeater-item-6fc8768.elementor-social-icon svg{fill:#202236;}.elementor-46644 .elementor-element.elementor-element-c219958 .elementor-repeater-item-4beed14.elementor-social-icon{background-color:#FFFFFF;}.elementor-46644 .elementor-element.elementor-element-c219958 .elementor-repeater-item-4beed14.elementor-social-icon i{color:#202236;}.elementor-46644 .elementor-element.elementor-element-c219958 .elementor-repeater-item-4beed14.elementor-social-icon svg{fill:#202236;}.elementor-46644 .elementor-element.elementor-element-c219958 .elementor-repeater-item-a41bf7c.elementor-social-icon{background-color:var( --e-global-color-524ee74 );}.elementor-46644 .elementor-element.elementor-element-c219958 .elementor-repeater-item-a41bf7c.elementor-social-icon i{color:#202236;}.elementor-46644 .elementor-element.elementor-element-c219958 .elementor-repeater-item-a41bf7c.elementor-social-icon svg{fill:#202236;}.elementor-46644 .elementor-element.elementor-element-c219958{--grid-template-columns:repeat(0, auto);--icon-size:15px;--grid-column-gap:16px;--grid-row-gap:0px;}.elementor-46644 .elementor-element.elementor-element-c219958 .elementor-widget-container{text-align:left;}.elementor-46644 .elementor-element.elementor-element-4c45308{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:20px 20px;--row-gap:20px;--column-gap:20px;}.elementor-46644 .elementor-element.elementor-element-452c504 > .elementor-widget-container{margin:0px 0px 20px 0px;}.elementor-46644 .elementor-element.elementor-element-452c504.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-46644 .elementor-element.elementor-element-3bf775f > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-46644 .elementor-element.elementor-element-3bf775f li{margin-bottom:14px;}.elementor-46644 .elementor-element.elementor-element-3bf775f{margin-top:-14px;}.elementor-46644 .elementor-element.elementor-element-3bf775f .lte-inner i{padding-top:2px;}.elementor-46644 .elementor-element.elementor-element-3bf775f .lte-inner i + .lte-icon-content{margin-left:16px !important;margin-inline-start:16px !important;margin-inline-end:0 !important;}.elementor-46644 .elementor-element.elementor-element-d65d4b5{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-46644 .elementor-element.elementor-element-920a45f > .elementor-widget-container{margin:0px 0px 20px 0px;}.elementor-46644 .elementor-element.elementor-element-920a45f.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-46644 .elementor-element.elementor-element-6f501b7{text-align:left;}.elementor-46644 .elementor-element.elementor-element-a1c221f{--divider-border-style:solid;--divider-color:#90A95852;--divider-border-width:1px;}.elementor-46644 .elementor-element.elementor-element-a1c221f .elementor-divider-separator{width:100%;}.elementor-46644 .elementor-element.elementor-element-a1c221f .elementor-divider{padding-block-start:2px;padding-block-end:2px;}.elementor-46644 .elementor-element.elementor-element-29a2032{font-size:14px;}.elementor-46644 .elementor-element.elementor-element-29a2032 a{color:#CCCCCC;}.elementor-46644 .elementor-element.elementor-element-29a2032 a:hover, .elementor-46644 .elementor-element.elementor-element-29a2032 a:focus{color:var( --e-global-color-1d9d5ee );}@media(min-width:768px){.elementor-46644 .elementor-element.elementor-element-6100ddf{--width:33%;}.elementor-46644 .elementor-element.elementor-element-4c45308{--width:33%;}.elementor-46644 .elementor-element.elementor-element-d65d4b5{--width:33%;}}@media(max-width:1199px) and (min-width:768px){.elementor-46644 .elementor-element.elementor-element-6100ddf{--width:33%;}.elementor-46644 .elementor-element.elementor-element-d65d4b5{--width:30%;}}@media(max-width:991px) and (min-width:768px){.elementor-46644 .elementor-element.elementor-element-4c45308{--width:50%;}.elementor-46644 .elementor-element.elementor-element-d65d4b5{--width:50%;}}@media(max-width:1199px){.elementor-46644 .elementor-element.elementor-element-cdec6cd{--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:flex-start;}.elementor-46644 .elementor-element.elementor-element-6100ddf{--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );}.elementor-46644 .elementor-element.elementor-element-eb11ab1{text-align:center;width:var( --container-widget-width, 640px );max-width:640px;--container-widget-width:640px;--container-widget-flex-grow:0;}.elementor-46644 .elementor-element.elementor-element-eb11ab1 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-46644 .elementor-element.elementor-element-eb11ab1.elementor-element{--align-self:center;}.elementor-46644 .elementor-element.elementor-element-eb11ab1 .lte-header{font-size:40px;}.elementor-46644 .elementor-element.elementor-element-5548256{text-align:center;width:var( --container-widget-width, 640px );max-width:640px;--container-widget-width:640px;--container-widget-flex-grow:0;}.elementor-46644 .elementor-element.elementor-element-5548256 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-46644 .elementor-element.elementor-element-5548256.elementor-element{--align-self:center;}.elementor-46644 .elementor-element.elementor-element-5548256 .lte-header{font-size:30px;}.elementor-46644 .elementor-element.elementor-element-452c504 > .elementor-widget-container{margin:0px 0px 12px 0px;}.elementor-46644 .elementor-element.elementor-element-452c504.elementor-element{--align-self:flex-start;}.elementor-46644 .elementor-element.elementor-element-3bf775f{width:var( --container-widget-width, 331px );max-width:331px;--container-widget-width:331px;--container-widget-flex-grow:0;}.elementor-46644 .elementor-element.elementor-element-d65d4b5{--justify-content:center;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );}.elementor-46644 .elementor-element.elementor-element-920a45f > .elementor-widget-container{margin:0px 0px 12px 0px;}.elementor-46644 .elementor-element.elementor-element-920a45f.elementor-element{--align-self:flex-start;}}@media(max-width:991px){.elementor-46644 .elementor-element.elementor-element-eb11ab1 .lte-header{font-size:26px;}.elementor-46644 .elementor-element.elementor-element-5548256 .lte-header{font-size:26px;}.elementor-46644 .elementor-element.elementor-element-4c45308{--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:flex-start;}.elementor-46644 .elementor-element.elementor-element-452c504.elementor-element{--align-self:flex-start;}.elementor-46644 .elementor-element.elementor-element-d65d4b5{--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:flex-start;}.elementor-46644 .elementor-element.elementor-element-920a45f{text-align:left;}.elementor-46644 .elementor-element.elementor-element-920a45f.elementor-element{--align-self:flex-start;}}@media(max-width:767px){.elementor-46644 .elementor-element.elementor-element-d598e79 > .elementor-widget-container{margin:15px 0px 15px 0px;}.elementor-46644 .elementor-element.elementor-element-452c504{text-align:left;}.elementor-46644 .elementor-element.elementor-element-452c504.elementor-element{--align-self:flex-start;}.elementor-46644 .elementor-element.elementor-element-920a45f{text-align:left;}.elementor-46644 .elementor-element.elementor-element-920a45f.elementor-element{--align-self:flex-start;}}</style>		<div data-elementor-type="wp-post" data-elementor-id="46644" class="elementor elementor-46644 elementor-29393">
+				<div class="elementor-element elementor-element-cdec6cd lte-background-black e-flex e-con-boxed e-con e-parent" data-id="cdec6cd" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-6100ddf e-con-full e-flex e-con e-child" data-id="6100ddf" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-eb11ab1 lte-heading-align-tablet-center elementor-widget__width-initial elementor-widget-tablet__width-initial lte-watermark-offset-true elementor-widget elementor-widget-lte-header" data-id="eb11ab1" data-element_type="widget" data-e-type="widget" data-widget_type="lte-header.default">
+				<div class="elementor-widget-container">
+					<div class="lte-heading lte-style-header-subheader heading-tag-h5 heading-subtag-h5"><div class="lte-heading-content"><h5 class="lte-header">Rifugio Nuvolau<br />
+</h5></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5548256 lte-heading-align-tablet-center elementor-widget__width-initial elementor-widget-tablet__width-initial lte-watermark-offset-true elementor-widget elementor-widget-lte-header" data-id="5548256" data-element_type="widget" data-e-type="widget" data-widget_type="lte-header.default">
+				<div class="elementor-widget-container">
+					<div class="lte-heading lte-style-header-subheader heading-tag-h5 heading-subtag-h5"><div class="lte-heading-content"><h5 class="lte-header">Authentic experience at 2,575 meters in the Dolomites of Cortina d'Ampezzo</h5></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d598e79 elementor-widget elementor-widget-lte-button" data-id="d598e79" data-element_type="widget" data-e-type="widget" data-widget_type="lte-button.default">
+				<div class="elementor-widget-container">
+					<div class="lte-btn-wrap">
+	<a href="/en/booking/"  class="lte-btn color-hover-black lte-icon-style-default"><span class="lte-btn-inner"><span class="lte-btn-before"></span>Bookings<span class="lte-btn-after"></span></span></a></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c219958 elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="c219958" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-pulse elementor-repeater-item-6fc8768" href="https://www.facebook.com/rifugio.nuvolau.2575/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i aria-hidden="true" class="fab fa-facebook"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-pulse elementor-repeater-item-4beed14" href="https://www.instagram.com/rifugio.nuvolau/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-pulse elementor-repeater-item-a41bf7c" href="https://www.youtube.com/@rifugionuvolau8867" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i aria-hidden="true" class="fab fa-youtube"></i>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4c45308 e-con-full e-flex e-con e-child" data-id="4c45308" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-452c504 lte-watermark-offset-true lte-heading-align-mobile-left elementor-widget elementor-widget-lte-header" data-id="452c504" data-element_type="widget" data-e-type="widget" data-widget_type="lte-header.default">
+				<div class="elementor-widget-container">
+					<div class="lte-heading lte-style-header-subheader lte-color-white lte-subcolor-second heading-tag-h5 heading-subtag-h6"><div class="lte-heading-content"><h5 class="lte-header">Contact us</h5></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3bf775f elementor-widget-tablet__width-initial lte-style-grid-disabled elementor-widget elementor-widget-lte-icons" data-id="3bf775f" data-element_type="widget" data-e-type="widget" data-widget_type="lte-icons.default">
+				<div class="elementor-widget-container">
+					<ul class="lte-block-icon icons-count-4 lte-icon-space-sm lte-icon-shape-default lte-icon-background-disabled lte-icon-grid-background-disabled lte-icon-color-main lte-icon-divider-disabled lte-icon-size-xsmall lte-header-color-default lte-icon-type-left lte-icon-align- lte-hover-animation-yes layout-cols1 lte-additional-"><li class="col-xl-12 col-xs-12"><a href="/cdn-cgi/l/email-protection#5930373f36192b303f2c3e3036372c2f3635382c77302d" class="lte-inner"><i aria-hidden="true" class="fab fa-telegram-plane"></i><span class="lte-icon-content"> <span class="lte-header lte-span"> <span class="__cf_email__" data-cfemail="92fbfcf4fdd2e0fbf4e7f5fbfdfce7e4fdfef3e7bcfbe6">[email&#160;protected]</span> </span> </span></a></li><li class="col-xl-12 col-xs-12"><a href="tel:+390436867938"   class="lte-inner"><i aria-hidden="true" class="fas fa-phone-alt"></i><span class="lte-icon-content"> <span class="lte-header lte-span"> +39 0436 867938 <br />(Active only during opening months!)<br />
+ </span> </span></a></li><li class="col-xl-12 col-xs-12"><a href="https://www.google.com/url?sa=t&#038;source=web&#038;rct=j&#038;opi=89978449&#038;url=/maps/place//data%3D!4m2!3m1!1s0x4778482b81e02a35:0x2639e7cbbdd1f22d%3Fsa%3DX%26ved%3D1t:8290%26ictx%3D111&#038;ved=2ahUKEwiNhr2M5a-OAxV2_7sIHX8GKP4Q4kB6BAgtEAM&#038;usg=AOvVaw1wRb10D8-upXBboTfbp5ej"   class="lte-inner"><i aria-hidden="true" class="icon icon-pin"></i><span class="lte-icon-content"> <span class="lte-header lte-span">  Monte Nuvolau, 32043 Cortina d'Ampezzo BL </span> </span></a></li><li class="col-xl-12 col-xs-12"><a href="/en/how-to-reach-us/"   class="lte-inner"><i aria-hidden="true" class="fas fa-walking"></i><span class="lte-icon-content"> <span class="lte-header lte-span"> How to reach us </span> </span></a></li></ul>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d65d4b5 e-con-full e-flex e-con e-child" data-id="d65d4b5" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-920a45f lte-watermark-offset-true lte-heading-align-mobile-left lte-heading-align-mobile_extra-left elementor-widget elementor-widget-lte-header" data-id="920a45f" data-element_type="widget" data-e-type="widget" data-widget_type="lte-header.default">
+				<div class="elementor-widget-container">
+					<div class="lte-heading lte-style-header-subheader lte-color-white lte-subcolor-second heading-tag-h5 heading-subtag-h6"><div class="lte-heading-content"><h5 class="lte-header">Sitemap</h5></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6f501b7 lte-navbar-align-left elementor-widget elementor-widget-lte-navmenu" data-id="6f501b7" data-element_type="widget" data-e-type="widget" data-widget_type="lte-navmenu.default">
+				<div class="elementor-widget-container">
+					<div class="lte-navmenu-sc"><div class="menu-main-menu-nuvolau-inglese-container"><ul id="menu-main-menu-nuvolau-inglese-2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46986"><a href="#">The Hut</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46624"><a href="#">Sleeping</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46630"><a href="#">More</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46635"><a href="https://rifugionuvolau.it/en/contact-us/">Contact Us</a></li>
+<li class="menu-item wpml-ls-slot-679 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-679-en"><a href="https://rifugionuvolau.it/en/availability/" aria-current="page"><img
+            class="wpml-ls-flag"
+            src="https://rifugionuvolau.it/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg"
+            alt=""
+            loading="lazy"
+            
+            
+    /><span class="wpml-ls-native" lang="en">EN</span></a></li>
+</ul></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-a1c221f elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a1c221f" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-29a2032 elementor-widget elementor-widget-text-editor" data-id="29a2032" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<a href="https://app.legalblink.it/api/documents/696919c3c95cff0023ef8d55/privacy-policy-per-siti-web-o-e-commerce-en" target="https://app.legalblink.it/api/documents/696919c3c95cff0023ef8d55/privacy-policy-per-siti-web-o-e-commerce-en"> Privacy Policy</a>| <a href="https://app.legalblink.it/api/documents/696919c3c95cff0023ef8d55/cookie-policy-en" target="https://app.legalblink.it/api/documents/696919c3c95cff0023ef8d55/cookie-policy-en">Cookie Policy</a> | <a href="https://app.legalblink.it/api/documents/696919c3c95cff0023ef8d55/termini-di-vendita-per-servizi-en" target="https://app.legalblink.it/api/documents/696919c3c95cff0023ef8d55/termini-di-vendita-per-servizi-en"> Booking conditions</a> | <a class="lb-cs-settings-link" href="#">Update your cookie preferences</a>								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</div></div></div>		<footer class="copyright-block copyright-layout-copyright-transparent">
+			<div class="container">
+	            Rifugio Nuvolau ©2026. All rights reserved | <a style="color: #eb3a91" href="https://brainlesslab.it/" target="_blank" rel="noopener">Credits</a>			</div>
+			<div class="lte-sparkle-fire-wrapper"><canvas id="lte-sparkle-fire-canvas"></canvas><canvas id="lte-sparkle-fire-buffer"></canvas></div>
+		</footer>
+		</div><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/en/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/milatte-child/*","/wp-content/themes/milatte/*","/en/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- HFCM by 99 Robots - Snippet # 1: Webcam -->
+<div id="popup-img">
+    <span id="close-popup">&times;</span>
+    <img src="https://www.montagnaitalia.it/webcam/original/nuvolau.jpg" id="popup-content">
+</div>
+<script>
+jQuery(document).ready(function($){
+    $('.menu-item-44782 a').click(function(e){
+        e.preventDefault();
+        var imgSrc = $(this).attr('href');
+        $('#popup-content').attr('src', imgSrc);
+
+        // Mostra il popup come flex per mantenere centrato
+        $('#popup-img').css('display', 'flex');
+    });
+
+    $('#close-popup, #popup-img').click(function(){
+        $('#popup-img').fadeOut();
+    });
+
+    // Previene la chiusura se clicchi sull'immagine stessa
+    $('#popup-content').click(function(e){
+        e.stopPropagation();
+    });
+});
+
+</script>
+
+<!-- /end HFCM by 99 Robots -->
+<!-- HFCM by 99 Robots - Snippet # 3: LegalBlink -->
+<script type="text/javascript" src="https://app.legalblink.it/api/scripts/lb_cs.js"></script>
+<script id="lb_cs" type="text/javascript">lb_cs("696919c3c95cff0023ef8d58");</script>
+<!-- /end HFCM by 99 Robots -->
+<a href="#" class="lte-go-top floating hidden-xs hidden-ms lte-go-top-img"><span class="go-top-header">go top</span></a><!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://rifugionuvolau.it/wp-admin/admin-ajax.php";
+</script>
+			<script>
+				( () => {
+					const lazyloadRunObserver = () => {
+						const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+						const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+							entries.forEach( ( entry ) => {
+								if ( entry.isIntersecting ) {
+									let lazyloadBackground = entry.target;
+									if( lazyloadBackground ) {
+										lazyloadBackground.classList.add( 'e-lazyloaded' );
+									}
+									lazyloadBackgroundObserver.unobserve( entry.target );
+								}
+							});
+						}, { rootMargin: '200px 0px 200px 0px' } );
+						lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+							lazyloadBackgroundObserver.observe( lazyloadBackground );
+						} );
+					};
+					const events = [
+						'DOMContentLoaded',
+						'elementor/lazyload/observe',
+					];
+					events.forEach( ( event ) => {
+						document.addEventListener( event, lazyloadRunObserver );
+					} );
+				} )();
+			</script>
+			<link rel='stylesheet' id='c2fb06929bc5dd8e76e19d30a3f31103-css' href='https://rifugionuvolau.it/wp-content/plugins/vikbooking/site/resources/fontawesome.min.css?ver=1.8.15' media='all' />
+<link rel='stylesheet' id='89ffd4f15b48206f13848f089fec5d20-css' href='https://rifugionuvolau.it/wp-content/plugins/vikbooking/site/resources/solid.min.css?ver=1.8.15' media='all' />
+<link rel='stylesheet' id='0036dd0d34c5fbfc818616b46b13d621-css' href='https://rifugionuvolau.it/wp-content/plugins/vikbooking/site/resources/regular.min.css?ver=1.8.15' media='all' />
+<link rel='stylesheet' id='vbo-style-css' href='https://rifugionuvolau.it/wp-content/plugins/vikbooking/site/resources/vikbooking_styles.css?ver=1.8.15' media='all' />
+<link rel='stylesheet' id='vbo-custom-style-css' href='https://rifugionuvolau.it/wp-content/plugins/vikbooking/site/resources/vikbooking_custom.css?ver=1.8.15' media='all' />
+<link rel='stylesheet' id='e-animation-pulse-css' href='https://rifugionuvolau.it/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://rifugionuvolau.it/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://rifugionuvolau.it/wp-content/uploads/elementor/css/custom-apple-webkit.min.css?ver=1793827969' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='https://rifugionuvolau.it/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.3.6' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://rifugionuvolau.it/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://rifugionuvolau.it/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://rifugionuvolau.it/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<script id="swiper-js" src="https://rifugionuvolau.it/wp-content/plugins/lte-ext/assets/js/swiper.min.js?ver=5.4.5"></script>
+<script id="lte-frontend-js-extra">
+var lte_mini_cart = {"ajax_url":"https://rifugionuvolau.it/wp-admin/admin-ajax.php","nonce":"04ae2a7c30"};
+//# sourceURL=lte-frontend-js-extra
+</script>
+<script id="lte-frontend-js" src="https://rifugionuvolau.it/wp-content/plugins/lte-ext/assets/js/frontend.js?ver=1.5.1"></script>
+<script id="lte-partners-js" src="https://rifugionuvolau.it/wp-content/plugins/lte-ext//elementor/shortcodes/partners/partners.js?ver=1.5.1"></script>
+<script id="ae-pro-js-js-extra">
+var aepro = {"ajaxurl":"https://rifugionuvolau.it/wp-admin/admin-ajax.php","current_url":"https%3A%2F%2Frifugionuvolau.it%2Fen%2Favailability%2F%3Fview%3Davailability%26%23038%3Bmonth%3D1811808000%26%23038%3Broom_ids%255B0%255D%3D4%26%23038%3Broom_ids%255B1%255D%3D6%26%23038%3Broom_ids%255B2%255D%3D8%26%23038%3Broom_ids%255B3%255D%3D5%26%23038%3Broom_ids%255B4%255D%3D7%2F","plugin_url":"https://rifugionuvolau.it/wp-content/plugins/anywhere-elementor-pro","queried_page":{"ID":47083,"page_type":"single"},"access_level":"1","aep_nonce":"8482c09182"};
+//# sourceURL=ae-pro-js-js-extra
+</script>
+<script id="ae-pro-js-js" src="https://rifugionuvolau.it/wp-content/plugins/anywhere-elementor/includes/assets/js/ae-pro.min.js?ver=1.3.1"></script>
+<script id="aep-build-js-extra">
+var aepro = {"ajaxurl":"https://rifugionuvolau.it/wp-admin/admin-ajax.php","current_url":"https%3A%2F%2Frifugionuvolau.it%2Fen%2Favailability%2F%3Fview%3Davailability%26%23038%3Bmonth%3D1811808000%26%23038%3Broom_ids%255B0%255D%3D4%26%23038%3Broom_ids%255B1%255D%3D6%26%23038%3Broom_ids%255B2%255D%3D8%26%23038%3Broom_ids%255B3%255D%3D5%26%23038%3Broom_ids%255B4%255D%3D7%2F","plugin_url":"https://rifugionuvolau.it/wp-content/plugins/anywhere-elementor-pro","queried_page":{"ID":47083,"page_type":"single"},"access_level":"1","aep_nonce":"8482c09182"};
+//# sourceURL=aep-build-js-extra
+</script>
+<script id="aep-build-js" src="https://rifugionuvolau.it/wp-content/plugins/anywhere-elementor/build/index.min.js?ver=1.3.1"></script>
+<script id="wp-hooks-js" src="https://rifugionuvolau.it/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255"></script>
+<script id="wp-i18n-js" src="https://rifugionuvolau.it/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="swv-js" src="https://rifugionuvolau.it/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.2.4.1"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/rifugionuvolau.it\/en\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script id="contact-form-7-js" src="https://rifugionuvolau.it/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.2.4.1"></script>
+<script id="wpascript-js" src="https://rifugionuvolau.it/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.4.02"></script>
+<script id="wpascript-js-after">
+wpa_field_info = JSON.parse(atob("eyJ3cGFfZmllbGRfbmFtZSI6InVub2J5azQ4NiIsIndwYV9maWVsZF92YWx1ZSI6NDk1MTg0LCJ3cGFfYWRkX3Rlc3QiOiJubyJ9"));
+//# sourceURL=wpascript-js-after
+</script>
+<script data-wp-strategy="async" id="cloudflare-turnstile-js" src="https://challenges.cloudflare.com/turnstile/v0/api.js"></script>
+<script id="cloudflare-turnstile-js-after">
+document.addEventListener( 'wpcf7submit', e => turnstile.reset() );
+//# sourceURL=cloudflare-turnstile-js-after
+</script>
+<script id="wp-statistics-tracker-js-extra">
+var WP_Statistics_Tracker_Object = {"requestUrl":"https://rifugionuvolau.it/en/wp-json/wp-statistics/v2","ajaxUrl":"https://rifugionuvolau.it/wp-admin/admin-ajax.php","hitParams":{"wp_statistics_hit":1,"source_type":"page","source_id":47083,"search_query":"","signature":"521fc30de9af14122ab917ebbe542b1d","endpoint":"hit"},"option":{"dntEnabled":false,"bypassAdBlockers":false,"consentIntegration":{"name":null,"status":[]},"isPreview":false,"userOnline":false,"isWpConsentApiActive":false},"isLegacyEventLoaded":"","customEventAjaxUrl":"https://rifugionuvolau.it/wp-admin/admin-ajax.php?action=wp_statistics_custom_event&nonce=53cba39553","onlineParams":{"wp_statistics_hit":1,"source_type":"page","source_id":47083,"search_query":"","signature":"521fc30de9af14122ab917ebbe542b1d","action":"wp_statistics_online_check"},"jsCheckTime":"60000"};
+//# sourceURL=wp-statistics-tracker-js-extra
+</script>
+<script id="wp-statistics-tracker-js" src="https://rifugionuvolau.it/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=14.16.13"></script>
+<script id="imagesloaded-js" src="https://rifugionuvolau.it/wp-includes/js/imagesloaded.min.js?ver=5.0.0"></script>
+<script id="masonry-js" src="https://rifugionuvolau.it/wp-includes/js/masonry.min.js?ver=4.2.2"></script>
+<script id="jquery-masonry-js" src="https://rifugionuvolau.it/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b"></script>
+<script id="matchheight-js" src="https://rifugionuvolau.it/wp-content/themes/milatte/assets/js/jquery.matchHeight.js?ver=7.1"></script>
+<script id="nicescroll-js" src="https://rifugionuvolau.it/wp-content/themes/milatte/assets/js/jquery.nicescroll.js?ver=3.7.6.0"></script>
+<script id="bootstrap-js" src="https://rifugionuvolau.it/wp-content/themes/milatte/assets/js/bootstrap.min.js?ver=4.1.3"></script>
+<script id="scrollreveal-js" src="https://rifugionuvolau.it/wp-content/themes/milatte/assets/js/scrollreveal.js?ver=3.3.4"></script>
+<script id="waypoint-js" src="https://rifugionuvolau.it/wp-content/themes/milatte/assets/js/waypoint.js?ver=1.6.2"></script>
+<script id="parallax-js" src="https://rifugionuvolau.it/wp-content/themes/milatte/assets/js/parallax.min.js?ver=1.1.3"></script>
+<script id="paroller-js" src="https://rifugionuvolau.it/wp-content/themes/milatte/assets/js/jquery.paroller.min.js?ver=3.1.1"></script>
+<script id="parallax-js-js" src="https://rifugionuvolau.it/wp-content/themes/milatte/assets/js/parallax-js.js?ver=3.1.0"></script>
+<script id="milatte-scripts-js" src="https://rifugionuvolau.it/wp-content/themes/milatte/assets/js/scripts.js?ver=1.0"></script>
+<script id="magnific-popup-js" src="https://rifugionuvolau.it/wp-content/themes/milatte/assets/js/jquery.magnific-popup.js?ver=1.1.0"></script>
+<script id="elementor-webpack-runtime-js" src="https://rifugionuvolau.it/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.6"></script>
+<script id="elementor-frontend-modules-js" src="https://rifugionuvolau.it/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.6"></script>
+<script id="jquery-ui-core-js-before">
+jQuery.uiBackCompat = true;
+//# sourceURL=jquery-ui-core-js-before
+</script>
+<script id="jquery-ui-core-js" src="https://rifugionuvolau.it/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnX":"Share on X","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1200,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":991,"default_value":880,"direction":"max","is_enabled":true},"tablet":{"label":"Tablet Portrait","value":1199,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1366,"default_value":1200,"direction":"max","is_enabled":true},"laptop":{"label":"Laptop","value":1599,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2200,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"4.3.6","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"container":true,"nested-elements":true,"import-export-customization":true},"urls":{"assets":"https:\/\/rifugionuvolau.it\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/rifugionuvolau.it\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/rifugionuvolau.it\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"32325f851d","atomicFormsSendForm":"c707f0c6d5"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"viewport_tablet":1199,"viewport_mobile":767,"active_breakpoints":["viewport_mobile","viewport_mobile_extra","viewport_tablet","viewport_tablet_extra","viewport_laptop","viewport_widescreen"],"viewport_mobile_extra":991,"viewport_laptop":1599,"viewport_widescreen":2200,"viewport_tablet_extra":1366,"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":47083,"title":"Availability%20-%20Rifugio%20Nuvolau","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script id="elementor-frontend-js" src="https://rifugionuvolau.it/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.6"></script>
+<script id="vbo-sys-script-js" src="https://rifugionuvolau.it/wp-content/plugins/vikbooking/admin/resources/js/system.js?ver=1.8.15"></script>
+<style type="text/css">
+:root {
+--vbo-pref-textcolor: #020303;
+--vbo-pref-bgcolor: #8fa958;
+--vbo-pref-bgcolorhov: #8fa958;
+--vbo-pref-fontcolorhov: #ffffff;
+}
+</style>
+<script type="text/javascript">
+(function($) {
+	$.ajaxSetup({
+		headers: {
+			'X-CSRF-Token': '6580b1b57a'
+		}
+	});
+})(jQuery);
+</script>
+<script type="application/json" class="joomla-options new">
+{"joomla.jtext":{"JGLOBAL_SELECT_AN_OPTION":"- Select an option -","CONNECTION_LOST":"Connection lost or the server is busy. Please try again later."}}
+</script>
+		<style id="wpml-ls-menu-a11y-css">.wpml-ls-submenu-dismissed .wpml-ls-dismissible-submenu{display:none !important}</style>
+		<script id="wpml-ls-menu-a11y-js">
+		(function() {
+			'use strict';
+			var linkSelector = 'a[aria-controls^="wpml-ls-submenu-"]';
+			var dismissed = 'wpml-ls-submenu-dismissed';
+			var dismissible = 'wpml-ls-dismissible-submenu';
+
+			function isEscape(e) {
+				return e.key === 'Escape' || e.key === 'Esc' || e.keyCode === 27;
+			}
+
+			function isShown(submenu) {
+				var style = window.getComputedStyle(submenu);
+				if (style.display === 'none' || style.visibility === 'hidden' || parseFloat(style.opacity) === 0) {
+					return false;
+				}
+				var box = submenu.getBoundingClientRect();
+				return box.width >= 2 && box.height >= 2 && box.right > 0 && box.left < document.documentElement.clientWidth;
+			}
+
+			function uniqueId(base, submenu) {
+				var id = base, n = 2, element = document.getElementById(id);
+				while (element && element !== submenu) {
+					id = base + '-' + n;
+					n++;
+					element = document.getElementById(id);
+				}
+				return id;
+			}
+
+			function findSubmenu(li) {
+				for (var child = li.firstElementChild; child; child = child.nextElementSibling) {
+					if (child.tagName === 'UL') {
+						return child;
+					}
+				}
+				return li.querySelector('ul');
+			}
+
+			function setUp(li, link) {
+				var submenu = findSubmenu(li);
+				if (!submenu) {
+					link.removeAttribute('aria-expanded');
+					link.removeAttribute('aria-controls');
+					link.removeAttribute('role');
+					return;
+				}
+				if (!submenu.id) {
+					submenu.id = uniqueId(link.getAttribute('aria-controls'), submenu);
+				}
+				link.setAttribute('aria-controls', submenu.id);
+				// The style hides this list (also when it is not a direct child of the item).
+				submenu.classList.add(dismissible);
+
+				var shownAtPointerDown = null;
+				var sync = function() {
+					var expanded = isShown(submenu) ? 'true' : 'false';
+					if (link.getAttribute('aria-expanded') !== expanded) {
+						link.setAttribute('aria-expanded', expanded);
+					}
+					// A theme script may (re)name the submenu after this set-up.
+					if (submenu.id && link.getAttribute('aria-controls') !== submenu.id) {
+						link.setAttribute('aria-controls', submenu.id);
+					}
+				};
+				// One pending measure per item: in the next frame, and 350 ms after the last event.
+				var frame = 0, timer = 0;
+				var syncSoon = function() {
+					if (!frame) {
+						frame = window.requestAnimationFrame(function() {
+							frame = 0;
+							sync();
+						});
+					}
+					window.clearTimeout(timer);
+					timer = window.setTimeout(function() {
+						timer = 0;
+						sync();
+					}, 350);
+				};
+				var toggle = function(wasShown) {
+					if (wasShown) {
+						li.classList.add(dismissed);
+					} else {
+						li.classList.remove(dismissed);
+						if (document.activeElement !== link) {
+							link.focus();
+						}
+					}
+					syncSoon();
+				};
+
+				link.addEventListener('pointerdown', function() {
+					shownAtPointerDown = isShown(submenu);
+				});
+				link.addEventListener('click', function(e) {
+					var handledByTheme = e.defaultPrevented;
+					var wasShown = shownAtPointerDown === null ? isShown(submenu) : shownAtPointerDown;
+					shownAtPointerDown = null;
+					e.preventDefault();
+					if (handledByTheme) {
+						// The theme opens and closes this submenu: it decides, not an earlier dismiss.
+						li.classList.remove(dismissed);
+						syncSoon();
+						return;
+					}
+					toggle(wasShown);
+				});
+				// Another control in the item (a theme's own arrow button) shows or hides the
+				// submenu: an earlier dismiss must not keep it hidden.
+				li.addEventListener('click', function(e) {
+					if (!link.contains(e.target) && !submenu.contains(e.target)) {
+						li.classList.remove(dismissed);
+						syncSoon();
+					}
+				});
+				link.addEventListener('keydown', function(e) {
+					if (e.key === 'Enter' || e.key === ' ' || e.key === 'Spacebar' || e.keyCode === 13 || e.keyCode === 32) {
+						e.preventDefault();
+						toggle(isShown(submenu));
+					}
+				});
+				li.addEventListener('keydown', function(e) {
+					if (isEscape(e) && isShown(submenu)) {
+						e.preventDefault();
+						li.classList.add(dismissed);
+						link.focus();
+						syncSoon();
+					}
+				});
+				li.addEventListener('focusin', syncSoon);
+				li.addEventListener('focusout', function(e) {
+					if ((!e.relatedTarget || !li.contains(e.relatedTarget)) && !li.matches(':hover')) {
+						li.classList.remove(dismissed);
+					}
+					syncSoon();
+				});
+				li.addEventListener('mouseenter', syncSoon);
+				li.addEventListener('mouseleave', function() {
+					if (!li.contains(document.activeElement)) {
+						li.classList.remove(dismissed);
+					}
+					syncSoon();
+				});
+				submenu.addEventListener('transitionend', sync);
+				if (window.MutationObserver) {
+					new MutationObserver(syncSoon).observe(li, { attributes: true, attributeFilter: ['class', 'style', 'hidden', 'aria-expanded', 'id'], subtree: true });
+				}
+				sync();
+				syncSoon();
+			}
+
+			function init() {
+				var links = document.querySelectorAll('li.wpml-ls-menu-item ' + linkSelector);
+				for (var i = 0; i < links.length; i++) {
+					var li = links[i].closest('li.wpml-ls-menu-item');
+					if (li && !li.wpmlLsMenuA11y) {
+						li.wpmlLsMenuA11y = true;
+						setUp(li, links[i]);
+					}
+				}
+			}
+
+			if (document.readyState === 'loading') {
+				document.addEventListener('DOMContentLoaded', init);
+			} else {
+				init();
+			}
+		})();
+		</script>
+		<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a568b1345a169e4c',t:'MTc5NDAxNjI3OQ=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a568b1345a169e4c',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

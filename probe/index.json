@@ -1,56 +1,32 @@
 [
  {
-  "name": "av_hotel",
+  "name": "nuv_jun27_post",
   "status": 200,
-  "bytes": 184222,
-  "url": "https://rifugioaverau.bukly.com/hotel/2027-06-24/2027-06-25"
- },
- {
-  "name": "av_itit_hotel",
-  "status": 200,
-  "bytes": 184222,
-  "url": "https://rifugioaverau.bukly.com/it-it/hotel/2027-06-24/2027-06-25"
- },
- {
-  "name": "av_view_id",
-  "status": 200,
-  "bytes": 184233,
-  "url": "https://rifugioaverau.bukly.com/d/hotel_view/3312/2027-06-24/2027-06-25",
-  "headers": {
-   "Accept": "application/json",
-   "X-Requested-With": "XMLHttpRequest"
+  "bytes": 183668,
+  "url": "https://rifugionuvolau.it/en/availability/?view=availability&room_ids%5B0%5D=4&room_ids%5B1%5D=6&room_ids%5B2%5D=8&room_ids%5B3%5D=5&room_ids%5B4%5D=7",
+  "method": "POST",
+  "data": {
+   "month": "1811808000",
+   "room_ids[]": [
+    "4",
+    "6",
+    "8",
+    "5",
+    "7"
+   ],
+   "showtype": "2"
   }
  },
  {
-  "name": "av_view_slug",
-  "status": 422,
-  "bytes": 122,
-  "url": "https://rifugioaverau.bukly.com/d/hotel_view/rifugioaverau/2027-06-24/2027-06-25",
-  "headers": {
-   "Accept": "application/json",
-   "X-Requested-With": "XMLHttpRequest"
-  }
+  "name": "nuv_jun27_get",
+  "status": 200,
+  "bytes": 183728,
+  "url": "https://rifugionuvolau.it/en/availability/?view=availability&month=1811808000&room_ids%5B0%5D=4&room_ids%5B1%5D=6&room_ids%5B2%5D=8&room_ids%5B3%5D=5&room_ids%5B4%5D=7"
  },
  {
-  "name": "av_view_dec",
+  "name": "nuv_roomdetails",
   "status": 200,
-  "bytes": 184233,
-  "url": "https://rifugioaverau.bukly.com/d/hotel_view/3312/2026-12-20/2026-12-21",
-  "headers": {
-   "Accept": "application/json",
-   "X-Requested-With": "XMLHttpRequest"
-  }
- },
- {
-  "name": "av_hotel_dec",
-  "status": 200,
-  "bytes": 184222,
-  "url": "https://rifugioaverau.bukly.com/hotel/2026-12-20/2026-12-21"
- },
- {
-  "name": "av_index_js",
-  "status": 200,
-  "bytes": 64216,
-  "url": "https://rifugioaverau.bukly.com/build/assets/Index-BzzCAaoM.js"
+  "bytes": 127705,
+  "url": "https://rifugionuvolau.it/en/availability/?view=roomdetails&roomid=8&checkin=1813708800"
  }
 ]
