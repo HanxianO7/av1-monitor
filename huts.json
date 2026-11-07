@@ -52,19 +52,6 @@
    "watch_banner": "APERTURA PRENOTAZIONI"
   },
   {
-   "id": "lavarella",
-   "name": "Lavarella",
-   "night": "2027-06-22",
-   "role": "preferred",
-   "check": "page",
-   "pages": [
-    "https://lavarella.it/",
-    "https://lavarella.it/en/book-online"
-   ],
-   "book_url": "https://lavarella.it/en/book-online",
-   "stated": "Summer bookings open early November 2026 (per Lavarella's reply)"
-  },
-  {
    "id": "muntagnoles",
    "name": "Ücia dles Muntagnoles",
    "night": "2027-06-22",
