@@ -36,7 +36,12 @@
     "https://www.sennes.com/en/contact/"
    ],
    "book_url": "https://www.sennes.com/en/contact/",
-   "stated": "Summer bookings open 4 Nov 2026, possibly earlier (per Sennes' reply)"
+   "stated": "Summer bookings open 4 Nov 2026, possibly earlier (per Sennes' reply)",
+   "booked": {
+    "plan": "A",
+    "note": "Booked for Mon 21 Jun 2027 - checks and alerts stopped",
+    "confirmed": true
+   }
   },
   {
    "id": "biella",
@@ -198,7 +203,12 @@
     "https://www.rifugiosommarivaalpramperet.it/rifugio.asp"
    ],
    "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-   "alert_changes": true
+   "alert_changes": true,
+   "booked": {
+    "plan": "A",
+    "note": "Booked for Tue 29 Jun 2027 - checks and alerts stopped",
+    "confirmed": true
+   }
   },
   {
    "id": "piandefontana",
