@@ -4,7 +4,7 @@
   "detail": "Booked for Mon 21 Jun 2027 - checks and alerts stopped",
   "probe_url": "",
   "link": "https://www.sennes.com/en/contact/",
-  "checked": "2026-11-12T07:05:24.425978+00:00",
+  "checked": "2026-11-12T08:05:16.125782+00:00",
   "since": "2026-11-12T05:05:15.079714+00:00",
   "errors": 0,
   "alerted": null
@@ -14,7 +14,7 @@
   "detail": "Booked for Tue 22 Jun 2027 - checks and alerts stopped",
   "probe_url": "",
   "link": "https://muntagnoles.com/index.php/it/info-prenotazioni",
-  "checked": "2026-11-12T07:05:24.425978+00:00",
+  "checked": "2026-11-12T08:05:16.125782+00:00",
   "since": "2026-11-07T05:05:16.011199+00:00",
   "errors": 0,
   "alerted": null
@@ -25,7 +25,7 @@
   "status": "LIVE - your night full",
   "detail": "portal live, your night full",
   "probe_url": "https://rifugiolagazuoi.com/EN/prenotazione1.php",
-  "checked": "2026-11-12T07:05:24.425978+00:00",
+  "checked": "2026-11-12T08:05:16.125782+00:00",
   "since": "2026-11-11T18:05:17.039365+00:00",
   "errors": 0,
   "alerted": null
@@ -35,7 +35,7 @@
   "detail": "Booked for Wed 23 Jun 2027 - checks and alerts stopped",
   "probe_url": "",
   "link": "https://scotoni.bukly.com/it",
-  "checked": "2026-11-12T07:05:24.425978+00:00",
+  "checked": "2026-11-12T08:05:16.125782+00:00",
   "since": "2026-10-20T07:05:14.284938+00:00",
   "errors": 0,
   "alerted": null
@@ -44,9 +44,9 @@
   "link": "https://rifugionuvolau.it/en/availability/",
   "dated_link": "https://rifugionuvolau.it/en/availability/?view=availability&month=1811808000&room_ids%5B0%5D=4&room_ids%5B1%5D=6&room_ids%5B2%5D=8&room_ids%5B3%5D=5&room_ids%5B4%5D=7",
   "status": "NOT LIVE YET",
-  "detail": "all nights closed in 2027-06, 2027-08",
+  "detail": "all nights closed in 2027-06, 2027-09",
   "probe_url": "https://rifugionuvolau.it/en/availability/?view=availability&month=1811808000&room_ids%5B0%5D=4&room_ids%5B1%5D=6&room_ids%5B2%5D=8&room_ids%5B3%5D=5&room_ids%5B4%5D=7",
-  "checked": "2026-11-12T07:05:24.425978+00:00",
+  "checked": "2026-11-12T08:05:16.125782+00:00",
   "since": "2026-11-07T05:05:16.011199+00:00",
   "errors": 0,
   "alerted": null
@@ -58,7 +58,7 @@
   "status": "LIVE - your night full",
   "detail": "2027 calendar live (79 nights open), your night closed",
   "probe_url": "https://rifugioaverau.bukly.com/hotel/2027-06-24/2027-06-25",
-  "checked": "2026-11-12T07:05:24.425978+00:00",
+  "checked": "2026-11-12T08:05:16.125782+00:00",
   "since": "2026-11-05T13:05:18.058018+00:00",
   "errors": 0,
   "alerted": "2026-11-05T13:05:18.058018+00:00"
@@ -68,7 +68,7 @@
   "detail": "Booked for Fri 25 Jun 2027 - checks and alerts stopped",
   "probe_url": "",
   "link": "https://rifugiocittadifiume.it/prenota/",
-  "checked": "2026-11-12T07:05:24.425978+00:00",
+  "checked": "2026-11-12T08:05:16.125782+00:00",
   "since": "2026-11-03T11:37:19.528603+00:00",
   "errors": 0,
   "alerted": null
@@ -78,7 +78,7 @@
   "detail": "Booked for Sat 26 Jun 2027 (moved from 25 Jun) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://rifugiocoldai.com/Booking/index_en.php",
-  "checked": "2026-11-12T07:05:24.425978+00:00",
+  "checked": "2026-11-12T08:05:16.125782+00:00",
   "since": "2026-11-01T13:39:31.115768+00:00",
   "errors": 0,
   "alerted": null
@@ -88,7 +88,7 @@
   "detail": "Booked for Sun 27 Jun 2027 (moved from 26 Jun) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://rifugiovazzoler.com/Booking/index.php",
-  "checked": "2026-11-12T07:05:24.425978+00:00",
+  "checked": "2026-11-12T08:05:16.125782+00:00",
   "since": "2026-11-01T13:39:31.115768+00:00",
   "errors": 0,
   "alerted": "2026-11-01T13:39:31.115768+00:00"
@@ -98,7 +98,7 @@
   "detail": "Booked for Mon 28 Jun 2027 (moved from 27 Jun) - checks and alerts stopped",
   "probe_url": "",
   "link": "https://rifugiopassoduran.it/booking/index_en.php",
-  "checked": "2026-11-12T07:05:24.425978+00:00",
+  "checked": "2026-11-12T08:05:16.125782+00:00",
   "since": "2026-11-03T03:05:14.686438+00:00",
   "errors": 0,
   "alerted": null
@@ -108,7 +108,7 @@
   "detail": "Booked for Tue 29 Jun 2027 - checks and alerts stopped",
   "probe_url": "",
   "link": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-  "checked": "2026-11-12T07:05:24.425978+00:00",
+  "checked": "2026-11-12T08:05:16.125782+00:00",
   "since": "2026-11-12T05:05:15.079714+00:00",
   "errors": 0,
   "alerted": null
@@ -131,7 +131,7 @@
   "detail": "no booking-text change",
   "changed": false,
   "probe_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5942",
-  "checked": "2026-11-12T07:05:24.425978+00:00",
+  "checked": "2026-11-12T08:05:16.125782+00:00",
   "since": "2026-11-02T03:05:17.536953+00:00",
   "errors": 0,
   "alerted": null
