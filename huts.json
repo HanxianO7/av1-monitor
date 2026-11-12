@@ -36,20 +36,12 @@
     "https://www.sennes.com/en/contact/"
    ],
    "book_url": "https://www.sennes.com/en/contact/",
-   "stated": "Summer bookings open 4 Nov 2026, possibly earlier (per Sennes' reply)"
-  },
-  {
-   "id": "biella",
-   "name": "Biella",
-   "night": "2027-06-21",
-   "role": "backup",
-   "check": "page",
-   "pages": [
-    "https://rifugiobiella.it/",
-    "https://www.planyo.com/booking.php?calendar=67368&mode=resource_list&planyo_lang=EN"
-   ],
-   "book_url": "https://www.planyo.com/booking/Rifugio-Biella",
-   "watch_banner": "APERTURA PRENOTAZIONI"
+   "stated": "Summer bookings open 4 Nov 2026, possibly earlier (per Sennes' reply)",
+   "booked": {
+    "plan": "A",
+    "note": "Booked for Mon 21 Jun 2027 - checks and alerts stopped",
+    "confirmed": true
+   }
   },
   {
    "id": "muntagnoles",
@@ -198,7 +190,12 @@
     "https://www.rifugiosommarivaalpramperet.it/rifugio.asp"
    ],
    "book_url": "https://www.prenotarifugi.cai.it/dettaglio/?id=5925",
-   "alert_changes": true
+   "alert_changes": true,
+   "booked": {
+    "plan": "A",
+    "note": "Booked for Tue 29 Jun 2027 - checks and alerts stopped",
+    "confirmed": true
+   }
   },
   {
    "id": "piandefontana",
