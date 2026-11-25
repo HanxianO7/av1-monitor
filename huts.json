@@ -63,17 +63,6 @@
    }
   },
   {
-   "id": "lagazuoi",
-   "name": "Lagazuoi",
-   "night": "2027-06-23",
-   "role": "preferred",
-   "check": "engine",
-   "endpoints": [
-    "https://rifugiolagazuoi.com/EN/prenotazione1.php"
-   ],
-   "book_url": "https://rifugiolagazuoi.com/index_en.php"
-  },
-  {
    "id": "scotoni",
    "name": "Scotoni",
    "night": "2027-06-23",

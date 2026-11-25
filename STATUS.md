@@ -10,7 +10,6 @@ Trip: 2 guests · dorm only · half board
 |---|---|---|---|---|
 | ✅ [Sennes](https://www.sennes.com/en/contact/) | preferred | 21 Jun | **BOOKED** | Booked for Mon 21 Jun 2027 - checks and alerts stopped |
 | ✅ [Ücia dles Muntagnoles](https://muntagnoles.com/index.php/it/info-prenotazioni) | backup | 22 Jun | **BOOKED** | Booked for Tue 22 Jun 2027 - checks and alerts stopped |
-| [Lagazuoi](https://rifugiolagazuoi.com/index_en.php) | preferred | 23 Jun | **LIVE - your night full** | portal live, your night full |
 | ✅ [Scotoni](https://scotoni.bukly.com/it) | backup | 23 Jun | **BOOKED** | Booked for Wed 23 Jun 2027 - checks and alerts stopped |
 | [Nuvolau](https://rifugionuvolau.it/en/availability/) | preferred | [24 Jun](https://rifugionuvolau.it/en/availability/?view=availability&month=1811808000&room_ids%5B0%5D=4&room_ids%5B1%5D=6&room_ids%5B2%5D=8&room_ids%5B3%5D=5&room_ids%5B4%5D=7) | **NOT LIVE YET** | all nights closed in 2027-06, 2027-08 |
 | [Averau](https://rifugioaverau.bukly.com/) | backup | [24 Jun](https://rifugioaverau.bukly.com/hotel/2027-06-24/2027-06-25) | **LIVE - your night full** | 2027 calendar live (79 nights open), your night closed |
