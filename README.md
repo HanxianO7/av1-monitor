@@ -1,10 +1,11 @@
 # Alta Via 1 rifugio monitor
 
-Checks your huts every 4 hours on GitHub (free) and messages you on Telegram **only** when:
+Checks your huts every hour on GitHub (free) and messages you on Telegram **only** when:
 
 - 🟢 dorm beds for 2 appear on your night (Lagazuoi, Nuvolau)
 - 🔵 Nuvolau's 2027 calendar goes live, even if your night is full
-- 🟢 Scotoni or Averau show rooms on your night (you check if they're dorm beds)
+- 🟢 Averau shows rooms on your night (you check if they're dorm beds)
+- 📢 Biella's booking banner changes, or Pramperet / Pian de Fontana booking text changes
 - 🟡 a hut page says 2027 bookings are open (page-watch huts)
 - ⚠️ a check has failed 3 runs in a row (so it never dies silently)
 
@@ -40,4 +41,4 @@ That's it. It stops by itself after 28 Jun 2027 (you can also disable it under A
 | `huts[].alert_changes` | not set | `true`: alert on any booking-text change for this hut only (like `alerts.page_changes`) |
 | `huts[].alert_live` | not set | `true`: alert this hut's portal opening even if your night is full (like `alerts.portal_live`) |
 
-To change frequency, edit the `cron` line in `.github/workflows/monitor.yml`.
+Runs are started hourly (at :05 UTC) by an external trigger calling the workflow's `workflow_dispatch`; `monitor.yml` has no `cron` schedule. To change frequency, change that trigger. Booked huts (`huts[].booked`) are shown as ✅ and get no checks or alerts.
